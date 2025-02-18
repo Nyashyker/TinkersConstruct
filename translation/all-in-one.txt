@@ -3,176 +3,176 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 {
   "_comment": "Tinkers Common",
 
-  "block.tconstruct.sky_slime": "Skyslime Block",
-  "block.tconstruct.sky_slime.tooltip": "Sticks to both slime and honey",
-  "block.tconstruct.ichor_slime": "Ichor Block",
-  "block.tconstruct.ichor_slime.tooltip": "Sticks all sticky blocks besides ichor",
-  "block.tconstruct.ender_slime": "Enderslime Block",
-  "block.tconstruct.ender_slime.tooltip": "Sticks when pushed, but not when adjacent to a sticky block",
+  "block.tconstruct.sky_slime": "Блок небослизу",
+  "block.tconstruct.sky_slime.tooltip": "Липне як до слизу, так і до меду",
+  "block.tconstruct.ichor_slime": "Блок іхору",
+  "block.tconstruct.ichor_slime.tooltip": "Липне до всього липкого, крім самого іхору",
+  "block.tconstruct.ender_slime": "Блок ендерслизу",
+  "block.tconstruct.ender_slime.tooltip": "Липкий, якщо штовхати, але не з липкими блоками",
 
-  "block.tconstruct.earth_congealed_slime": "Congealed Slime Block",
-  "block.tconstruct.earth_congealed_slime.tooltip": "Lets you jump really high",
-  "block.tconstruct.sky_congealed_slime": "Congealed Skyslime Block",
-  "block.tconstruct.sky_congealed_slime.tooltip": "Lets you jump really high",
-  "block.tconstruct.ender_congealed_slime": "Congealed Enderslime Block",
-  "block.tconstruct.ender_congealed_slime.tooltip": "Lets you jump really high",
-  "block.tconstruct.ichor_congealed_slime": "Congealed Ichor",
-  "block.tconstruct.ichor_congealed_slime.tooltip": "Lets you jump really high",
+  "block.tconstruct.earth_congealed_slime": "Застиглий блок слизу",
+  "block.tconstruct.earth_congealed_slime.tooltip": "Підкидує дуже високо",
+  "block.tconstruct.sky_congealed_slime": "Застиглий блок небослизу",
+  "block.tconstruct.sky_congealed_slime.tooltip": "Підкидує дуже високо",
+  "block.tconstruct.ender_congealed_slime": "Застиглий блок ендерслизу",
+  "block.tconstruct.ender_congealed_slime.tooltip": "Підкидує дуже високо",
+  "block.tconstruct.ichor_congealed_slime": "Застиглий іхор",
+  "block.tconstruct.ichor_congealed_slime.tooltip": "Підкидує дуже високо",
 
-  "block.tconstruct.mud_bricks": "Mud Bricks",
-  "block.tconstruct.mud_bricks_slab": "Mud Bricks Slab",
-  "block.tconstruct.mud_bricks_stairs": "Mud Bricks Stairs",
+  "block.tconstruct.mud_bricks": "Багниста цегла",
+  "block.tconstruct.mud_bricks_slab": "Багниста цегляна плита",
+  "block.tconstruct.mud_bricks_stairs": "Багнисті цегляні сходи",
 
-  "block.tconstruct.blazewood": "Blazewood",
-  "block.tconstruct.blazewood_slab": "Blazewood Slab",
-  "block.tconstruct.blazewood_stairs": "Blazewood Stairs",
-  "block.tconstruct.blazewood_fence": "Blazewood Fence",
+  "block.tconstruct.blazewood": "Пломенедерево",
+  "block.tconstruct.blazewood_slab": "Пломенедерев'яна плита",
+  "block.tconstruct.blazewood_stairs": "Пломенедерев'яні сходи",
+  "block.tconstruct.blazewood_fence": "Пломенедерев'яний паркан",
 
-  "block.tconstruct.nahuatl": "Nahuatl Planks",
-  "block.tconstruct.nahuatl_slab": "Nahuatl Slab",
-  "block.tconstruct.nahuatl_stairs": "Nahuatl Stairs",
-  "block.tconstruct.nahuatl_fence": "Nahuatl Fence",
+  "block.tconstruct.nahuatl": "Ацтеські дошки",
+  "block.tconstruct.nahuatl_slab": "Ацтеська плита",
+  "block.tconstruct.nahuatl_stairs": "Ацтеські сходи",
+  "block.tconstruct.nahuatl_fence": "Ацтеський паркан",
 
-  "block.tconstruct.clear_glass": "Clear Glass",
-  "block.tconstruct.clear_glass_pane": "Clear Glass Pane",
-  "block.tconstruct.clear_tinted_glass": "Tinted Clear Glass",
+  "block.tconstruct.clear_glass": "Чисте скло",
+  "block.tconstruct.clear_glass_pane": "Чиста шибка",
+  "block.tconstruct.clear_tinted_glass": "Тоноване чисте скло",
 
-  "block.tconstruct.obsidian_pane": "Obsidian Pane",
-  "block.tconstruct.gold_bars": "Gold Bars",
-  "block.tconstruct.gold_bars.tooltip": "Acts as a empty cast in casting tables",
+  "block.tconstruct.obsidian_pane": "Обсидіанова шибка",
+  "block.tconstruct.gold_bars": "Золоті ґрати",
+  "block.tconstruct.gold_bars.tooltip": "Слугує порожньою формою в ливарському столі",
   
-  "block.tconstruct.gold_platform": "Gold Platform",
-  "block.tconstruct.gold_platform.tooltip": "Acts as a empty cast in casting basins",
-  "block.tconstruct.iron_platform": "Iron Platform",
-  "block.tconstruct.cobalt_platform": "Cobalt Platform",
+  "block.tconstruct.gold_platform": "Залота платформа",
+  "block.tconstruct.gold_platform.tooltip": "Слугує порожньою формою в ливарському столі",
+  "block.tconstruct.iron_platform": "Залізна платформа",
+  "block.tconstruct.cobalt_platform": "Кобальтова платформа",
   
-  "block.tconstruct.copper_platform":           "Copper Platform",
-  "block.tconstruct.exposed_copper_platform":   "Exposed Copper Platform",
-  "block.tconstruct.weathered_copper_platform": "Weathered Copper Platform",
-  "block.tconstruct.oxidized_copper_platform":  "Oxidized Copper Platform",
+  "block.tconstruct.copper_platform":           "Мідна платформа",
+  "block.tconstruct.exposed_copper_platform":   "Наражена мідна платформа",
+  "block.tconstruct.weathered_copper_platform": "Вивітрина мідна платформа",
+  "block.tconstruct.oxidized_copper_platform":  "Окиснена мідна платформа",
   
-  "block.tconstruct.waxed_copper_platform":           "Waxed Copper Platform",
-  "block.tconstruct.waxed_exposed_copper_platform":   "Waxed Exposed Copper Platform",
-  "block.tconstruct.waxed_weathered_copper_platform": "Waxed Weathered Copper Platform",
-  "block.tconstruct.waxed_oxidized_copper_platform":  "Waxed Oxidized Copper Platform",
+  "block.tconstruct.waxed_copper_platform":           "Вощена мідна платформа",
+  "block.tconstruct.waxed_exposed_copper_platform":   "Вощена наражена мідна платформа",
+  "block.tconstruct.waxed_weathered_copper_platform": "Вощена вивітрена мідна платформа",
+  "block.tconstruct.waxed_oxidized_copper_platform":  "Вощена окиснена мідна платформа",
 
-  "block.tconstruct.white_clear_stained_glass": "Clear White Stained Glass",
-  "block.tconstruct.orange_clear_stained_glass": "Clear Orange Stained Glass",
-  "block.tconstruct.magenta_clear_stained_glass": "Clear Magenta Stained Glass",
-  "block.tconstruct.light_blue_clear_stained_glass": "Clear Light Blue Stained Glass",
-  "block.tconstruct.yellow_clear_stained_glass": "Clear Yellow Stained Glass",
-  "block.tconstruct.lime_clear_stained_glass": "Clear Lime Stained Glass",
-  "block.tconstruct.pink_clear_stained_glass": "Clear Pink Stained Glass",
-  "block.tconstruct.gray_clear_stained_glass": "Clear Gray Stained Glass",
-  "block.tconstruct.light_gray_clear_stained_glass": "Clear Light Gray Stained Glass",
-  "block.tconstruct.cyan_clear_stained_glass": "Clear Cyan Stained Glass",
-  "block.tconstruct.purple_clear_stained_glass": "Clear Purple Stained Glass",
-  "block.tconstruct.blue_clear_stained_glass": "Clear Blue Stained Glass",
-  "block.tconstruct.brown_clear_stained_glass": "Clear Brown Stained Glass",
-  "block.tconstruct.green_clear_stained_glass": "Clear Green Stained Glass",
-  "block.tconstruct.red_clear_stained_glass": "Clear Red Stained Glass",
-  "block.tconstruct.black_clear_stained_glass": "Clear Black Stained Glass",
+  "block.tconstruct.white_clear_stained_glass": "Чисте біле скло",
+  "block.tconstruct.orange_clear_stained_glass": "Чисте помаранчеве скло",
+  "block.tconstruct.magenta_clear_stained_glass": "Чисте пурпурове скло",
+  "block.tconstruct.light_blue_clear_stained_glass": "Чисте блакитне скло",
+  "block.tconstruct.yellow_clear_stained_glass": "Чисте жовте скло",
+  "block.tconstruct.lime_clear_stained_glass": "Чисте лаймове скло",
+  "block.tconstruct.pink_clear_stained_glass": "Чисте рожеве скло",
+  "block.tconstruct.gray_clear_stained_glass": "Чисте сіре скло",
+  "block.tconstruct.light_gray_clear_stained_glass": "Чисте світло-сіре скло",
+  "block.tconstruct.cyan_clear_stained_glass": "Чисте бірюзове скло",
+  "block.tconstruct.purple_clear_stained_glass": "Чисте фіолетове скло",
+  "block.tconstruct.blue_clear_stained_glass": "Чисте синє скло",
+  "block.tconstruct.brown_clear_stained_glass": "Чисте коричневе скло",
+  "block.tconstruct.green_clear_stained_glass": "Чисте зелене скло",
+  "block.tconstruct.red_clear_stained_glass": "Чисте червоне скло",
+  "block.tconstruct.black_clear_stained_glass": "Чисте чорне скло",
 
-  "block.tconstruct.white_clear_stained_glass_pane": "Clear White Stained Glass Pane",
-  "block.tconstruct.orange_clear_stained_glass_pane": "Clear Orange Stained Glass Pane",
-  "block.tconstruct.magenta_clear_stained_glass_pane": "Clear Magenta Stained Glass Pane",
-  "block.tconstruct.light_blue_clear_stained_glass_pane": "Clear Light Blue Stained Glass Pane",
-  "block.tconstruct.yellow_clear_stained_glass_pane": "Clear Yellow Stained Glass Pane",
-  "block.tconstruct.lime_clear_stained_glass_pane": "Clear Lime Stained Glass Pane",
-  "block.tconstruct.pink_clear_stained_glass_pane": "Clear Pink Stained Glass Pane",
-  "block.tconstruct.gray_clear_stained_glass_pane": "Clear Gray Stained Glass Pane",
-  "block.tconstruct.light_gray_clear_stained_glass_pane": "Clear Light Gray Stained Glass Pane",
-  "block.tconstruct.cyan_clear_stained_glass_pane": "Clear Cyan Stained Glass Pane",
-  "block.tconstruct.purple_clear_stained_glass_pane": "Clear Purple Stained Glass Pane",
-  "block.tconstruct.blue_clear_stained_glass_pane": "Clear Blue Stained Glass Pane",
-  "block.tconstruct.brown_clear_stained_glass_pane": "Clear Brown Stained Glass Pane",
-  "block.tconstruct.green_clear_stained_glass_pane": "Clear Green Stained Glass Pane",
-  "block.tconstruct.red_clear_stained_glass_pane": "Clear Red Stained Glass Pane",
-  "block.tconstruct.black_clear_stained_glass_pane": "Clear Black Stained Glass Pane",
+  "block.tconstruct.white_clear_stained_glass_pane": "Чиста біла шибка",
+  "block.tconstruct.orange_clear_stained_glass_pane": "Чиста помаранчева шибка",
+  "block.tconstruct.magenta_clear_stained_glass_pane": "Чиста пурпурова шибка",
+  "block.tconstruct.light_blue_clear_stained_glass_pane": "Чиста блакитна шибка",
+  "block.tconstruct.yellow_clear_stained_glass_pane": "Чиста жовта шибка",
+  "block.tconstruct.lime_clear_stained_glass_pane": "Чиста лаймова шибка",
+  "block.tconstruct.pink_clear_stained_glass_pane": "Чиста рожева шибка",
+  "block.tconstruct.gray_clear_stained_glass_pane": "Чиста сіра шибка",
+  "block.tconstruct.light_gray_clear_stained_glass_pane": "Чиста світло-сіра шибка",
+  "block.tconstruct.cyan_clear_stained_glass_pane": "Чиста бірюзова шибка",
+  "block.tconstruct.purple_clear_stained_glass_pane": "Чиста фіолетова шибка",
+  "block.tconstruct.blue_clear_stained_glass_pane": "Чиста синя шибка",
+  "block.tconstruct.brown_clear_stained_glass_pane": "Чиста коричнева шибка",
+  "block.tconstruct.green_clear_stained_glass_pane": "Чиста зелена шибка",
+  "block.tconstruct.red_clear_stained_glass_pane": "Чиста червона шибка",
+  "block.tconstruct.black_clear_stained_glass_pane": "Чиста чорна шибка",
 
-  "block.tconstruct.soul_glass": "Soul Glass",
-  "block.tconstruct.soul_glass.tooltip": "Acts solid, but can be walked through",
-  "block.tconstruct.soul_glass_pane": "Soul Glass Pane",
-  "block.tconstruct.soul_glass_pane.tooltip": "Acts solid, but can be walked through",
+  "block.tconstruct.soul_glass": "Скло душ",
+  "block.tconstruct.soul_glass.tooltip": "Ніби й тверде, але пройти накрізь можна",
+  "block.tconstruct.soul_glass_pane": "Шибка душ",
+  "block.tconstruct.soul_glass_pane.tooltip": "Ніби й тверде, але пройти накрізь можна",
 
-  "block.tconstruct.glow": "Glow",
-  "block.tconstruct.silky_jewel_block": "Silky Block of Jewel",
+  "block.tconstruct.glow": "Світька",
+  "block.tconstruct.silky_jewel_block": "Шовковистий коштовний камінь",
 
 
   "__comment": "Ore Metals",
 
-  "item.tconstruct.copper_nugget": "Copper Nugget",
+  "item.tconstruct.copper_nugget": "Мідний самородок",
 
-  "block.tconstruct.cobalt_ore": "Nether Cobalt Ore",
-  "item.tconstruct.raw_cobalt": "Raw Cobalt",
-  "block.tconstruct.raw_cobalt_block": "Block of Raw Cobalt",
+  "block.tconstruct.cobalt_ore": "Кобальтова руда",
+  "item.tconstruct.raw_cobalt": "Необроблений кобальт",
+  "block.tconstruct.raw_cobalt_block": "Блок необробленого кобальту",
 
-  "block.tconstruct.cobalt_block": "Block of Cobalt",
-  "block.tconstruct.cobalt_block.tooltip": "Can be used as beacon base",
-  "item.tconstruct.cobalt_ingot": "Cobalt Ingot",
-  "item.tconstruct.cobalt_nugget": "Cobalt Nugget",
+  "block.tconstruct.cobalt_block": "Блок кобальту",
+  "block.tconstruct.cobalt_block.tooltip": "Можна побудувати маяк",
+  "item.tconstruct.cobalt_ingot": "Кобальтовий злиток",
+  "item.tconstruct.cobalt_nugget": "Кобальтовий самородок",
 
-  "block.tconstruct.steel_block": "Block of Steel",
-  "item.tconstruct.steel_ingot": "Steel Ingot",
-  "item.tconstruct.steel_nugget": "Steel Nugget",
+  "block.tconstruct.steel_block": "Блок сталі",
+  "item.tconstruct.steel_ingot": "Сталевий злиток",
+  "item.tconstruct.steel_nugget": "Сталевий самородок",
 
 
   "__comment": "Tier 3 Metals",
 
-  "block.tconstruct.slimesteel_block": "Block of Slimesteel",
-  "item.tconstruct.slimesteel_ingot": "Slimesteel Ingot",
-  "item.tconstruct.slimesteel_nugget": "Slimesteel Nugget",
+  "block.tconstruct.slimesteel_block": "Блок слизосталі",
+  "item.tconstruct.slimesteel_ingot": "Слизосталевий злиток",
+  "item.tconstruct.slimesteel_nugget": "Слизосталевий самородок",
 
-  "block.tconstruct.amethyst_bronze_block": "Block of Amethyst Bronze",
-  "item.tconstruct.amethyst_bronze_ingot": "Amethyst Bronze Ingot",
-  "item.tconstruct.amethyst_bronze_nugget": "Amethyst Bronze Nugget",
+  "block.tconstruct.amethyst_bronze_block": "Блок аметистової бронзи",
+  "item.tconstruct.amethyst_bronze_ingot": "Аметистово-бронзовий злиток",
+  "item.tconstruct.amethyst_bronze_nugget": "Аметистово-бронзовий самородок",
 
-  "block.tconstruct.rose_gold_block": "Block of Rose Gold",
-  "item.tconstruct.rose_gold_ingot": "Rose Gold Ingot",
-  "item.tconstruct.rose_gold_nugget": "Rose Gold Nugget",
+  "block.tconstruct.rose_gold_block": "Блок рожевого золота",
+  "item.tconstruct.rose_gold_ingot": "Рожево-золотий злиток",
+  "item.tconstruct.rose_gold_nugget": "Рожево-золотий самородок",
 
-  "block.tconstruct.pig_iron_block": "Block of Pig Iron",
-  "item.tconstruct.pig_iron_ingot": "Pig Iron Ingot",
-  "item.tconstruct.pig_iron_nugget": "Pig Iron Nugget",
+  "block.tconstruct.pig_iron_block": "Блок свиноліза",
+  "item.tconstruct.pig_iron_ingot": "Синолізовий злиток",
+  "item.tconstruct.pig_iron_nugget": "Синолізовий самородок",
 
 
   "__comment": "Tier 4 Metals",
 
-  "block.tconstruct.manyullyn_block": "Block of Manyullyn",
-  "block.tconstruct.manyullyn_block.tooltip": "Can be used as beacon base",
-  "item.tconstruct.manyullyn_ingot": "Manyullyn Ingot",
-  "item.tconstruct.manyullyn_nugget": "Manyullyn Nugget",
+  "block.tconstruct.manyullyn_block": "Блок майнулину",
+  "block.tconstruct.manyullyn_block.tooltip": "Можна побудувати маяк",
+  "item.tconstruct.manyullyn_ingot": "Майнулиновий злиток",
+  "item.tconstruct.manyullyn_nugget": "Майнулиновий самородок",
 
-  "block.tconstruct.hepatizon_block": "Block of Hepatizon",
-  "block.tconstruct.hepatizon_block.tooltip": "Can be used as beacon base",
-  "item.tconstruct.hepatizon_ingot": "Hepatizon Ingot",
-  "item.tconstruct.hepatizon_nugget": "Hepatizon Nugget",
+  "block.tconstruct.hepatizon_block": "Блок гепатізону",
+  "block.tconstruct.hepatizon_block.tooltip": "Можна побудувати маяк",
+  "item.tconstruct.hepatizon_ingot": "Гепатізоновий злиток",
+  "item.tconstruct.hepatizon_nugget": "Гепатізований самородок",
 
-  "block.tconstruct.cinderslime_block": "Block of Cinderslime",
-  "item.tconstruct.cinderslime_ingot": "Cinderslime Ingot",
-  "item.tconstruct.cinderslime_nugget": "Cinderslime Nugget",
+  "block.tconstruct.cinderslime_block": "Блок золеслизу",
+  "item.tconstruct.cinderslime_ingot": "Золеслизовий злиток",
+  "item.tconstruct.cinderslime_nugget": "Золеслизовий самородок",
 
-  "block.tconstruct.queens_slime_block": "Block of Queen's Slime",
-  "block.tconstruct.queens_slime_block.tooltip": "Can be used as beacon base",
-  "item.tconstruct.queens_slime_ingot": "Queen's Slime Ingot",
-  "item.tconstruct.queens_slime_nugget": "Queen's Slime Nugget",
+  "block.tconstruct.queens_slime_block": "Блок королевського слизу",
+  "block.tconstruct.queens_slime_block.tooltip": "Можна побудувати маяк",
+  "item.tconstruct.queens_slime_ingot": "Королевсько-слизовий злиток",
+  "item.tconstruct.queens_slime_nugget": "Королевсько-слизовий самородок",
 
-  "block.tconstruct.soulsteel_block": "Block of Soulsteel",
-  "block.tconstruct.soulsteel_block.tooltip": "Can be used as beacon base",
-  "item.tconstruct.soulsteel_ingot": "Soulsteel Ingot",
-  "item.tconstruct.soulsteel_nugget": "Soulsteel Nugget",
+  "block.tconstruct.soulsteel_block": "Блок сталі душі",
+  "block.tconstruct.soulsteel_block.tooltip": "Можна побудувати маяк",
+  "item.tconstruct.soulsteel_ingot": "Стале-душевий злиток",
+  "item.tconstruct.soulsteel_nugget": "Стале-душевий самородок",
 
-  "item.tconstruct.netherite_nugget": "Netherite Nugget",
-  "item.tconstruct.debris_nugget": "Debris Scrap",
-  "item.tconstruct.debris_nugget.tooltip": "Small shard of ancient netherite, possibly can be melted to salvage",
+  "item.tconstruct.netherite_nugget": "Незеритовий самородок",
+  "item.tconstruct.debris_nugget": "Стародавні уламки",
+  "item.tconstruct.debris_nugget.tooltip": "Дрібний уламок стародавнього незериту, проте його все ще можна застосувати переплавивши",
 
 
   "__comment": "Tier 5 Metals",
 
-  "block.tconstruct.knightslime_block": "Block of Knightslime",
-  "item.tconstruct.knightslime_ingot": "Knightslime Ingot",
+  "block.tconstruct.knightslime_block": "блок of Knightslime",
+  "item.tconstruct.knightslime_ingot": "Knightslime злиток",
   "item.tconstruct.knightslime_ingot.tooltip": "Slimy yet metallic but also stone? Fascinating!",
-  "item.tconstruct.knightslime_nugget": "Knightslime Nugget",
+  "item.tconstruct.knightslime_nugget": "Knightslime самородок",
 
   "item.tconstruct.materials_and_you": "Materials and You",
   "item.tconstruct.materials_and_you.tooltip": "The introduction book into tools and materials\nby Selena",
@@ -190,50 +190,50 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.fantastic_foundry": "Fantastic Foundry",
   "item.tconstruct.fantastic_foundry.tooltip": "Book about the hottest new technology in molten metals\nby Nemea",
 
-  "item.tconstruct.sky_slime_ball": "Skyslime Ball",
-  "item.tconstruct.ender_slime_ball": "Enderslime Ball",
-  "item.tconstruct.ichor_slime_ball": "Ichor Ball",
+  "item.tconstruct.sky_slime_ball": "Небослизовий Ball",
+  "item.tconstruct.ender_slime_ball": "ендерслиз Ball",
+  "item.tconstruct.ichor_slime_ball": "Іхор Ball",
 
   "item.tconstruct.bacon": "Bacon",
   "item.tconstruct.cheese_ingot": "Cheese",
-  "block.tconstruct.cheese_block": "Cheese Block",
+  "block.tconstruct.cheese_block": "Cheese блок",
   "item.tconstruct.cheese.tooltip": "Removes a random effect when eaten",
 
   "item.tconstruct.earth_slime_crystal": "Earthslime Crystal",
-  "block.tconstruct.earth_slime_crystal_block": "Earthslime Crystal Block",
+  "block.tconstruct.earth_slime_crystal_block": "Earthslime Crystal блок",
   "block.tconstruct.small_earth_slime_crystal_bud": "Small Earthslime Crystal Bud",
   "block.tconstruct.medium_earth_slime_crystal_bud": "Medium Earthslime Crystal Bud",
   "block.tconstruct.large_earth_slime_crystal_bud": "Large Earthslime Crystal Bud",
   "block.tconstruct.earth_slime_crystal_cluster": "Earthslime Crystal Cluster",
   "block.tconstruct.budding_earth_slime_crystal": "Budding Earthslime Crystal",
 
-  "item.tconstruct.sky_slime_crystal": "Skyslime Crystal",
-  "block.tconstruct.sky_slime_crystal_block": "Skyslime Crystal Block",
-  "block.tconstruct.small_sky_slime_crystal_bud": "Small Skyslime Crystal Bud",
-  "block.tconstruct.medium_sky_slime_crystal_bud": "Medium Skyslime Crystal Bud",
-  "block.tconstruct.large_sky_slime_crystal_bud": "Large Skyslime Crystal Bud",
-  "block.tconstruct.sky_slime_crystal_cluster": "Skyslime Crystal Cluster",
-  "block.tconstruct.budding_sky_slime_crystal": "Budding Skyslime Crystal",
+  "item.tconstruct.sky_slime_crystal": "Небослизовий Crystal",
+  "block.tconstruct.sky_slime_crystal_block": "Небослизовий Crystal блок",
+  "block.tconstruct.small_sky_slime_crystal_bud": "Small Небослизовий Crystal Bud",
+  "block.tconstruct.medium_sky_slime_crystal_bud": "Medium Небослизовий Crystal Bud",
+  "block.tconstruct.large_sky_slime_crystal_bud": "Large Небослизовий Crystal Bud",
+  "block.tconstruct.sky_slime_crystal_cluster": "Небослизовий Crystal Cluster",
+  "block.tconstruct.budding_sky_slime_crystal": "Budding Небослизовий Crystal",
 
-  "item.tconstruct.ichor_slime_crystal": "Ichor Crystal",
-  "block.tconstruct.ichor_slime_crystal_block": "Ichor Crystal Block",
-  "block.tconstruct.small_ichor_slime_crystal_bud": "Small Ichor Crystal Bud",
-  "block.tconstruct.medium_ichor_slime_crystal_bud": "Medium Ichor Crystal Bud",
-  "block.tconstruct.large_ichor_slime_crystal_bud": "Large Ichor Crystal Bud",
-  "block.tconstruct.ichor_slime_crystal_cluster": "Ichor Crystal Cluster",
-  "block.tconstruct.budding_ichor_slime_crystal": "Budding Ichor Crystal",
+  "item.tconstruct.ichor_slime_crystal": "Іхор Crystal",
+  "block.tconstruct.ichor_slime_crystal_block": "Іхор Crystal блок",
+  "block.tconstruct.small_ichor_slime_crystal_bud": "Small Іхор Crystal Bud",
+  "block.tconstruct.medium_ichor_slime_crystal_bud": "Medium Іхор Crystal Bud",
+  "block.tconstruct.large_ichor_slime_crystal_bud": "Large Іхор Crystal Bud",
+  "block.tconstruct.ichor_slime_crystal_cluster": "Іхор Crystal Cluster",
+  "block.tconstruct.budding_ichor_slime_crystal": "Budding Іхор Crystal",
 
-  "item.tconstruct.ender_slime_crystal": "Enderslime Crystal",
-  "block.tconstruct.ender_slime_crystal_block": "Enderslime Crystal Block",
-  "block.tconstruct.small_ender_slime_crystal_bud": "Small Enderslime Crystal Bud",
-  "block.tconstruct.medium_ender_slime_crystal_bud": "Medium Enderslime Crystal Bud",
-  "block.tconstruct.large_ender_slime_crystal_bud": "Large Enderslime Crystal Bud",
-  "block.tconstruct.ender_slime_crystal_cluster": "Enderslime Crystal Cluster",
-  "block.tconstruct.budding_ender_slime_crystal": "Budding Enderslime Crystal",
+  "item.tconstruct.ender_slime_crystal": "ендерслиз Crystal",
+  "block.tconstruct.ender_slime_crystal_block": "ендерслиз Crystal блок",
+  "block.tconstruct.small_ender_slime_crystal_bud": "Small ендерслиз Crystal Bud",
+  "block.tconstruct.medium_ender_slime_crystal_bud": "Medium ендерслиз Crystal Bud",
+  "block.tconstruct.large_ender_slime_crystal_bud": "Large ендерслиз Crystal Bud",
+  "block.tconstruct.ender_slime_crystal_cluster": "ендерслиз Crystal Cluster",
+  "block.tconstruct.budding_ender_slime_crystal": "Budding ендерслиз Crystal",
 
   "item.tconstruct.emerald_reinforcement": "Emerald Reinforcement",
   "item.tconstruct.emerald_reinforcement.tooltip": "Reduces chance of a tool taking damage",
-  "item.tconstruct.slimesteel_reinforcement": "Slimesteel Reinforcement",
+  "item.tconstruct.slimesteel_reinforcement": "Слизосталевий Reinforcement",
   "item.tconstruct.slimesteel_reinforcement.tooltip": "Increases slimesteel capacity",
   "item.tconstruct.seared_reinforcement": "Seared Reinforcement",
   "item.tconstruct.seared_reinforcement.tooltip": "Increases armor resistance against fire",
@@ -243,12 +243,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.obsidian_reinforcement.tooltip": "Increases armor resistance against explosions",
   "item.tconstruct.gold_reinforcement": "Gold Reinforcement",
   "item.tconstruct.gold_reinforcement.tooltip": "Increases armor resistance against magic",
-  "item.tconstruct.cobalt_reinforcement": "Cobalt Reinforcement",
+  "item.tconstruct.cobalt_reinforcement": "кобальт Reinforcement",
   "item.tconstruct.cobalt_reinforcement.tooltip": "Increases armor resistance against general attacks",
   "item.tconstruct.jeweled_apple": "Jeweled Apple",
-  "item.tconstruct.silky_cloth": "Silky Cloth",
+  "item.tconstruct.silky_cloth": "Шовковистий Cloth",
   "item.tconstruct.silky_cloth.tooltip": "Prevents a tool from damaging block drops",
-  "item.tconstruct.silky_jewel": "Silky Jewel",
+  "item.tconstruct.silky_jewel": "Шовковистий Jewel",
   "item.tconstruct.silky_jewel.tooltip": "Prevents a tool from damaging block drops",
   "item.tconstruct.necrotic_bone": "Necrotic Bone",
   "item.tconstruct.necrotic_bone.tooltip": "Dropped from wither skeletons",
@@ -279,8 +279,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Patterns",
 
-  "pattern.tconstruct.ingot": "Ingot",
-  "pattern.tconstruct.nugget": "Nugget",
+  "pattern.tconstruct.ingot": "злиток",
+  "pattern.tconstruct.nugget": "самородок",
   "pattern.tconstruct.gem": "Gem",
   "pattern.tconstruct.rod": "Rod",
 
@@ -331,8 +331,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.cast.cost": "Material cost: %d",
 
   "item.tconstruct.blank_cast": "Blank Gold Cast",
-  "item.tconstruct.ingot_cast": "Ingot Gold Cast",
-  "item.tconstruct.nugget_cast": "Nugget Gold Cast",
+  "item.tconstruct.ingot_cast": "злиток Gold Cast",
+  "item.tconstruct.nugget_cast": "самородок Gold Cast",
   "item.tconstruct.gem_cast": "Gem Gold Cast",
   "item.tconstruct.rod_cast": "Rod Gold Cast",
 
@@ -380,8 +380,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Tinkers Sand Casts",
 
   "item.tconstruct.blank_sand_cast": "Blank Sand Cast",
-  "item.tconstruct.ingot_sand_cast": "Ingot Sand Cast",
-  "item.tconstruct.nugget_sand_cast": "Nugget Sand Cast",
+  "item.tconstruct.ingot_sand_cast": "злиток Sand Cast",
+  "item.tconstruct.nugget_sand_cast": "самородок Sand Cast",
   "item.tconstruct.gem_sand_cast": "Gem Sand Cast",
   "item.tconstruct.rod_sand_cast": "Rod Sand Cast",
 
@@ -430,8 +430,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Tinkers Red Sand Casts",
 
   "item.tconstruct.blank_red_sand_cast": "Blank Red Sand Cast",
-  "item.tconstruct.ingot_red_sand_cast": "Ingot Red Sand Cast",
-  "item.tconstruct.nugget_red_sand_cast": "Nugget Red Sand Cast",
+  "item.tconstruct.ingot_red_sand_cast": "злиток Red Sand Cast",
+  "item.tconstruct.nugget_red_sand_cast": "самородок Red Sand Cast",
   "item.tconstruct.gem_red_sand_cast": "Gem Red Sand Cast",
   "item.tconstruct.rod_red_sand_cast": "Rod Red Sand Cast",
 
@@ -535,11 +535,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.earth_slime_bucket": "Slime Bucket",
   "item.tconstruct.earth_slime_bottle": "Slime Bottle",
 
-  "block.tconstruct.sky_slime_fluid": "Skyslime",
-  "fluid.tconstruct.sky_slime": "Skyslime",
-  "fluid.tconstruct.flowing_sky_slime": "Flowing Skyslime",
-  "item.tconstruct.sky_slime_bucket": "Skyslime Bucket",
-  "item.tconstruct.sky_slime_bottle": "Skyslime Bottle",
+  "block.tconstruct.sky_slime_fluid": "Небослизовий",
+  "fluid.tconstruct.sky_slime": "Небослизовий",
+  "fluid.tconstruct.flowing_sky_slime": "Flowing Небослизовий",
+  "item.tconstruct.sky_slime_bucket": "Небослизовий Bucket",
+  "item.tconstruct.sky_slime_bottle": "Небослизовий Bottle",
 
   "block.tconstruct.magma_fluid": "Magma",
   "fluid.tconstruct.magma": "Magma",
@@ -547,11 +547,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.magma_bucket": "Magma Bucket",
   "item.tconstruct.magma_bottle": "Magma Bottle",
 
-  "block.tconstruct.ender_slime_fluid": "Enderslime",
-  "fluid.tconstruct.ender_slime": "Enderslime",
-  "fluid.tconstruct.flowing_ender_slime": "Flowing Enderslime",
-  "item.tconstruct.ender_slime_bucket": "Enderslime Bucket",
-  "item.tconstruct.ender_slime_bottle": "Enderslime Bottle",
+  "block.tconstruct.ender_slime_fluid": "ендерслиз",
+  "fluid.tconstruct.ender_slime": "ендерслиз",
+  "fluid.tconstruct.flowing_ender_slime": "Flowing ендерслиз",
+  "item.tconstruct.ender_slime_bucket": "ендерслиз Bucket",
+  "item.tconstruct.ender_slime_bottle": "ендерслиз Bottle",
 
   "block.tconstruct.venom_fluid": "Venom",
   "fluid.tconstruct.venom": "Venom",
@@ -559,11 +559,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.venom_bucket": "Venom Bucket",
   "item.tconstruct.venom_bottle": "Venom Bottle",
 
-  "block.tconstruct.ichor_fluid": "Ichor",
-  "fluid.tconstruct.ichor": "Ichor",
-  "fluid.tconstruct.flowing_ichor": "Flowing Ichor",
-  "item.tconstruct.ichor_bucket": "Ichor Bucket",
-  "item.tconstruct.ichor_slime_bottle": "Ichor Bottle",
+  "block.tconstruct.ichor_fluid": "Іхор",
+  "fluid.tconstruct.ichor": "Іхор",
+  "fluid.tconstruct.flowing_ichor": "Flowing Іхор",
+  "item.tconstruct.ichor_bucket": "Іхор Bucket",
+  "item.tconstruct.ichor_slime_bottle": "Іхор Bottle",
 
   "_comment": "Rock",
 
@@ -644,10 +644,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "fluid.tconstruct.flowing_molten_copper": "Flowing Molten Copper",
   "item.tconstruct.molten_copper_bucket": "Molten Copper Bucket",
 
-  "block.tconstruct.molten_cobalt_fluid": "Molten Cobalt",
-  "fluid.tconstruct.molten_cobalt": "Molten Cobalt",
-  "fluid.tconstruct.flowing_molten_cobalt": "Flowing Molten Cobalt",
-  "item.tconstruct.molten_cobalt_bucket": "Molten Cobalt Bucket",
+  "block.tconstruct.molten_cobalt_fluid": "Molten кобальт",
+  "fluid.tconstruct.molten_cobalt": "Molten кобальт",
+  "fluid.tconstruct.flowing_molten_cobalt": "Flowing Molten кобальт",
+  "item.tconstruct.molten_cobalt_bucket": "Molten кобальт Bucket",
 
   "block.tconstruct.molten_debris_fluid": "Molten Debris",
   "fluid.tconstruct.molten_debris": "Molten Debris",
@@ -656,10 +656,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tier 3 Alloys",
 
-  "block.tconstruct.molten_slimesteel_fluid": "Molten Slimesteel",
-  "fluid.tconstruct.molten_slimesteel": "Molten Slimesteel",
-  "fluid.tconstruct.flowing_molten_slimesteel": "Flowing Molten Slimesteel",
-  "item.tconstruct.molten_slimesteel_bucket": "Molten Slimesteel Bucket",
+  "block.tconstruct.molten_slimesteel_fluid": "Molten Слизосталевий",
+  "fluid.tconstruct.molten_slimesteel": "Molten Слизосталевий",
+  "fluid.tconstruct.flowing_molten_slimesteel": "Flowing Molten Слизосталевий",
+  "item.tconstruct.molten_slimesteel_bucket": "Molten Слизосталевий Bucket",
 
   "block.tconstruct.molten_amethyst_bronze_fluid": "Molten Amethyst Bronze",
   "fluid.tconstruct.molten_amethyst_bronze": "Molten Amethyst Bronze",
@@ -671,37 +671,37 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "fluid.tconstruct.flowing_molten_rose_gold": "Flowing Molten Rose Gold",
   "item.tconstruct.molten_rose_gold_bucket": "Molten Rose Gold Bucket",
 
-  "block.tconstruct.molten_pig_iron_fluid": "Molten Pig Iron",
-  "fluid.tconstruct.molten_pig_iron": "Molten Pig Iron",
-  "fluid.tconstruct.flowing_molten_pig_iron": "Flowing Molten Pig Iron",
-  "item.tconstruct.molten_pig_iron_bucket": "Molten Pig Iron Bucket",
+  "block.tconstruct.molten_pig_iron_fluid": "Molten Синолізо",
+  "fluid.tconstruct.molten_pig_iron": "Molten Синолізо",
+  "fluid.tconstruct.flowing_molten_pig_iron": "Flowing Molten Синолізо",
+  "item.tconstruct.molten_pig_iron_bucket": "Molten Синолізо Bucket",
 
   "_comment": "Tier 4 Alloys",
 
-  "block.tconstruct.molten_manyullyn_fluid": "Molten Manyullyn",
-  "fluid.tconstruct.molten_manyullyn": "Molten Manyullyn",
-  "fluid.tconstruct.flowing_molten_manyullyn": "Flowing Molten Manyullyn",
-  "item.tconstruct.molten_manyullyn_bucket": "Molten Manyullyn Bucket",
+  "block.tconstruct.molten_manyullyn_fluid": "Molten Майнулин",
+  "fluid.tconstruct.molten_manyullyn": "Molten Майнулин",
+  "fluid.tconstruct.flowing_molten_manyullyn": "Flowing Molten Майнулин",
+  "item.tconstruct.molten_manyullyn_bucket": "Molten Майнулин Bucket",
 
-  "block.tconstruct.molten_hepatizon_fluid": "Molten Hepatizon",
-  "fluid.tconstruct.molten_hepatizon": "Molten Hepatizon",
-  "fluid.tconstruct.flowing_molten_hepatizon": "Flowing Molten Hepatizon",
-  "item.tconstruct.molten_hepatizon_bucket": "Molten Hepatizon Bucket",
+  "block.tconstruct.molten_hepatizon_fluid": "Molten Гепатізон",
+  "fluid.tconstruct.molten_hepatizon": "Molten Гепатізон",
+  "fluid.tconstruct.flowing_molten_hepatizon": "Flowing Molten Гепатізон",
+  "item.tconstruct.molten_hepatizon_bucket": "Molten Гепатізон Bucket",
 
-  "block.tconstruct.molten_cinderslime_fluid": "Molten Cinderslime",
-  "fluid.tconstruct.molten_cinderslime": "Molten Cinderslime",
-  "fluid.tconstruct.flowing_molten_cinderslime": "Flowing Molten Cinderslime",
-  "item.tconstruct.molten_cinderslime_bucket": "Molten Cinderslime Bucket",
+  "block.tconstruct.molten_cinderslime_fluid": "Molten Золеслиз",
+  "fluid.tconstruct.molten_cinderslime": "Molten Золеслиз",
+  "fluid.tconstruct.flowing_molten_cinderslime": "Flowing Molten Золеслиз",
+  "item.tconstruct.molten_cinderslime_bucket": "Molten Золеслиз Bucket",
 
-  "block.tconstruct.molten_queens_slime_fluid": "Molten Queen's Slime",
-  "fluid.tconstruct.molten_queens_slime": "Molten Queen's Slime",
-  "fluid.tconstruct.flowing_molten_queens_slime": "Flowing Molten Queen's Slime",
-  "item.tconstruct.molten_queens_slime_bucket": "Molten Queen's Slime Bucket",
+  "block.tconstruct.molten_queens_slime_fluid": "Molten Королевський слиз",
+  "fluid.tconstruct.molten_queens_slime": "Molten Королевський слиз",
+  "fluid.tconstruct.flowing_molten_queens_slime": "Flowing Molten Королевський слиз",
+  "item.tconstruct.molten_queens_slime_bucket": "Molten Королевський слиз Bucket",
 
-  "block.tconstruct.molten_soulsteel_fluid": "Molten Soulsteel",
-  "fluid.tconstruct.molten_soulsteel": "Molten Soulsteel",
-  "fluid.tconstruct.flowing_molten_soulsteel": "Flowing Molten Soulsteel",
-  "item.tconstruct.molten_soulsteel_bucket": "Molten Soulsteel Bucket",
+  "block.tconstruct.molten_soulsteel_fluid": "Molten Сталь душі",
+  "fluid.tconstruct.molten_soulsteel": "Molten Сталь душі",
+  "fluid.tconstruct.flowing_molten_soulsteel": "Flowing Molten Сталь душі",
+  "item.tconstruct.molten_soulsteel_bucket": "Molten Сталь душі Bucket",
 
   "block.tconstruct.molten_netherite_fluid": "Molten Netherite",
   "fluid.tconstruct.molten_netherite": "Molten Netherite",
@@ -841,7 +841,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.gold_item_frame": "Golden Item Frame",
   "item.tconstruct.reversed_gold_item_frame": "Inverted Golden Item Frame",
   "item.tconstruct.diamond_item_frame": "Diamond Item Frame",
-  "item.tconstruct.manyullyn_item_frame": "Manyullyn Item Frame",
+  "item.tconstruct.manyullyn_item_frame": "Майнулин Item Frame",
   "item.tconstruct.netherite_item_frame": "Netherite Item Frame",
 
   "item.tconstruct.glow_ball": "Glowball",
@@ -855,9 +855,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
 
   "block.tconstruct.earth_cake": "Earthslime Cake",
-  "block.tconstruct.sky_cake":   "Skyslime Cake",
-  "block.tconstruct.ichor_cake": "Ichor Cake",
-  "block.tconstruct.ender_cake": "Enderslime Cake",
+  "block.tconstruct.sky_cake":   "Небослизовий Cake",
+  "block.tconstruct.ichor_cake": "Іхор Cake",
+  "block.tconstruct.ender_cake": "ендерслиз Cake",
   "block.tconstruct.blood_cake": "Blood Cake",
   "block.tconstruct.magma_cake": "Magma Cake",
 
@@ -927,10 +927,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.longbow": "Longbow",
 
   "item.tconstruct.flint_and_brick": "Flint and Brick",
-  "item.tconstruct.sky_staff": "Skyslime Staff",
+  "item.tconstruct.sky_staff": "Небослизовий Staff",
   "item.tconstruct.earth_staff": "Earthslime Staff",
-  "item.tconstruct.ichor_staff": "Ichor Staff",
-  "item.tconstruct.ender_staff": "Enderslime Staff",
+  "item.tconstruct.ichor_staff": "Іхор Staff",
+  "item.tconstruct.ender_staff": "ендерслиз Staff",
   
   "item.tconstruct.melting_pan": "Melting Pan",
   "item.tconstruct.battlesign": "Battlesign",
@@ -1139,9 +1139,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.seared_soul_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and can be walked through.",
   "block.tconstruct.seared_tinted_glass": "Tinted Seared Glass",
   "block.tconstruct.seared_tinted_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and does not let light through.",
-  "block.tconstruct.seared_glass_pane": "Seared Glass Pane",
+  "block.tconstruct.seared_glass_pane": "Seared Glass шибка",
   "block.tconstruct.seared_glass_pane.tooltip": "Cannot be used in a Smeltery.",
-  "block.tconstruct.seared_soul_glass_pane": "Seared Soul Glass Pane",
+  "block.tconstruct.seared_soul_glass_pane": "Seared Soul Glass шибка",
   "block.tconstruct.seared_soul_glass_pane.tooltip": "Cannot be used in a Smeltery, but can be walked through.",
 
   "block.tconstruct.seared_ladder": "Seared Ladder",
@@ -1151,9 +1151,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.seared_fuel_tank.tooltip": "Heart of the Smeltery.\nRetains liquid when broken.",
   "block.tconstruct.seared_fuel_gauge": "Seared Fuel Gauge",
   "block.tconstruct.seared_fuel_gauge.tooltip": "Alternate Smeltery heart.\nRetains liquid when broken.",
-  "block.tconstruct.seared_ingot_tank": "Seared Ingot Tank",
+  "block.tconstruct.seared_ingot_tank": "Seared злиток Tank",
   "block.tconstruct.seared_ingot_tank.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.seared_ingot_gauge": "Seared Ingot Gauge",
+  "block.tconstruct.seared_ingot_gauge": "Seared злиток Gauge",
   "block.tconstruct.seared_ingot_gauge.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
   "block.tconstruct.seared_lantern": "Seared Lantern",
   "block.tconstruct.seared_lantern.tooltip": "Ideal for decoration, holding 50mb of fluid.\nRetains liquid when broken.",
@@ -1163,9 +1163,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.seared_channel": "Seared Channel",
   "block.tconstruct.seared_channel.tooltip": "Distributes fluids poured from a faucet above.",
 
-  "block.tconstruct.seared_basin": "Seared Casting Basin",
+  "block.tconstruct.seared_basin": "Seared ливарний котел",
   "block.tconstruct.seared_basin.tooltip": "Cast items using molten metals from a Smeltery",
-  "block.tconstruct.seared_table": "Seared Casting Table",
+  "block.tconstruct.seared_table": "Seared ливарський стіл",
   "block.tconstruct.seared_table.tooltip": "Cast items using molten metals from a Smeltery",
 
   "block.tconstruct.seared_melter": "Seared Melter",
@@ -1222,9 +1222,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.scorched_soul_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and can be walked through.",
   "block.tconstruct.scorched_tinted_glass": "Tinted Scorched Glass",
   "block.tconstruct.scorched_tinted_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and does not let light through.",
-  "block.tconstruct.scorched_glass_pane": "Scorched Glass Pane",
+  "block.tconstruct.scorched_glass_pane": "Scorched Glass шибка",
   "block.tconstruct.scorched_glass_pane.tooltip": "Cannot be used in a Foundry.",
-  "block.tconstruct.scorched_soul_glass_pane": "Scorched Soul Glass Pane",
+  "block.tconstruct.scorched_soul_glass_pane": "Scorched Soul Glass шибка",
   "block.tconstruct.scorched_soul_glass_pane.tooltip": "Cannot be used in a Foundry, but can be walked through.",
 
   "block.tconstruct.scorched_ladder": "Scorched Ladder",
@@ -1234,18 +1234,18 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.scorched_fuel_tank.tooltip": "Heart of the Foundry.\nRetains liquid when broken.",
   "block.tconstruct.scorched_fuel_gauge": "Scorched Fuel Gauge",
   "block.tconstruct.scorched_fuel_gauge.tooltip": "Alternate Foundry tank.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_ingot_tank": "Scorched Ingot Tank",
+  "block.tconstruct.scorched_ingot_tank": "Scorched злиток Tank",
   "block.tconstruct.scorched_ingot_tank.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_ingot_gauge": "Scorched Ingot Gauge",
+  "block.tconstruct.scorched_ingot_gauge": "Scorched злиток Gauge",
   "block.tconstruct.scorched_ingot_gauge.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
   "block.tconstruct.scorched_lantern": "Scorched Lantern",
   "block.tconstruct.scorched_lantern.tooltip": "Ideal for decoration, holding 50mb of fluid.\nRetains liquid when broken.",
 
   "block.tconstruct.scorched_faucet": "Scorched Faucet",
   "block.tconstruct.scorched_faucet.tooltip": "Drains liquids from Foundries and Tanks",
-  "block.tconstruct.scorched_basin": "Scorched Casting Basin",
+  "block.tconstruct.scorched_basin": "Scorched ливарний котел",
   "block.tconstruct.scorched_basin.tooltip": "Cast items using molten metals from a Foundry, requires a cast or gold platform to cast",
-  "block.tconstruct.scorched_table": "Scorched Casting Table",
+  "block.tconstruct.scorched_table": "Scorched ливарський стіл",
   "block.tconstruct.scorched_table.tooltip": "Cast items using molten metals from a Foundry, requires a cast or gold bars to cast",
 
   "block.tconstruct.scorched_channel": "Scorched Channel",
@@ -1271,18 +1271,18 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "gui.tconstruct.fluid.bucket": "%s b",
   "gui.tconstruct.fluid.millibucket": "%s mb",
 
-  "gui.tconstruct.fluid.block": "%s Blocks",
-  "gui.tconstruct.fluid.ingot": "%s Ingots",
-  "gui.tconstruct.fluid.nugget": "%s Nuggets",
+  "gui.tconstruct.fluid.block": "%s блоки",
+  "gui.tconstruct.fluid.ingot": "%s злитки",
+  "gui.tconstruct.fluid.nugget": "%s самородки",
   "gui.tconstruct.fluid.gem": "%s Gems",
-  "gui.tconstruct.fluid.shard": "%s Shards",
-  "gui.tconstruct.fluid.pane": "%s Panes",
-  "gui.tconstruct.fluid.slimeball": "%s Slimeballs",
+  "gui.tconstruct.fluid.shard": "%s уламки",
+  "gui.tconstruct.fluid.pane": "%s шибки",
+  "gui.tconstruct.fluid.slimeball": "%s слизьові кульки",
   "gui.tconstruct.fluid.drop": "%s Drops",
   "gui.tconstruct.fluid.sip": "%s Sips",
-  "gui.tconstruct.fluid.brick": "%s Bricks",
+  "gui.tconstruct.fluid.brick": "%s цеглини",
   "gui.tconstruct.fluid.bowl": "%s Bowls",
-  "gui.tconstruct.fluid.bottle": "%s Bottles",
+  "gui.tconstruct.fluid.bottle": "%s пляшки",
 
   "gui.tconstruct.fluid.hold_shift": "Hold §e§oShift§r§7 for buckets",
 
@@ -1291,20 +1291,20 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "entity.tconstruct.earth_slime": "Earthslime",
   "item.tconstruct.earth_slime_spawn_egg": "Earthslime Spawn Egg",
-  "entity.tconstruct.sky_slime": "Skyslime",
-  "item.tconstruct.sky_slime_spawn_egg": "Skyslime Spawn Egg",
-  "entity.tconstruct.ender_slime": "Enderslime",
-  "item.tconstruct.ender_slime_spawn_egg": "Enderslime Spawn Egg",
+  "entity.tconstruct.sky_slime": "Небослизовий",
+  "item.tconstruct.sky_slime_spawn_egg": "Небослизовий Spawn Egg",
+  "entity.tconstruct.ender_slime": "ендерслиз",
+  "item.tconstruct.ender_slime_spawn_egg": "ендерслиз Spawn Egg",
   "entity.tconstruct.terracube": "Terracube",
   "item.tconstruct.terracube_spawn_egg": "Terracube Spawn Egg",
 
   "block.tconstruct.earth_slime_dirt": "Earthslime Dirt",
   "block.tconstruct.earth_slime_dirt.tooltip": "Slimy, but lets you jump higher",
-  "block.tconstruct.sky_slime_dirt": "Skyslime Dirt",
+  "block.tconstruct.sky_slime_dirt": "Небослизовий Dirt",
   "block.tconstruct.sky_slime_dirt.tooltip": "Slimy, but lets you jump higher",
-  "block.tconstruct.ichor_slime_dirt": "Ichor Dirt",
+  "block.tconstruct.ichor_slime_dirt": "Іхор Dirt",
   "block.tconstruct.ichor_slime_dirt.tooltip": "Slimy, but lets you jump higher",
-  "block.tconstruct.ender_slime_dirt": "Enderslime Dirt",
+  "block.tconstruct.ender_slime_dirt": "ендерслиз Dirt",
   "block.tconstruct.ender_slime_dirt.tooltip": "Slimy, but lets you jump higher",
 
   "block.tconstruct.earth_vanilla_slime_grass": "Earthslime Grass",
@@ -1318,15 +1318,15 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.earth_ender_slime_grass": "Earthslime Grass",
   "block.tconstruct.earth_ender_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
 
-  "block.tconstruct.sky_vanilla_slime_grass": "Skyslime Grass",
+  "block.tconstruct.sky_vanilla_slime_grass": "Небослизовий Grass",
   "block.tconstruct.sky_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_earth_slime_grass": "Skyslime Grass",
+  "block.tconstruct.sky_earth_slime_grass": "Небослизовий Grass",
   "block.tconstruct.sky_earth_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_sky_slime_grass": "Skyslime Grass",
+  "block.tconstruct.sky_sky_slime_grass": "Небослизовий Grass",
   "block.tconstruct.sky_sky_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_ichor_slime_grass": "Skyslime Grass",
+  "block.tconstruct.sky_ichor_slime_grass": "Небослизовий Grass",
   "block.tconstruct.sky_ichor_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_ender_slime_grass": "Skyslime Grass",
+  "block.tconstruct.sky_ender_slime_grass": "Небослизовий Grass",
   "block.tconstruct.sky_ender_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
 
   "block.tconstruct.blood_vanilla_slime_grass": "Bloody Nylium",
@@ -1340,37 +1340,37 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.blood_ender_slime_grass": "Bloody Nylium",
   "block.tconstruct.blood_ender_slime_grass.tooltip": "Lets you jump higher and produces bloodshrooms when bonemealed",
 
-  "block.tconstruct.ichor_vanilla_slime_grass": "Ichor Nylium",
+  "block.tconstruct.ichor_vanilla_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_vanilla_slime_grass.tooltip": "So soft! Lets you jump higher",
-  "block.tconstruct.ichor_earth_slime_grass": "Ichor Nylium",
+  "block.tconstruct.ichor_earth_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_earth_slime_grass.tooltip": "So soft! Lets you jump higher",
-  "block.tconstruct.ichor_sky_slime_grass": "Ichor Nylium",
+  "block.tconstruct.ichor_sky_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_sky_slime_grass.tooltip": "So soft! Lets you jump higher",
-  "block.tconstruct.ichor_ichor_slime_grass": "Ichor Nylium",
+  "block.tconstruct.ichor_ichor_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_ichor_slime_grass.tooltip": "So soft! Lets you jump higher",
-  "block.tconstruct.ichor_ender_slime_grass": "Ichor Nylium",
+  "block.tconstruct.ichor_ender_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_ender_slime_grass.tooltip": "So soft! Lets you jump higher",
 
-  "block.tconstruct.ender_vanilla_slime_grass": "Enderslime Grass",
+  "block.tconstruct.ender_vanilla_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_earth_slime_grass": "Enderslime Grass",
+  "block.tconstruct.ender_earth_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_earth_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_sky_slime_grass": "Enderslime Grass",
+  "block.tconstruct.ender_sky_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_sky_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_ichor_slime_grass": "Enderslime Grass",
+  "block.tconstruct.ender_ichor_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_ichor_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_ender_slime_grass": "Enderslime Grass",
+  "block.tconstruct.ender_ender_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_ender_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
 
   "item.tconstruct.earth_slime_grass_seeds": "Earthslime Seeds",
   "item.tconstruct.earth_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass",
-  "item.tconstruct.sky_slime_grass_seeds": "Skyslime Seeds",
+  "item.tconstruct.sky_slime_grass_seeds": "Небослизовий Seeds",
   "item.tconstruct.sky_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass, or on vines to get slimy vines",
   "item.tconstruct.blood_slime_grass_seeds": "Bloody Seeds",
   "item.tconstruct.blood_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy nylium",
-  "item.tconstruct.ichor_slime_grass_seeds": "Ichor Seeds",
+  "item.tconstruct.ichor_slime_grass_seeds": "Іхор Seeds",
   "item.tconstruct.ichor_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy nylium",
-  "item.tconstruct.ender_slime_grass_seeds": "Enderslime Seeds",
+  "item.tconstruct.ender_slime_grass_seeds": "ендерслиз Seeds",
   "item.tconstruct.ender_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass, or on vines to get slimy vines",
 
   "block.tconstruct.earth_slime_leaves": "Slimy Leaves",
@@ -1403,7 +1403,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.sky_slime_sapling.tooltip": "Only grows on slimy dirt or grass",
   "block.tconstruct.blood_slime_sapling": "Bloodshroom",
   "block.tconstruct.blood_slime_sapling.tooltip": "Only grows on slimy nylium",
-  "block.tconstruct.ichor_slime_sapling": "Ichor Sapling",
+  "block.tconstruct.ichor_slime_sapling": "Іхор Sapling",
   "block.tconstruct.ichor_slime_sapling.tooltip": "Only grows on slimy nylium",
   "block.tconstruct.ender_slime_sapling": "Enderbark Propagule",
   "block.tconstruct.ender_slime_sapling.tooltip": "Only grows on slimy dirt or grass",
@@ -1411,7 +1411,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.potted_earth_slime_sapling": "Potted Greenheart Sapling",
   "block.tconstruct.potted_sky_slime_sapling":   "Potted Skyroot Sapling",
   "block.tconstruct.potted_blood_slime_sapling": "Potted Bloodshroom",
-  "block.tconstruct.potted_ichor_slime_sapling": "Potted Ichor Sapling",
+  "block.tconstruct.potted_ichor_slime_sapling": "Potted Іхор Sapling",
   "block.tconstruct.potted_ender_slime_sapling": "Potted Enderbark Propagule",
 
   "block.tconstruct.ender_slime_vine": "Slimy Vine",
@@ -1564,7 +1564,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "material.tconstruct.string": "String",
   "material.tconstruct.string.flavor": "Theoretically the best material.",
-  "material.tconstruct.string.encyclopedia": "Allows the tool to be repaired using string in the tinker station or crafting table",
+  "material.tconstruct.string.encyclopedia": "Allows the tool to be repaired using string in the tinker station or верстак",
   "material.tconstruct.string.skull_flavor": "Spiders are a master of potions, maybe their secret can help me enhance potions...",
   "material.tconstruct.string.skull_encyclopedia": "Causes positive potion effects to last 25% longer",
 
@@ -1635,11 +1635,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
 
   "__comment": "Tier 3 Materials",
-  "material.tconstruct.slimesteel": "Slimesteel",
+  "material.tconstruct.slimesteel": "Слизосталь",
   "material.tconstruct.slimesteel.flavor": "You must steal the slime to get slimesteel.",
   "material.tconstruct.slimesteel.encyclopedia": "Grants 25 extra overslime, +50% of the total per level",
 
-  "material.tconstruct.nahuatl": "Nahuatl",
+  "material.tconstruct.nahuatl": "Ацтеське",
   "material.tconstruct.nahuatl.flavor": "This is not an obsidian part, if it was it would say \"Obsidian.\"",
   "material.tconstruct.nahuatl.encyclopedia": "Has a 50% chance of doing up to 5 damage over time, more damage at higher levels",
   "material.tconstruct.nahuatl.armor": "Has a 25% chance per level of doing up to 5 damage over time",
@@ -1650,7 +1650,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.amethyst_bronze.ranged": "Adds +0.1 velocity per level at the cost of limiting arrow angles to 32, 16, or 8 directions at the first 3 levels respectively",
   "material.tconstruct.amethyst_bronze.armor": "Grants +2.5% attack speed per level at the cost of limiting taken knockback angles to 32, 16, 8, or 4 directions",
 
-  "material.tconstruct.pig_iron": "Pig Iron",
+  "material.tconstruct.pig_iron": "Синолізо",
   "material.tconstruct.pig_iron.flavor": "The absolute best material, no debates.",
   "material.tconstruct.pig_iron.encyclopedia": "Can be eaten to restore 1 hunger per level at 0.6 saturation",
   "material.tconstruct.pig_iron.armor": "Grants a 15% chance per level of eating the armor for 1 hunger per level at 0.6 saturation",
@@ -1666,29 +1666,29 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
 
   "__comment": "Tier Nether Materials",
-  "material.tconstruct.cobalt": "Cobalt",
+  "material.tconstruct.cobalt": "кобальт",
   "material.tconstruct.cobalt.flavor": "Coblat. The material of the Red Army.",
   "material.tconstruct.cobalt.encyclopedia": "Boosts mining and attack speed by 7% per level",
   "material.tconstruct.cobalt.ranged": "Boosts drawspeed and velocity by 5% per level",
   "material.tconstruct.cobalt.armor": "Reduces damage from melee attacks by 10% per level, and boosts movement speed when using items by 5% per max level",
 
-  "material.tconstruct.manyullyn": "Manyullyn",
+  "material.tconstruct.manyullyn": "Майнулин",
   "material.tconstruct.manyullyn.flavor": "The metal that most Tinkers will never pronounce right. Also known as a star cutting material.",
   "material.tconstruct.manyullyn.encyclopedia": "Grants +2 damage per level after 8 consecutive hits",
   "material.tconstruct.manyullyn.ranged": "Arrows gain +1 damage per level (before velocity) after 8 consecutive arrow hits",
   "material.tconstruct.manyullyn.armor": "Temporarily boosts melee damage by 1 after taking damage, capping at the total level across all armor",
 
-  "material.tconstruct.hepatizon": "Hepatizon",
+  "material.tconstruct.hepatizon": "Гепатізон",
   "material.tconstruct.hepatizon.flavor": "He-pa-ti-zon - boil it, mash it, put it in a stew.",
   "material.tconstruct.hepatizon.encyclopedia": "Boosts mining speed by 25% per level after mining 32 consecutive blocks",
   "material.tconstruct.hepatizon.ranged": "Boosts drawspeed by 25% per level after firing 16 consecutive arrows",
   "material.tconstruct.hepatizon.armor": "Reduces damage from all attacks by 5% per level if you recently took damage",
 
-  "material.tconstruct.cinderslime": "Cinderslime",
+  "material.tconstruct.cinderslime": "Золеслиз",
   "material.tconstruct.cinderslime.flavor": "Cast it into the fire!",
   "material.tconstruct.cinderslime.encyclopedia": "Uses fuel to restore overslime, restoring 1 per second by level 4.",
 
-  "material.tconstruct.queens_slime": "Queen's Slime",
+  "material.tconstruct.queens_slime": "Королевський слиз",
   "material.tconstruct.queens_slime.flavor": "Princesses are evil, get yourself a Queen.",
   "material.tconstruct.queens_slime.encyclopedia": "Reduces durability by 15% per level, 66% of that going towards overslime",
 
@@ -1699,11 +1699,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.blazing_bone.skull_flavor": "I told them this is technically firespit, not firebreath, but apparently I don't get to decide the names for things I invent",
   "material.tconstruct.blazing_bone.skull_encyclopedia": "Allows spitting firecharges from the inventory as fireballs. Has a cooldown of 5 seconds and does not work underwater",
 
-  "material.tconstruct.blazewood": "Blazewood",
+  "material.tconstruct.blazewood": "Пломенедерево",
   "material.tconstruct.blazewood.flavor": "The flame protects the flame",
   "material.tconstruct.blazewood.encyclopedia": "Grants +0.5% protection against non-fire damage per second of fire, up to +7.5% from lava's 15 seconds. Bonus reduced by fire resistance.",
 
-  "material.tconstruct.soulsteel": "Soulsteel",
+  "material.tconstruct.soulsteel": "Сталь душі",
 
   "material.tconstruct.ancient_hide": "Ancient Hide",
   "material.tconstruct.ancient_hide.flavor": "Leather tanned by the oldest of stone",
@@ -1735,7 +1735,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.gold.flavor": "Piglins love it.",
   "material.tconstruct.gold.armor": "Grants 10% protection per level against magic damage and reduces the time of negative potion effects. Also makes piglins friendly.",
   "material.tconstruct.gold.skull_flavor": "So shiny",
-  "material.tconstruct.gold.skull_encyclopedia": "Causes some gold ores to drop extra gold nuggets, and increases drop chance of gold armor by 4%. Nuggets and armor drops are further boosted by each piece of golden armor worn.",
+  "material.tconstruct.gold.skull_encyclopedia": "Causes some gold ores to drop extra gold nuggets, and increases drop chance of gold armor by 4%. самородокs and armor drops are further boosted by each piece of golden armor worn.",
 
   "material.tconstruct.obsidian":   "Obsidian",
   "material.tconstruct.obsidian.flavor": "This is an obsidian part, if it was not it would not say \"Obsidian.\"",
@@ -1743,11 +1743,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.debris":     "Debris",
   "material.tconstruct.netherite":  "Netherite",
   "material.tconstruct.earthslime": "Earthslime",
-  "material.tconstruct.skyslime":   "Skyslime",
+  "material.tconstruct.skyslime":   "Небослизовий",
   "material.tconstruct.blood":      "Blood",
   "material.tconstruct.magma":      "Magma",
-  "material.tconstruct.ichor":      "Ichor",
-  "material.tconstruct.enderslime": "Enderslime",
+  "material.tconstruct.ichor":      "Іхор",
+  "material.tconstruct.enderslime": "ендерслиз",
   "material.tconstruct.clay":       "Clay",
   "material.tconstruct.honey":      "Honey",
   "material.tconstruct.venom":      "Venom",
@@ -1789,9 +1789,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.silver.armor": "Reduces damage from undead by 5% per level",
 
   "material.tconstruct.whitestone": "End Stone",
-  "material.tconstruct.whitestone.aluminum": "Whitestone",
-  "material.tconstruct.whitestone.tin": "Whitestone",
-  "material.tconstruct.whitestone.zinc": "Whitestone",
+  "material.tconstruct.whitestone.aluminum": "білеstone",
+  "material.tconstruct.whitestone.tin": "білеstone",
+  "material.tconstruct.whitestone.zinc": "білеstone",
   "material.tconstruct.whitestone.flavor": "Take your useless white metals or rocks and make a useful tool",
   "material.tconstruct.whitestone.encyclopedia": "Mining stone has a 20% per level of granting +3 stoneshield",
 
@@ -2026,9 +2026,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.crystalshot.description": "In place of arrows, fires shards of crystal grown from the bow itself. Growing crystals consumes extra durability",
   "modifier.tconstruct.crystalshot.amethyst": "Amethyst",
   "modifier.tconstruct.crystalshot.earthslime": "Earthslime",
-  "modifier.tconstruct.crystalshot.skyslime": "Skyslime",
-  "modifier.tconstruct.crystalshot.ichor": "Ichor",
-  "modifier.tconstruct.crystalshot.enderslime": "Enderslime",
+  "modifier.tconstruct.crystalshot.skyslime": "Небослизовий",
+  "modifier.tconstruct.crystalshot.ichor": "Іхор",
+  "modifier.tconstruct.crystalshot.enderslime": "ендерслиз",
   "modifier.tconstruct.crystalshot.quartz": "Quartz",
   "modifier.tconstruct.crystalshot.random": "Random",
   "modifier.tconstruct.multishot": "Multishot",
@@ -2244,7 +2244,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.dual_wielding.description": "Can attack from the offhand, provided the main hand can also dual wield. Tools with dual wielding have reduced stats",
 
   "_comment": "Loot",
-  "modifier.tconstruct.silky": "Silky",
+  "modifier.tconstruct.silky": "Шовковистий",
   "modifier.tconstruct.silky.flavor": "Smooth as silk!",
   "modifier.tconstruct.silky.description": "Mined blocks drop themselves instead of the usual items",
   "modifier.tconstruct.autosmelt": "Autosmelt",
@@ -2295,10 +2295,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.shears": "Shearing",
   "modifier.tconstruct.shears.flavor": "Snip snip!",
   "modifier.tconstruct.shears.description": "Tool can be used to shear mobs and disarm tripwire",
-  "modifier.tconstruct.silky_shears": "Silky Shears",
+  "modifier.tconstruct.silky_shears": "Шовковистий Shears",
   "modifier.tconstruct.silky_shears.flavor": "Snip snip!",
   "modifier.tconstruct.silky_shears.description": "Tool can shear mobs if the silky modifier is added",
-  "modifier.tconstruct.silky_aoe_shears": "Silky Shears",
+  "modifier.tconstruct.silky_aoe_shears": "Шовковистий Shears",
   "modifier.tconstruct.silky_aoe_shears.flavor": "Snip snip!",
   "modifier.tconstruct.silky_aoe_shears.description": "Tool can shear mobs if the silky modifier is added",
   "modifier.tconstruct.harvest": "Harvest",
@@ -2317,7 +2317,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.springing.flavor": "Sky leaping",
   "modifier.tconstruct.springing.description": "Charge up, aim high, and launch back into the air!",
   "modifier.tconstruct.bonking": "Bonking",
-  "modifier.tconstruct.bonking.flavor": "Ichor knocking",
+  "modifier.tconstruct.bonking.flavor": "Іхор knocking",
   "modifier.tconstruct.bonking.description": "Charge up, aim at a foe, and bonk them away!",
   "modifier.tconstruct.warping": "Warping",
   "modifier.tconstruct.warping.flavor": "Ender transporting",
@@ -2801,9 +2801,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "stat.tconstruct.bowstring": "Bowstring",
   "tool_stat.tconstruct.extra.no_stats": "No stats",
 
-  "tool_stat.tconstruct.block_amount": "Block Amount: ",
+  "tool_stat.tconstruct.block_amount": "блок Amount: ",
   "tool_stat.tconstruct.block_amount.description": "Maximum amount of damage blocked by this shield per attack.",
-  "tool_stat.tconstruct.block_angle": "Block Angle: ",
+  "tool_stat.tconstruct.block_angle": "блок Angle: ",
   "tool_stat.tconstruct.block_angle.description": "Total angle of protection in front when shielding out of a max 360 degrees. Any attacks from an angle beyond this are not blocked.",
 
   "tool_stat.tconstruct.overslime": "Overslime Capacity: ",
@@ -2980,7 +2980,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "subtitles.tconstruct.little_saw": "Saw used",
   "subtitles.tconstruct.item_frame_click": "Item Frame clock clicks",
   "subtitles.tconstruct.casting_cools": "Cast item cools",
-  "subtitles.tconstruct.casting.click": "Casting block clicks",
+  "subtitles.tconstruct.casting.click": "ливарний block clicks",
 
   "subtitles.tconstruct.slime_sling": "Slime Sling bounces",
   "subtitles.tconstruct.slime_sling.teleport": "Slime Sling teleports",
@@ -3003,7 +3003,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "subtitles.tconstruct.block.earth_crystal.chime": "Earth Crystal Chimes",
   "subtitles.tconstruct.block.sky_crystal.chime":   "Sky Crystal Chimes",
-  "subtitles.tconstruct.block.ichor_crystal.chime": "Ichor Crystal Chimes",
+  "subtitles.tconstruct.block.ichor_crystal.chime": "Іхор Crystal Chimes",
   "subtitles.tconstruct.block.ender_crystal.chime": "Ender Crystal Chimes",
 
 
@@ -3012,7 +3012,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "book.tconstruct.material.part_builder": "Can be made in the part builder",
   "book.tconstruct.material.cast_from": "Can be casted from %s in casts",
   "book.tconstruct.material.composite_from": "Can be casted from %s on %s parts",
-  "book.tconstruct.material.skull_from": "Can be created from casting Enderslime on a %s in a basin",
+  "book.tconstruct.material.skull_from": "Can be created from casting ендерслиз on a %s in a котел",
   "book.tconstruct.modifiers.effect": "Effects:",
   "book.tconstruct.tool.properties": "Properties:",
 
@@ -3087,8 +3087,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.temperature": "%s°C",
   "jei.tconstruct.modifier_ingredient": "%s Modifier",
 
-  "jei.tconstruct.casting.basin": "Casting Basin",
-  "jei.tconstruct.casting.table": "Casting Table",
+  "jei.tconstruct.casting.basin": "Ливарний котел",
+  "jei.tconstruct.casting.table": "ливарський стіл",
   "jei.tconstruct.casting.cast_kept": "Cast item can be reused in later recipes",
   "jei.tconstruct.casting.cast_consumed": "Cast item is consumed on casting",
 
@@ -3165,8 +3165,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.smeltery.puny_smelting.title": "Smeltery Recruit",
   "advancements.tconstruct.smeltery.puny_smelting.description": "Craft the guidebook puny smelting",
   "advancements.tconstruct.smeltery.melter.title": "Basic Meltery",
-  "advancements.tconstruct.smeltery.melter.description": "Make a basic melting setup with a melter, a heater or tank, a casting basin, a casting table, and a faucet",
-  "advancements.tconstruct.smeltery.sand_casting.title": "Sand Casting",
+  "advancements.tconstruct.smeltery.melter.description": "Make a basic melting setup with a melter, a heater or tank, ливарний котел, ливарський стіл, and a faucet",
+  "advancements.tconstruct.smeltery.sand_casting.title": "Sand ливарний",
   "advancements.tconstruct.smeltery.sand_casting.description": "Make a basic disposable cast out of sand",
   "advancements.tconstruct.smeltery.gold_casting.title": "Shiny Casts",
   "advancements.tconstruct.smeltery.gold_casting.description": "Make a reusable cast out of gold",
@@ -3187,7 +3187,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.foundry.fantastic_foundry.title": "Nether Smelting",
   "advancements.tconstruct.foundry.fantastic_foundry.description": "Create fantastic foundry, the nether smelting guidebook",
   "advancements.tconstruct.foundry.alloyer.title": "Basic Alloyer",
-  "advancements.tconstruct.foundry.alloyer.description": "Create a basic alloying setup using an alloyer, a fuel tank, some ingot tanks, a casting table, a casting basin, and a faucet",
+  "advancements.tconstruct.foundry.alloyer.description": "Create a basic alloying setup using an alloyer, a fuel tank, some ingot tanks, ливарський стіл, a casting котел, and a faucet",
   "advancements.tconstruct.foundry.structure.title": "The Fantastic Foundry",
   "advancements.tconstruct.foundry.structure.description": "Craft a founry controller from alloyed obsidian, build a foundry, and open the foundry UI",
   "advancements.tconstruct.foundry.blaze.title": "Blazing Blood",
@@ -3204,11 +3204,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.world.tinkers_gadgetry.description": "Craft Tinker's Gadgetry to begin exploring the world",
   "advancements.tconstruct.world.earth_island.title": "Earthslime Island",
   "advancements.tconstruct.world.earth_island.description": "Locate an earthslime island in the ocean",
-  "advancements.tconstruct.world.sky_island.title": "Skyslime Island",
+  "advancements.tconstruct.world.sky_island.title": "Небослизовий Island",
   "advancements.tconstruct.world.sky_island.description": "Locate a skyslime island in the sky",
   "advancements.tconstruct.world.blood_island.title": "Blood Island",
   "advancements.tconstruct.world.blood_island.description": "Locate a blood island in the nether lava ocean",
-  "advancements.tconstruct.world.ender_island.title": "Enderslime Island",
+  "advancements.tconstruct.world.ender_island.title": "ендерслиз Island",
   "advancements.tconstruct.world.ender_island.description": "Locate an enderslime island in the end outer islands",
   "advancements.tconstruct.world.slimesuit.title": "Slimesuit",
   "advancements.tconstruct.world.slimesuit.description": "Create a full slimesuit",
@@ -6328,9 +6328,9 @@ tools.group_large=Broad Tools
 tools.group_ancient=Ancient Tools
 tools.group_staff=Staffs
 tools.tconstruct.earth_staff=Earthslime
-tools.tconstruct.sky_staff=Skyslime
-tools.tconstruct.ichor_staff=Ichor
-tools.tconstruct.ender_staff=Enderslime
+tools.tconstruct.sky_staff=Небослизовий
+tools.tconstruct.ichor_staff=Іхор
+tools.tconstruct.ender_staff=ендерслиз
 armor=Armor
 
 materials_harvest=Melee Harvest Materials
@@ -6672,7 +6672,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   "tool": "tconstruct:dagger",
   "text": [
     { "text": "The Dagger is a quick precise weapon, usable in both hands. Identical daggers can be stacked to 2 when modifying they are undamaged, providing a discount on modifiers." },
-    { "text": "Silky grants shearing.", "paragraph": true }
+    { "text": "Шовковистий grants shearing.", "paragraph": true }
   ],
   "properties": [
     "+3 Attack Damage",
@@ -6764,7 +6764,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   "tool": "tconstruct:sword",
   "text": [
     { "text": "The Sword is an all around weapon, granting medium speed and attack." },
-    { "text": "Expanders on a sword increase the area of the sweep attack, while Silky grants shearing.", "paragraph": true }
+    { "text": "Expanders on a sword increase the area of the sweep attack, while Шовковистий grants shearing.", "paragraph": true }
   ],
   "properties": [
     "+3 Attack Damage",
@@ -6827,13 +6827,13 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:ender_staff",
   "text": [
-    { "text": "Enderslime Staff is a high reach and power staff variant. " }
+    { "text": "ендерслиз Staff is a high reach and power staff variant. " }
   ],
   "properties": [
     "1520 Durability",
     "3 Projectile Power",
     "0.5 Accuracy",
-    "120 Block Angle",
+    "120 блок Angle",
     "3 Upgrade Slots",
     "1 Defense Slot",
     "2 Ability Slots",
@@ -6847,7 +6847,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:ichor_staff",
   "text": [
-    { "text": "Ichor Staff is a high ability slot and velocity staff variant." }
+    { "text": "Іхор Staff is a high ability slot and velocity staff variant." }
   ],
   "properties": [
     "1225 Durability",
@@ -6864,7 +6864,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:sky_staff",
   "text": [
-    { "text": "Skyslime Staff is a highly upgradable and fast staff variant." }
+    { "text": "Небослизовий Staff is a highly upgradable and fast staff variant." }
   ],
   "properties": [
     "375 Durability",
@@ -7013,7 +7013,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
       "text": "Grants +1 modifier slot; type is determined by the recipe. Applying +1 ability slot makes the tool lose 1 upgrade slot.."
     },
     {
-      "text": "Enderslime increases the level of one of the tool traits, typically the head trait.", "paragraph": true
+      "text": "ендерслиз increases the level of one of the tool traits, typically the head trait.", "paragraph": true
     }
   ],
   "more_text_space": true,
@@ -8836,7 +8836,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/language.lang
 intro=Introduction
 melter=Melter
 moving_fluids=Moving Fluids
-casting=Casting
+casting=ливарний
 melee_harvest_materials=Tier 2 Melee Harvest Materials
 melee_harvest_materials.subtext=These materials can be casted into tool parts for melee weapons or harvest tools.
 ranged_materials=Tier 2 Ranged Materials
@@ -8947,7 +8947,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tco
     "Adds a modifier slot",
     "Slot type is determined by the recipe",
     "Greedy are penalized",
-    "Enderslime adds a trait",
+    "ендерслиз adds a trait",
     "Single level"
   ]
 }
@@ -9011,7 +9011,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
   "modifier_id": "tconstruct:farsighted",
   "text": [
     {
-      "text": "Manyullyn is a great material, but there are many good materials that are easier to access, take some time and try them out before rushing to the end."
+      "text": "Майнулин is a great material, but there are many good materials that are easier to access, take some time and try them out before rushing to the end."
     }
   ],
   "effects": [
@@ -9232,7 +9232,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
     }
   ],
   "properties": [
-    "High Block Potential",
+    "High блок Potential",
     "Low speed while shielding",
     "2 Upgrade Slots",
     "3 Defense Slots",
@@ -9317,7 +9317,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
   ],
   "properties": [
     "Low Durability",
-    "Low Block Potential",
+    "Low блок Potential",
     "High speed while shielding",
     "3 Upgrade Slots",
     "2 Defense Slots",
@@ -10567,10 +10567,10 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/automation
   },
   "text": [
     {
-      "text": "Casting basins and tables interact with hoppers, allowing items to easily be inserted and cooled items to be removed."
+      "text": "Ливарний котел та стіл interact with hoppers, allowing items to easily be inserted and cooled items to be removed."
     },
     {
-      "text": "Comparators also make redstone turn funny colors when connected to a basin or table, and a redstone pulse can be used to swap the input and output.",
+      "text": "Comparators also make redstone turn funny colors when connected to a котлу or столу, and a redstone pulse can be used to swap the input and output.",
       "paragraph": true
     }
   ]
@@ -10588,7 +10588,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/sandcast2.
   },
   "text": [
     {
-      "text": "Sand casts can be created by pressing a tool part into a casting table filled with sand."
+      "text": "Sand casts can be created by pressing a tool part into a ливарський стіл filled with sand."
     }
   ]
 }
@@ -10605,10 +10605,10 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/othercast.
   },
   "text": [
     {
-      "text": "Composite casting allows you to make new materials by pouring fluid over an item/block in a casting table/basin."
+      "text": "Composite casting allows you to make new materials by pouring fluid over an item/block in a casting стіл/котел."
     },
     {
-      "text": "Notable materials are Slimewood and Nahuatl, which are made by pouring slime or molten obsidian, respectively, over wooden tool parts.",
+      "text": "Notable materials are Slimewood and Ацтеське, which are made by pouring slime or molten obsidian, respectively, over wooden tool parts.",
       "paragraph": true
     }
   ]
@@ -10626,7 +10626,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/goldcast.j
   },
   "text": [
     {
-      "text": "Gold casts are reusable. To make one, simply pour one ingots worth of molten gold over a tool part placed in a casting table. The tool part is used up in the process."
+      "text": "Gold casts are reusable. To make one, simply pour one ingots worth of molten gold over a tool part placed in ливарський стіл. The tool part is used up in the process."
     }
   ]
 }
@@ -10654,7 +10654,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/sandcast.j
   "title": "Sand Casts",
   "text": [
     {
-      "text": "To cast your tool part: first craft a blank sand cast and use the interact button to put it into a casting table. Craft a tool part in the part builder and use it on the blank sand cast, then use it again to remove the part. You can then pour molten metal into the table and grab your part once it's cooled. The sand cast is used up in the process."
+      "text": "To cast your tool part: first craft a blank sand cast and use the interact button to put it into ливарський стіл. Craft a tool part in the part builder and use it on the blank sand cast, then use it again to remove the part. You can then pour molten metal into стіл and grab your part once it's cooled. The sand cast is used up in the process."
     },
     {
       "text": "Non-blank sand casts will revert into blank sand casts when picked up.",
@@ -10684,7 +10684,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/sandcast3.
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/intro.json
 ```
 {
-  "title": "Casting",
+  "title": "ливарний",
   "image": {
     "file": "tconstruct:book/images/sandcast.png"
   },
@@ -11269,7 +11269,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/intro/intro.js
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/alloyer/casting.json
 ```
 {
-  "title": "Casting",
+  "title": "ливарний",
   "image": {
     "file": "tconstruct:book/images/scorched_casting.png",
     "width": 109,
@@ -12067,7 +12067,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/nec
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/skyslime.json
 ```
 {
-  "title": "Skyslime Islands",
+  "title": "Небослизовий Islands",
   "image": {
     "file": "tconstruct:book/images/islands/skyslime.png",
     "width": 180,
@@ -12075,7 +12075,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "Skyslime islands can be found around the overworld floating above the terrain, and contain grass which is essential for skyslime breeding. Legend tells that skyslimes were invaders from another realm, though they are mostly confined to areas near the islands."
+      "text": "Небослизовий islands can be found around the overworld floating above the terrain, and contain grass which is essential for skyslime breeding. Legend tells that skyslimes were invaders from another realm, though they are mostly confined to areas near the islands."
     }
   ]
 }
@@ -12101,7 +12101,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/enderslime.json
 ```
 {
-  "title": "Enderslime Islands",
+  "title": "ендерслиз Islands",
   "image": {
     "file": "tconstruct:book/images/islands/enderslime.png",
     "width": 180,
@@ -12109,7 +12109,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "Enderslime islands can be found around the outer islands in the end as a breeding ground for enderslimes. I believe skyslimes and enderslimes were once the same before they came to our world, but living in their separate environments changed them."
+      "text": "ендерслиз islands can be found around the outer islands in the end as a breeding ground for enderslimes. I believe skyslimes and enderslimes were once the same before they came to our world, but living in their separate environments changed them."
     }
   ]
 }
@@ -12152,7 +12152,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/skyslime.json
 ```
 {
-  "title": "Skyslime Geodes",
+  "title": "Небослизовий Geodes",
   "image": {
     "file": "tconstruct:book/images/geodes/skyslime.png",
     "width": 180,
@@ -12160,7 +12160,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Skyslime geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. These geodes seem to promote growth of certain varieties of moss nearby."
+      "text": "Небослизовий geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. These geodes seem to promote growth of certain varieties of moss nearby."
     }
   ]
 }
@@ -12169,7 +12169,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/enderslime.json
 ```
 {
-  "title": "Enderslime Geodes",
+  "title": "ендерслиз Geodes",
   "image": {
     "file": "tconstruct:book/images/geodes/enderslime.png",
     "width": 180,
@@ -12177,7 +12177,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Enderslime geodes can be found around the outer islands in the end, both underground and floating on their own. Sometimes it's hard to tell a geode apart from the other rocks floating in that sky."
+      "text": "ендерслиз geodes can be found around the outer islands in the end, both underground and floating on their own. Sometimes it's hard to tell a geode apart from the other rocks floating in that sky."
     }
   ]
 }
@@ -12186,7 +12186,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/ichor.json
 ```
 {
-  "title": "Ichor Geodes",
+  "title": "Іхор Geodes",
   "image": {
 	"file": "tconstruct:book/images/geodes/ichor.png",
     "width": 180,
@@ -12194,7 +12194,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Ichor geodes are one of the best sources of the rare orange slime. They appear at high altitudes in the nether, and the crystals appear to glow as well."
+      "text": "Іхор geodes are one of the best sources of the rare orange slime. They appear at high altitudes in the nether, and the crystals appear to glow as well."
     }
   ]
 }
@@ -12273,7 +12273,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
   ],
   "properties": [
     "Medium Damage",
-    "Medium Block Potential",
+    "Medium блок Potential",
     "3 Defense Slots",
     "1 Ability Slot"
   ]
@@ -12582,7 +12582,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/fancy_f
     { "text": "\n" },
     { "text": "• Diamond: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame." },
     { "text": "\n" },
-    { "text": "• Manyullyn: Always appears fully lit, even in darkness." },
+    { "text": "• Майнулин: Always appears fully lit, even in darkness." },
     { "text": "\n" },
     { "text": "• Netherite: Resistant to fire and explosions." }
   ]
@@ -12665,16 +12665,16 @@ modifiers=Odd Modifiers
 exploration=Exploration
 exploration.necrotic_bones=Necrotic Bone
 
-exploration.skyslime_island=Skyslime
+exploration.skyslime_island=Небослизовий
 exploration.earthslime_island=Earthslime
 exploration.clay_island=Clay
 exploration.blood_island=Blood
-exploration.enderslime_island=Enderslime
+exploration.enderslime_island=ендерслиз
 
-exploration.skyslime_geode=Skyslime
+exploration.skyslime_geode=Небослизовий
 exploration.earthslime_geode=Earthslime
-exploration.ichor_geode=Ichor
-exploration.enderslime_geode=Enderslime
+exploration.ichor_geode=Іхор
+exploration.enderslime_geode=ендерслиз
 
 armor=Slimy Armor
 armor.subtext=Mixing slime with various mob parts produces an interesting set of armor. Its not the most defensive, but it can really enhance your abilities.
@@ -12686,7 +12686,7 @@ ancient_tools=Ancient Tools
 ancient_tools.subtext=Ancient tools are tools rarely found in loot throughout the world. Their material construction appears to be random and cannot be altered, but they may be modified like any other tool.
 
 materials=Skull Materials
-materials.subtext=Placing one of these skulls in a casting basin and adding enderslime can enhance their ability as a helmet.
+materials.subtext=Placing one of these skulls in a casting котел and adding enderslime can enhance their ability as a helmet.
 ```
 
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/intro.json
@@ -12743,7 +12743,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
 {
   "tool": "tconstruct:ichor_staff",
   "text": [
-    { "text": "Ichor is uncommon stuff, but allows making some of the strongest staffs. Grants higher projectile power at the cost of drawspeed." }
+    { "text": "Іхор is uncommon stuff, but allows making some of the strongest staffs. Grants higher projectile power at the cost of drawspeed." }
   ],
   "properties": [
     "High Durability",
@@ -12758,7 +12758,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
 {
   "tool": "tconstruct:sky_staff",
   "text": [
-    { "text": "Skyslime staffs leave a lot of room for modification. Grants higher drawspeed at the cost of projectile power." }
+    { "text": "Небослизовий staffs leave a lot of room for modification. Grants higher drawspeed at the cost of projectile power." }
   ],
   "properties": [
     "Low Durability",
@@ -12791,7 +12791,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   "tool": "tconstruct:slime_leggings",
   "text": [
     { "text": "Slimeshells are one part defense, one part storage, granting the best of both shulker abilities." },
-    { "text": "To create these wondrous pants, pour enderslime on a shulker shell in a basin. The shell can later be repaired using chorus.", "paragraph": true }
+    { "text": "To create these wondrous pants, pour enderslime on a shulker shell in a котел. The shell can later be repaired using chorus.", "paragraph": true }
   ],
   "properties": [
     "High Durability",
