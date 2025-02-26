@@ -119,9 +119,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "__comment": "Tier 3 Metals",
 
-  "block.tconstruct.slimesteel_block": "Блок слизосталі",
-  "item.tconstruct.slimesteel_ingot": "Слизосталевий злиток",
-  "item.tconstruct.slimesteel_nugget": "Слизосталевий самородок",
+  "block.tconstruct.slimesteel_block": "Блок сталеслизу",
+  "item.tconstruct.slimesteel_ingot": "Сталеслизoвий злиток",
+  "item.tconstruct.slimesteel_nugget": "Сталеслизoвий самородок",
 
   "block.tconstruct.amethyst_bronze_block": "Блок аметистової бронзи",
   "item.tconstruct.amethyst_bronze_ingot": "Аметистово-бронзовий злиток",
@@ -169,120 +169,120 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "__comment": "Tier 5 Metals",
 
-  "block.tconstruct.knightslime_block": "блок of Knightslime",
-  "item.tconstruct.knightslime_ingot": "Knightslime злиток",
-  "item.tconstruct.knightslime_ingot.tooltip": "Slimy yet metallic but also stone? Fascinating!",
-  "item.tconstruct.knightslime_nugget": "Knightslime самородок",
+  "block.tconstruct.knightslime_block": "Блок лицареслизу",
+  "item.tconstruct.knightslime_ingot": "Лицареслизовий злиток",
+  "item.tconstruct.knightslime_ingot.tooltip": "Слиз, та металевий, але й камінь? Захопливо!",
+  "item.tconstruct.knightslime_nugget": "Лицареслизовий самородок",
 
-  "item.tconstruct.materials_and_you": "Materials and You",
-  "item.tconstruct.materials_and_you.tooltip": "The introduction book into tools and materials\nby Selena",
-  "item.tconstruct.encyclopedia": "Encyclopedia of Tinkering",
-  "item.tconstruct.encyclopedia.tooltip": "The reference book every tinker needs\nby Selena",
+  "item.tconstruct.materials_and_you": "Матеріали й ти",
+  "item.tconstruct.materials_and_you.tooltip": "Вступ в інструменти й матеріали\nвід Селени",
+  "item.tconstruct.encyclopedia": "Лудильницька енциклопедія",
+  "item.tconstruct.encyclopedia.tooltip": "Виписка всього для лудильника\nвід Селени",
 
-  "item.tconstruct.tinkers_gadgetry": "Tinker's Gadgetry",
-  "item.tconstruct.tinkers_gadgetry.tooltip": "Book of uses of slime in everyday tasks\nby Melvin",
+  "item.tconstruct.tinkers_gadgetry": "Лудильницькі причандали",
+  "item.tconstruct.tinkers_gadgetry.tooltip": "Використання слизу в повсякденні\nвід Мелвіна",
 
-  "item.tconstruct.puny_smelting": "Puny Smelting",
-  "item.tconstruct.puny_smelting.tooltip": "Smelting and casting guidebook for beginners\nby Thruul M'Gon",
-  "item.tconstruct.mighty_smelting": "Mighty Smelting",
-  "item.tconstruct.mighty_smelting.tooltip": "Textbook for mastery of melting, casting, and alloying\nby Thruul M'Gon",
+  "item.tconstruct.puny_smelting": "Легеньке плавлення",
+  "item.tconstruct.puny_smelting.tooltip": "Плавка та ливарство для новачків\nвід Thruul M'Gon",
+  "item.tconstruct.mighty_smelting": "Могутнє плавлення",
+  "item.tconstruct.mighty_smelting.tooltip": "Посібник з опанування плавки, ливарства та легування\nвід Thruul M'Gon",
 
-  "item.tconstruct.fantastic_foundry": "Fantastic Foundry",
-  "item.tconstruct.fantastic_foundry.tooltip": "Book about the hottest new technology in molten metals\nby Nemea",
+  "item.tconstruct.fantastic_foundry": "Потужне виплавляння",
+  "item.tconstruct.fantastic_foundry.tooltip": "Найгарячіші технології з плавлення металів\nвід Немея",
 
-  "item.tconstruct.sky_slime_ball": "Небослизовий Ball",
-  "item.tconstruct.ender_slime_ball": "ендерслиз Ball",
-  "item.tconstruct.ichor_slime_ball": "Іхор Ball",
+  "item.tconstruct.sky_slime_ball": "Небослизовова кулька",
+  "item.tconstruct.ender_slime_ball": "Ендерслизова кулька",
+  "item.tconstruct.ichor_slime_ball": "Іхорова кулька",
 
-  "item.tconstruct.bacon": "Bacon",
-  "item.tconstruct.cheese_ingot": "Cheese",
-  "block.tconstruct.cheese_block": "Cheese блок",
-  "item.tconstruct.cheese.tooltip": "Removes a random effect when eaten",
+  "item.tconstruct.bacon": "Бекон",
+  "item.tconstruct.cheese_ingot": "Сир",
+  "block.tconstruct.cheese_block": "Блок сиру",
+  "item.tconstruct.cheese.tooltip": "Прибирає довільний ефект",
 
-  "item.tconstruct.earth_slime_crystal": "Earthslime Crystal",
-  "block.tconstruct.earth_slime_crystal_block": "Earthslime Crystal блок",
-  "block.tconstruct.small_earth_slime_crystal_bud": "Small Earthslime Crystal Bud",
-  "block.tconstruct.medium_earth_slime_crystal_bud": "Medium Earthslime Crystal Bud",
-  "block.tconstruct.large_earth_slime_crystal_bud": "Large Earthslime Crystal Bud",
-  "block.tconstruct.earth_slime_crystal_cluster": "Earthslime Crystal Cluster",
-  "block.tconstruct.budding_earth_slime_crystal": "Budding Earthslime Crystal",
+  "item.tconstruct.earth_slime_crystal": "Землеслизовий кристал",
+  "block.tconstruct.earth_slime_crystal_block": "Блок землеслизового кристалу",
+  "block.tconstruct.small_earth_slime_crystal_bud": "Малий зародок землеслизового кристалу",
+  "block.tconstruct.medium_earth_slime_crystal_bud": "Середній зародок землеслизового кристалу",
+  "block.tconstruct.large_earth_slime_crystal_bud": "Великий зародок землеслизового кристалу",
+  "block.tconstruct.earth_slime_crystal_cluster": "Землеслизова кристальна друза",
+  "block.tconstruct.budding_earth_slime_crystal": "Родючий землеслизовий кристал",
 
-  "item.tconstruct.sky_slime_crystal": "Небослизовий Crystal",
-  "block.tconstruct.sky_slime_crystal_block": "Небослизовий Crystal блок",
-  "block.tconstruct.small_sky_slime_crystal_bud": "Small Небослизовий Crystal Bud",
-  "block.tconstruct.medium_sky_slime_crystal_bud": "Medium Небослизовий Crystal Bud",
-  "block.tconstruct.large_sky_slime_crystal_bud": "Large Небослизовий Crystal Bud",
-  "block.tconstruct.sky_slime_crystal_cluster": "Небослизовий Crystal Cluster",
-  "block.tconstruct.budding_sky_slime_crystal": "Budding Небослизовий Crystal",
+  "item.tconstruct.sky_slime_crystal": "Небослизовий кристал",
+  "block.tconstruct.sky_slime_crystal_block": "Блок небослизового кристалу",
+  "block.tconstruct.small_sky_slime_crystal_bud": "Малий зародок небослизового кристалу",
+  "block.tconstruct.medium_sky_slime_crystal_bud": "Середній зародок небослизового кристалу",
+  "block.tconstruct.large_sky_slime_crystal_bud": "Великий зародок небослизового кристалу",
+  "block.tconstruct.sky_slime_crystal_cluster": "Небослизова кристальна друза",
+  "block.tconstruct.budding_sky_slime_crystal": "Родючий небослизовий кристал",
 
-  "item.tconstruct.ichor_slime_crystal": "Іхор Crystal",
-  "block.tconstruct.ichor_slime_crystal_block": "Іхор Crystal блок",
-  "block.tconstruct.small_ichor_slime_crystal_bud": "Small Іхор Crystal Bud",
-  "block.tconstruct.medium_ichor_slime_crystal_bud": "Medium Іхор Crystal Bud",
-  "block.tconstruct.large_ichor_slime_crystal_bud": "Large Іхор Crystal Bud",
-  "block.tconstruct.ichor_slime_crystal_cluster": "Іхор Crystal Cluster",
-  "block.tconstruct.budding_ichor_slime_crystal": "Budding Іхор Crystal",
+  "item.tconstruct.ichor_slime_crystal": "Іхоровий кристал",
+  "block.tconstruct.ichor_slime_crystal_block": "Блок іхорового кристалу",
+  "block.tconstruct.small_ichor_slime_crystal_bud": "Малий зародок іхорового кристалу",
+  "block.tconstruct.medium_ichor_slime_crystal_bud": "Середній зародок іхорового кристалу",
+  "block.tconstruct.large_ichor_slime_crystal_bud": "Великий зародок іхорового кристалу",
+  "block.tconstruct.ichor_slime_crystal_cluster": "Іхорова кристальна друза",
+  "block.tconstruct.budding_ichor_slime_crystal": "Родючий іхоровий кристал",
 
-  "item.tconstruct.ender_slime_crystal": "ендерслиз Crystal",
-  "block.tconstruct.ender_slime_crystal_block": "ендерслиз Crystal блок",
-  "block.tconstruct.small_ender_slime_crystal_bud": "Small ендерслиз Crystal Bud",
-  "block.tconstruct.medium_ender_slime_crystal_bud": "Medium ендерслиз Crystal Bud",
-  "block.tconstruct.large_ender_slime_crystal_bud": "Large ендерслиз Crystal Bud",
-  "block.tconstruct.ender_slime_crystal_cluster": "ендерслиз Crystal Cluster",
-  "block.tconstruct.budding_ender_slime_crystal": "Budding ендерслиз Crystal",
+  "item.tconstruct.ender_slime_crystal": "Ендерслизовий кристал",
+  "block.tconstruct.ender_slime_crystal_block": "Блок ендерслизового кристалу",
+  "block.tconstruct.small_ender_slime_crystal_bud": "Малий зародок ендерслизового кристалу",
+  "block.tconstruct.medium_ender_slime_crystal_bud": "Середній зародок ендерслизового кристалу",
+  "block.tconstruct.large_ender_slime_crystal_bud": "Великий зародок ендерслизового кристалу",
+  "block.tconstruct.ender_slime_crystal_cluster": "Ендерслизова кристальна друза",
+  "block.tconstruct.budding_ender_slime_crystal": "Родючий ендерслизовий кристал",
 
-  "item.tconstruct.emerald_reinforcement": "Emerald Reinforcement",
-  "item.tconstruct.emerald_reinforcement.tooltip": "Reduces chance of a tool taking damage",
-  "item.tconstruct.slimesteel_reinforcement": "Слизосталевий Reinforcement",
-  "item.tconstruct.slimesteel_reinforcement.tooltip": "Increases slimesteel capacity",
-  "item.tconstruct.seared_reinforcement": "Seared Reinforcement",
-  "item.tconstruct.seared_reinforcement.tooltip": "Increases armor resistance against fire",
-  "item.tconstruct.iron_reinforcement": "Iron Reinforcement",
-  "item.tconstruct.iron_reinforcement.tooltip": "Increases armor resistance against projectiles",
-  "item.tconstruct.obsidian_reinforcement": "Obsidian Reinforcement",
-  "item.tconstruct.obsidian_reinforcement.tooltip": "Increases armor resistance against explosions",
-  "item.tconstruct.gold_reinforcement": "Gold Reinforcement",
-  "item.tconstruct.gold_reinforcement.tooltip": "Increases armor resistance against magic",
-  "item.tconstruct.cobalt_reinforcement": "кобальт Reinforcement",
-  "item.tconstruct.cobalt_reinforcement.tooltip": "Increases armor resistance against general attacks",
-  "item.tconstruct.jeweled_apple": "Jeweled Apple",
-  "item.tconstruct.silky_cloth": "Шовковистий Cloth",
-  "item.tconstruct.silky_cloth.tooltip": "Prevents a tool from damaging block drops",
-  "item.tconstruct.silky_jewel": "Шовковистий Jewel",
-  "item.tconstruct.silky_jewel.tooltip": "Prevents a tool from damaging block drops",
-  "item.tconstruct.necrotic_bone": "Necrotic Bone",
-  "item.tconstruct.necrotic_bone.tooltip": "Dropped from wither skeletons",
-  "item.tconstruct.necronium_bone": "Necronium Bone",
-  "item.tconstruct.venombone": "Venombone",
-  "item.tconstruct.blazing_bone": "Blazing Bone",
-  "item.tconstruct.dragon_scale": "Dragon Scale",
-  "item.tconstruct.dragon_scale.tooltip": "Blasted off an ender dragon",
+  "item.tconstruct.emerald_reinforcement": "Смарагдове посилення",
+  "item.tconstruct.emerald_reinforcement.tooltip": "Зменшує шанс ламання інструменту",
+  "item.tconstruct.slimesteel_reinforcement": "Сталеслизеве посилення",
+  "item.tconstruct.slimesteel_reinforcement.tooltip": "Збільшує вміст сталеслизову",
+  "item.tconstruct.seared_reinforcement": "Обпалене посилення",
+  "item.tconstruct.seared_reinforcement.tooltip": "Збільшує стійкість броні до вогню",
+  "item.tconstruct.iron_reinforcement": "Залізне посилення",
+  "item.tconstruct.iron_reinforcement.tooltip": "Збільшує стійкість броні до снарядів",
+  "item.tconstruct.obsidian_reinforcement": "Обсидіанове посилення",
+  "item.tconstruct.obsidian_reinforcement.tooltip": "Збільшує стійкість броні до вибухів",
+  "item.tconstruct.gold_reinforcement": "Золоте посилення",
+  "item.tconstruct.gold_reinforcement.tooltip": "Збільшує стійкість броні до магії",
+  "item.tconstruct.cobalt_reinforcement": "Кобальтове посилення",
+  "item.tconstruct.cobalt_reinforcement.tooltip": "Збільшує стійкість броні загалом до атак",
+  "item.tconstruct.jeweled_apple": "Коштовне яблуко",
+  "item.tconstruct.silky_cloth": "Шовк",
+  "item.tconstruct.silky_cloth.tooltip": "Не пошкоджує блоки при добуванні",
+  "item.tconstruct.silky_jewel": "Шовковиста коштовність",
+  "item.tconstruct.silky_jewel.tooltip": "Не пошкоджує блоки при добуванні",
+  "item.tconstruct.necrotic_bone": "Візер кістка",
+  "item.tconstruct.necrotic_bone.tooltip": "Випадає з візера-скелета",
+  "item.tconstruct.necronium_bone": "Мертва кістка",
+  "item.tconstruct.venombone": "Отруєна кістка",
+  "item.tconstruct.blazing_bone": "Пломенева кістка",
+  "item.tconstruct.dragon_scale": "Луска дракона",
+  "item.tconstruct.dragon_scale.tooltip": "Відривається від ендер дракона",
 
-  "item.tconstruct.modifier_crystal": "Modifier Crystal",
-  "item.tconstruct.modifier_crystal.format": "%s Crystal",
-  "item.tconstruct.modifier_crystal.missing": "Missing or invalid NBT defining the modifier type",
-  "item.tconstruct.modifier_crystal.tooltip": "Apply to a tool to gain 1 level of the modifier, consuming the appropriate slots.",
-  "item.tconstruct.modifier_crystal.modifier_id": "Modifier ID: %s",
+  "item.tconstruct.modifier_crystal": "Змінний кристал",
+  "item.tconstruct.modifier_crystal.format": "%s кристал",
+  "item.tconstruct.modifier_crystal.missing": "Відсутній або неправильний NBT для змінника",
+  "item.tconstruct.modifier_crystal.tooltip": "Нанеси на інструмент, щоб отримати 1 рівень змін, споживаючи відповідні ячерки.",
+  "item.tconstruct.modifier_crystal.modifier_id": "ID змінника: %s",
 
-  "item.tconstruct.creative_slot": "Creative Slot",
-  "item.tconstruct.creative_slot.upgrades": "Creative Upgrade",
-  "item.tconstruct.creative_slot.abilities": "Creative Ability",
-  "item.tconstruct.creative_slot.souls": "Creative Soul Slot",
-  "item.tconstruct.creative_slot.defense": "Creative Defense Slot",
-  "item.tconstruct.creative_slot.missing": "Missing or invalid NBT defining the slot type",
-  "item.tconstruct.creative_slot.tooltip": "Adds an additional %s slot to a tool",
+  "item.tconstruct.creative_slot": "Ячейка творчости",
+  "item.tconstruct.creative_slot.upgrades": "Покращення творчости",
+  "item.tconstruct.creative_slot.abilities": "Здібність творчости",
+  "item.tconstruct.creative_slot.souls": "Ячейка душі творчости",
+  "item.tconstruct.creative_slot.defense": "Ячейка захисту творчости",
+  "item.tconstruct.creative_slot.missing": "Відсутній або неправильний NBT для типу слоту",
+  "item.tconstruct.creative_slot.tooltip": "Додає ячейку %s до інструменту",
 
-  "item.tconstruct.copper_can": "Copper Can",
-  "item.tconstruct.copper_can.tooltip": "Stackable container holding 1 ingot of fluid",
-  "item.tconstruct.copper_can.contents": "Contains: 1 ingot %s",
+  "item.tconstruct.copper_can": "Мідний жбан",
+  "item.tconstruct.copper_can.tooltip": "Посудина для 1 рідкого злитку, яка стакається",
+  "item.tconstruct.copper_can.contents": "Містить: 1 %s злиток",
 
 
   "_comment": "Tinkers Patterns",
 
-  "pattern.tconstruct.ingot": "злиток",
-  "pattern.tconstruct.nugget": "самородок",
+  "pattern.tconstruct.ingot": "Злиток",
+  "pattern.tconstruct.nugget": "Самородок",
   "pattern.tconstruct.gem": "Gem",
-  "pattern.tconstruct.rod": "Rod",
+  "pattern.tconstruct.rod": "Стрижень",
 
   "pattern.tconstruct.gear": "Gear",
   "pattern.tconstruct.plate": "Small Plate",
@@ -334,7 +334,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.ingot_cast": "злиток Gold Cast",
   "item.tconstruct.nugget_cast": "самородок Gold Cast",
   "item.tconstruct.gem_cast": "Gem Gold Cast",
-  "item.tconstruct.rod_cast": "Rod Gold Cast",
+  "item.tconstruct.rod_cast": "Стрижень Gold Cast",
 
   "item.tconstruct.gear_cast": "Gear Gold Cast",
   "item.tconstruct.plate_cast": "Small Plate Gold Cast",
@@ -383,7 +383,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.ingot_sand_cast": "злиток Sand Cast",
   "item.tconstruct.nugget_sand_cast": "самородок Sand Cast",
   "item.tconstruct.gem_sand_cast": "Gem Sand Cast",
-  "item.tconstruct.rod_sand_cast": "Rod Sand Cast",
+  "item.tconstruct.rod_sand_cast": "Стрижень Sand Cast",
 
   "item.tconstruct.gear_sand_cast": "Gear Sand Cast",
   "item.tconstruct.plate_sand_cast": "Small Plate Sand Cast",
@@ -433,7 +433,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.ingot_red_sand_cast": "злиток Red Sand Cast",
   "item.tconstruct.nugget_red_sand_cast": "самородок Red Sand Cast",
   "item.tconstruct.gem_red_sand_cast": "Gem Red Sand Cast",
-  "item.tconstruct.rod_red_sand_cast": "Rod Red Sand Cast",
+  "item.tconstruct.rod_red_sand_cast": "Стрижень Red Sand Cast",
 
   "item.tconstruct.gear_red_sand_cast": "Gear Red Sand Cast",
   "item.tconstruct.plate_red_sand_cast": "Small Plate Red Sand Cast",
@@ -553,11 +553,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.ender_slime_bucket": "ендерслиз Bucket",
   "item.tconstruct.ender_slime_bottle": "ендерслиз Bottle",
 
-  "block.tconstruct.venom_fluid": "Venom",
-  "fluid.tconstruct.venom": "Venom",
-  "fluid.tconstruct.flowing_venom": "Flowing Venom",
-  "item.tconstruct.venom_bucket": "Venom Bucket",
-  "item.tconstruct.venom_bottle": "Venom Bottle",
+  "block.tconstruct.venom_fluid": "Отрута",
+  "fluid.tconstruct.venom": "Отрута",
+  "fluid.tconstruct.flowing_venom": "Flowing Отрута",
+  "item.tconstruct.venom_bucket": "Отрута Bucket",
+  "item.tconstruct.venom_bottle": "Отрута Bottle",
 
   "block.tconstruct.ichor_fluid": "Іхор",
   "fluid.tconstruct.ichor": "Іхор",
@@ -656,10 +656,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tier 3 Alloys",
 
-  "block.tconstruct.molten_slimesteel_fluid": "Molten Слизосталевий",
-  "fluid.tconstruct.molten_slimesteel": "Molten Слизосталевий",
-  "fluid.tconstruct.flowing_molten_slimesteel": "Flowing Molten Слизосталевий",
-  "item.tconstruct.molten_slimesteel_bucket": "Molten Слизосталевий Bucket",
+  "block.tconstruct.molten_slimesteel_fluid": "Molten сталеслизевий",
+  "fluid.tconstruct.molten_slimesteel": "Molten сталеслизевий",
+  "fluid.tconstruct.flowing_molten_slimesteel": "Flowing Molten сталеслизевий",
+  "item.tconstruct.molten_slimesteel_bucket": "Molten сталеслизевий Bucket",
 
   "block.tconstruct.molten_amethyst_bronze_fluid": "Molten Amethyst Bronze",
   "fluid.tconstruct.molten_amethyst_bronze": "Molten Amethyst Bronze",
@@ -708,10 +708,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "fluid.tconstruct.flowing_molten_netherite": "Flowing Molten Netherite",
   "item.tconstruct.molten_netherite_bucket": "Molten Netherite Bucket",
 
-  "block.tconstruct.molten_knightslime_fluid": "Molten Knightslime",
-  "fluid.tconstruct.molten_knightslime": "Molten Knightslime",
-  "fluid.tconstruct.flowing_molten_knightslime": "Flowing Molten Knightslime",
-  "item.tconstruct.molten_knightslime_bucket": "Molten Knightslime Bucket",
+  "block.tconstruct.molten_knightslime_fluid": "Molten Лицареслиз",
+  "fluid.tconstruct.molten_knightslime": "Molten Лицареслиз",
+  "fluid.tconstruct.flowing_molten_knightslime": "Flowing Molten Лицареслиз",
+  "item.tconstruct.molten_knightslime_bucket": "Molten Лицареслиз Bucket",
 
   "_comment": "Compat Ores",
 
@@ -854,7 +854,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.flint_shuriken": "Flint Shuriken",
   "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
 
-  "block.tconstruct.earth_cake": "Earthslime Cake",
+  "block.tconstruct.earth_cake": "Землеслиз Cake",
   "block.tconstruct.sky_cake":   "Небослизовий Cake",
   "block.tconstruct.ichor_cake": "Іхор Cake",
   "block.tconstruct.ender_cake": "ендерслиз Cake",
@@ -880,17 +880,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "block.tconstruct.crafting_station": "Crafting Station",
 
-  "block.tconstruct.tinker_station": "Tinker Station",
-  "block.tconstruct.tinkers_anvil": "Tinker's Anvil",
-  "block.tconstruct.scorched_anvil": "Tinker's Anvil",
+  "block.tconstruct.tinker_station": "Лудильник Station",
+  "block.tconstruct.tinkers_anvil": "Лудильник's Anvil",
+  "block.tconstruct.scorched_anvil": "Лудильник's Anvil",
 
   "block.tconstruct.part_builder": "Part Builder",
-  "block.tconstruct.modifier_worktable": "Modifier Worktable",
+  "block.tconstruct.modifier_worktable": "Зміни Worktable",
 
   "block.tconstruct.part_chest": "Part Chest",
   "block.tconstruct.part_chest.tooltip": "Holds up to 256 different tool parts",
 
-  "block.tconstruct.tinkers_chest": "Tinker's Chest",
+  "block.tconstruct.tinkers_chest": "Лудильник's Chest",
   "block.tconstruct.tinkers_chest.tooltip": "Holds up to 64 stacks of 16 items",
 
   "block.tconstruct.cast_chest": "Cast Chest",
@@ -928,7 +928,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "item.tconstruct.flint_and_brick": "Flint and Brick",
   "item.tconstruct.sky_staff": "Небослизовий Staff",
-  "item.tconstruct.earth_staff": "Earthslime Staff",
+  "item.tconstruct.earth_staff": "Землеслиз Staff",
   "item.tconstruct.ichor_staff": "Іхор Staff",
   "item.tconstruct.ender_staff": "ендерслиз Staff",
   
@@ -1073,11 +1073,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "gui.tconstruct.melting.fuel.invalid": "Invalid melting fuel!",
 
   "gui.tconstruct.tank.bucket.auto.title": "Mode: Auto",
-  "gui.tconstruct.tank.bucket.auto.description": "Slot will attempt to empty then fill the item",
+  "gui.tconstruct.tank.bucket.auto.description": "Ячейка will attempt to empty then fill the item",
   "gui.tconstruct.tank.bucket.empty_item.title": "Mode: Empty Item",
-  "gui.tconstruct.tank.bucket.empty_item.description": "Slot will attempt to empty the item",
+  "gui.tconstruct.tank.bucket.empty_item.description": "Ячейка will attempt to empty the item",
   "gui.tconstruct.tank.bucket.fill_item.title": "Mode: Fill Item",
-  "gui.tconstruct.tank.bucket.fill_item.description": "Slot will attempt to fill the item",
+  "gui.tconstruct.tank.bucket.fill_item.description": "Ячейка will attempt to fill the item",
   "gui.tconstruct.tank.bucket.clickable": "Click to toggle fluid transfer mode",
 
   "gui.tconstruct.duct": "Duct",
@@ -1289,8 +1289,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers World",
 
-  "entity.tconstruct.earth_slime": "Earthslime",
-  "item.tconstruct.earth_slime_spawn_egg": "Earthslime Spawn Egg",
+  "entity.tconstruct.earth_slime": "Землеслиз",
+  "item.tconstruct.earth_slime_spawn_egg": "Землеслиз Spawn Egg",
   "entity.tconstruct.sky_slime": "Небослизовий",
   "item.tconstruct.sky_slime_spawn_egg": "Небослизовий Spawn Egg",
   "entity.tconstruct.ender_slime": "ендерслиз",
@@ -1298,7 +1298,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "entity.tconstruct.terracube": "Terracube",
   "item.tconstruct.terracube_spawn_egg": "Terracube Spawn Egg",
 
-  "block.tconstruct.earth_slime_dirt": "Earthslime Dirt",
+  "block.tconstruct.earth_slime_dirt": "Землеслиз Dirt",
   "block.tconstruct.earth_slime_dirt.tooltip": "Slimy, but lets you jump higher",
   "block.tconstruct.sky_slime_dirt": "Небослизовий Dirt",
   "block.tconstruct.sky_slime_dirt.tooltip": "Slimy, but lets you jump higher",
@@ -1307,15 +1307,15 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.ender_slime_dirt": "ендерслиз Dirt",
   "block.tconstruct.ender_slime_dirt.tooltip": "Slimy, but lets you jump higher",
 
-  "block.tconstruct.earth_vanilla_slime_grass": "Earthslime Grass",
+  "block.tconstruct.earth_vanilla_slime_grass": "Землеслиз Grass",
   "block.tconstruct.earth_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_earth_slime_grass": "Earthslime Grass",
+  "block.tconstruct.earth_earth_slime_grass": "Землеслиз Grass",
   "block.tconstruct.earth_earth_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_sky_slime_grass": "Earthslime Grass",
+  "block.tconstruct.earth_sky_slime_grass": "Землеслиз Grass",
   "block.tconstruct.earth_sky_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_ichor_slime_grass": "Earthslime Grass",
+  "block.tconstruct.earth_ichor_slime_grass": "Землеслиз Grass",
   "block.tconstruct.earth_ichor_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_ender_slime_grass": "Earthslime Grass",
+  "block.tconstruct.earth_ender_slime_grass": "Землеслиз Grass",
   "block.tconstruct.earth_ender_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
 
   "block.tconstruct.sky_vanilla_slime_grass": "Небослизовий Grass",
@@ -1362,7 +1362,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.ender_ender_slime_grass": "ендерслиз Grass",
   "block.tconstruct.ender_ender_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
 
-  "item.tconstruct.earth_slime_grass_seeds": "Earthslime Seeds",
+  "item.tconstruct.earth_slime_grass_seeds": "Землеслиз Seeds",
   "item.tconstruct.earth_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass",
   "item.tconstruct.sky_slime_grass_seeds": "Небослизовий Seeds",
   "item.tconstruct.sky_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass, or on vines to get slimy vines",
@@ -1539,7 +1539,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "material.tconstruct.flint": "Flint",
   "material.tconstruct.flint.basalt": "Basalt",
-  "material.tconstruct.flint.flavor": "This will spark the flames of a Tinker's heart!",
+  "material.tconstruct.flint.flavor": "This will spark the flames of a Лудильник's heart!",
   "material.tconstruct.flint.encyclopedia": "Increases damage by a quarter of the square root of the trait level times lost durability",
 
   "material.tconstruct.bone": "Bone",
@@ -1549,7 +1549,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.bone.skull_flavor": "Got Milk?",
   "material.tconstruct.bone.skull_encyclopedia": "Grants resistance for 1 minute after drinking milk",
 
-  "material.tconstruct.necrotic_bone": "Necrotic Bone",
+  "material.tconstruct.necrotic_bone": "Візер кістка",
   "material.tconstruct.necrotic_bone.flavor": "Do you have a bone to pick with me?",
   "material.tconstruct.necrotic_bone.encyclopedia": "Heals a percentage of damage dealt from critical hits",
   "material.tconstruct.necrotic_bone.ranged": "Heals a percentage of damage dealt from successful arrow hits",
@@ -1615,7 +1615,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.slimewood.flavor": "Is this the wood of a slime or slime that's been infused with wood?",
   "material.tconstruct.slimewood.encyclopedia": "Gives a 5% chance per level of regenerating overslime each second",
 
-  "material.tconstruct.venombone": "Venombone",
+  "material.tconstruct.venombone": "Отруєна кістка",
   "material.tconstruct.venombone.flavor": "Become the bane of your enemies",
   "material.tconstruct.venombone.encyclopedia": "Boosts melee damage when poisoned by 0.5 plus the level of poison",
   "material.tconstruct.venombone.ranged": "Boosts drawspeed when poisoned by 0.05 plus 0.1 per level of poison",
@@ -1635,7 +1635,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
 
   "__comment": "Tier 3 Materials",
-  "material.tconstruct.slimesteel": "Слизосталь",
+  "material.tconstruct.slimesteel": "сталеслизь",
   "material.tconstruct.slimesteel.flavor": "You must steal the slime to get slimesteel.",
   "material.tconstruct.slimesteel.encyclopedia": "Grants 25 extra overslime, +50% of the total per level",
 
@@ -1673,7 +1673,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.cobalt.armor": "Reduces damage from melee attacks by 10% per level, and boosts movement speed when using items by 5% per max level",
 
   "material.tconstruct.manyullyn": "Майнулин",
-  "material.tconstruct.manyullyn.flavor": "The metal that most Tinkers will never pronounce right. Also known as a star cutting material.",
+  "material.tconstruct.manyullyn.flavor": "The metal that most Лудильникs will never pronounce right. Also known as a star cutting material.",
   "material.tconstruct.manyullyn.encyclopedia": "Grants +2 damage per level after 8 consecutive hits",
   "material.tconstruct.manyullyn.ranged": "Arrows gain +1 damage per level (before velocity) after 8 consecutive arrow hits",
   "material.tconstruct.manyullyn.armor": "Temporarily boosts melee damage by 1 after taking damage, capping at the total level across all armor",
@@ -1711,7 +1711,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.ancient_hide.armor": "Grants an extra defense slot",
 
   "__comment": "Tier End Materials",
-  "material.tconstruct.knightslime": "Knightslime",
+  "material.tconstruct.knightslime": "Лицареслиз",
 
   "material.tconstruct.enderslime_vine": "Slimy Vine",
   "material.tconstruct.enderslime_vine.flavor": "The End?",
@@ -1742,7 +1742,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.obsidian.armor": "Grants 10% protection per level against explosions, and reduces explosion knockback",
   "material.tconstruct.debris":     "Debris",
   "material.tconstruct.netherite":  "Netherite",
-  "material.tconstruct.earthslime": "Earthslime",
+  "material.tconstruct.earthslime": "Землеслиз",
   "material.tconstruct.skyslime":   "Небослизовий",
   "material.tconstruct.blood":      "Blood",
   "material.tconstruct.magma":      "Magma",
@@ -1750,7 +1750,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.enderslime": "ендерслиз",
   "material.tconstruct.clay":       "Clay",
   "material.tconstruct.honey":      "Honey",
-  "material.tconstruct.venom":      "Venom",
+  "material.tconstruct.venom":      "Отрута",
   "material.tconstruct.phantom":    "Phantom Membrane",
 
   "material.tconstruct.nickel":   "Nickel",
@@ -1831,9 +1831,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.electrum.encyclopedia": "Grants +50% XP per level from blocks and monsters",
   "material.tconstruct.electrum.ranged": "Grants +50% XP per level from monsters killed by arrows",
 
-  "material.tconstruct.necronium": "Necronium",
-  "material.tconstruct.necronium.flavor": "This much decay probably only leaves it with a quarter life",
-  "material.tconstruct.necronium.encyclopedia": "Causes at least 5 seconds of wither, to your target and at a 25% chance to you",
+  "material.tconstruct.necronium": "Мертвоній",
+  "material.tconstruct.necronium.flavor": "Такий прогнилий, що вже й десь на чверть живий",
+  "material.tconstruct.necronium.encyclopedia": "Накладає від 5 секунд висушування на твою ціль та з шансом в 25% на тебе",
 
   "material.tconstruct.plated_slimewood": "Plated Slimewood",
   "material.tconstruct.plated_slimewood.flavor": "All the shininess of brass with the squish of slime",
@@ -1842,7 +1842,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Modifiers",
 
-  "key.categories.tconstruct": "Tinkers' Construct",
+  "key.categories.tconstruct": "Лудильникs' Construct",
   "key.tconstruct.helmet_interact": "Helmet Interaction",
   "key.tconstruct.leggings_interact": "Leggings Interaction",
 
@@ -1956,7 +1956,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.bane_of_sssss.description": "Tool does bonus damage against spiders, creepers and other creepey crawly hissing things!",
   "modifier.tconstruct.bane_of_sssss.attack_damage": "Sssssss Damage",
   "modifier.tconstruct.antiaquatic": "Antiaquatic",
-  "modifier.tconstruct.antiaquatic.flavor": "Basically a Fishing Rod!",
+  "modifier.tconstruct.antiaquatic.flavor": "По суті вудка!",
   "modifier.tconstruct.antiaquatic.description": "Tool does bonus damage to sea creatures!",
   "modifier.tconstruct.antiaquatic.attack_damage": "Antiaquatic Damage",
   "modifier.tconstruct.killager": "Killager",
@@ -2025,7 +2025,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.crystalshot.flavor": "Holding arrows is overrated",
   "modifier.tconstruct.crystalshot.description": "In place of arrows, fires shards of crystal grown from the bow itself. Growing crystals consumes extra durability",
   "modifier.tconstruct.crystalshot.amethyst": "Amethyst",
-  "modifier.tconstruct.crystalshot.earthslime": "Earthslime",
+  "modifier.tconstruct.crystalshot.earthslime": "Землеслиз",
   "modifier.tconstruct.crystalshot.skyslime": "Небослизовий",
   "modifier.tconstruct.crystalshot.ichor": "Іхор",
   "modifier.tconstruct.crystalshot.enderslime": "ендерслиз",
@@ -2350,7 +2350,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.spitting.description": "Can charge the tool to launch fluid projectiles from the tank, applying the effect to the target. Affected by bow stats.",
 
   "_comment": "Bonus modifier slots",
-  "modifier.tconstruct.creative_slot": "Creative Slot",
+  "modifier.tconstruct.creative_slot": "Creative ячейка",
   "modifier.tconstruct.creative_slot.flavor": "Dirty Cheater!",
   "modifier.tconstruct.creative_slot.description": "Cheated in additional modifier slots",
   "modifier.tconstruct.stat_override": "Stat Override",
@@ -2365,7 +2365,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.writable.flavor": "Intellectual!",
   "modifier.tconstruct.writable.description": "More words. More upgrade. It's only logical!",
   "modifier.tconstruct.harmonious": "Harmonious",
-  "modifier.tconstruct.harmonious.flavor": "Like a Symphony of Modifiers!",
+  "modifier.tconstruct.harmonious.flavor": "Like a Symphony of Зміни!",
   "modifier.tconstruct.harmonious.description": "Allows an additional upgrade to live in harmony with the rest!",
   "modifier.tconstruct.recapitated": "Recapitated",
   "modifier.tconstruct.recapitated.flavor": "Put the Head Back On!",
@@ -2382,23 +2382,23 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.rebalanced": "Rebalanced",
   "modifier.tconstruct.rebalanced.flavor": "The scales of balance on your tool",
   "modifier.tconstruct.rebalanced.description": "Grants your tool an additional slot type of your choice. Penalizes choice of the most powerful type.",
-  "modifier.tconstruct.rebalanced.upgrades": "Upgrade",
-  "modifier.tconstruct.rebalanced.abilities": "Ability",
+  "modifier.tconstruct.rebalanced.upgrades": "Покращення",
+  "modifier.tconstruct.rebalanced.abilities": "Здібність",
   "modifier.tconstruct.rebalanced.souls": "Soul",
   "modifier.tconstruct.rebalanced.defense": "Defense",
   "modifier.tconstruct.rebalanced.traits": "Trait",
 
   "__comment": "Three more +1 upgrade modifiers for modpacks",
-  "modifier.tconstruct.red_extra_upgrade": "Red Extra Upgrade",
+  "modifier.tconstruct.red_extra_upgrade": "Red Extra Покращення",
   "modifier.tconstruct.red_extra_upgrade.flavor": "For modpacks!",
   "modifier.tconstruct.red_extra_upgrade.description": "Ask your modpack maker to provide a resource pack giving this better lore",
-  "modifier.tconstruct.green_extra_upgrade": "Green Extra Upgrade",
+  "modifier.tconstruct.green_extra_upgrade": "Green Extra Покращення",
   "modifier.tconstruct.green_extra_upgrade.flavor": "For modpacks!",
   "modifier.tconstruct.green_extra_upgrade.description": "Ask your modpack maker to provide a resource pack giving this better lore",
-  "modifier.tconstruct.blue_extra_upgrade": "Blue Extra Upgrade",
+  "modifier.tconstruct.blue_extra_upgrade": "Blue Extra Покращення",
   "modifier.tconstruct.blue_extra_upgrade.flavor": "For modpacks!",
   "modifier.tconstruct.blue_extra_upgrade.description": "Ask your modpack maker to provide a resource pack giving this better lore",
-  "modifier.tconstruct.extra_ability": "Extra Ability",
+  "modifier.tconstruct.extra_ability": "Extra Здібність",
   "modifier.tconstruct.extra_ability.flavor": "For modpacks!",
   "modifier.tconstruct.extra_ability.description": "Ask your modpack maker to provide a resource pack giving this better lore",
 
@@ -2468,8 +2468,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.antitoxin": "Antitoxin",
   "modifier.tconstruct.antitoxin.flavor": "High risk strength!",
   "modifier.tconstruct.antitoxin.description": "Tool does more damage and draws faster when poisoned",
-  "modifier.tconstruct.antitoxin.attack_damage": "Venom Damage",
-  "modifier.tconstruct.antitoxin.draw_speed": "Venom Draw Speed",
+  "modifier.tconstruct.antitoxin.attack_damage": "Отрута Damage",
+  "modifier.tconstruct.antitoxin.draw_speed": "Отрута Draw Speed",
   "modifier.tconstruct.enhanced": "Enhanced",
   "modifier.tconstruct.enhanced.flavor": "Flashy!",
   "modifier.tconstruct.enhanced.description": "Rose gold goes great with a bonus upgrade!",
@@ -2594,7 +2594,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.temperate.flavor": "Extreme Mining!",
   "modifier.tconstruct.temperate.description": "Tool mines faster when in extreme temperatures",
   "modifier.tconstruct.temperate.speed": "Temperate Speed",
-  "modifier.tconstruct.temperate.reinforced": "Temperate Reinforcement",
+  "modifier.tconstruct.temperate.reinforced": "Temperate посилення",
   "modifier.tconstruct.temperate.resistance": "Temperate Resistance",
   "modifier.tconstruct.invariant": "Invariant",
   "modifier.tconstruct.invariant.flavor": "Couldn't care less",
@@ -2673,7 +2673,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.spider_disguise.flavor": "Ssssssssssssssss",
   "modifier.tconstruct.spider_disguise.description": "Makes you look more like a spider to other spider",
   "modifier.tconstruct.cave_spider_disguise": "Cave Spider Disguise",
-  "modifier.tconstruct.cave_spider_disguise.flavor": "Venomous",
+  "modifier.tconstruct.cave_spider_disguise.flavor": "Отруйне",
   "modifier.tconstruct.cave_spider_disguise.description": "Makes you look more like a cave spider to other cave spiders",
   "modifier.tconstruct.zombie_disguise": "Zombie Disguise",
   "modifier.tconstruct.zombie_disguise.flavor": "Braaaains!!",
@@ -2822,10 +2822,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "stat.tconstruct.harvest_tier.minecraft.diamond": "Diamond",
   "stat.tconstruct.harvest_tier.minecraft.netherite": "Netherite",
 
-  "stat.tconstruct.slot.prefix.upgrades": "Upgrades: ",
+  "stat.tconstruct.slot.prefix.upgrades": "Покращення: ",
   "stat.tconstruct.slot.prefix.abilities": "Abilities: ",
-  "stat.tconstruct.slot.prefix.souls": "Soul Slots: ",
-  "stat.tconstruct.slot.prefix.defense": "Defense Slots: ",
+  "stat.tconstruct.slot.prefix.souls": "Soul ячейка: ",
+  "stat.tconstruct.slot.prefix.defense": "ячейка захисту: ",
 
   "stat.tconstruct.slot.display.upgrades": "upgrade",
   "stat.tconstruct.slot.display.abilities": "ability",
@@ -2864,13 +2864,13 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "GUIs",
 
-  "itemGroup.tconstruct.general": "Tinkers' General Items",
-  "itemGroup.tconstruct.tables": "Tinkers' Tables",
-  "itemGroup.tconstruct.tools": "Tinkers' Tools",
-  "itemGroup.tconstruct.tool_parts": "Tinkers' Parts",
-  "itemGroup.tconstruct.smeltery": "Tinkers' Smeltery",
-  "itemGroup.tconstruct.fluids": "Tinkers' Fluids",
-  "itemGroup.tconstruct.world": "Tinkers' World",
+  "itemGroup.tconstruct.general": "Лудильникs' General Items",
+  "itemGroup.tconstruct.tables": "Лудильникs' Tables",
+  "itemGroup.tconstruct.tools": "Лудильникs' Tools",
+  "itemGroup.tconstruct.tool_parts": "Лудильникs' Parts",
+  "itemGroup.tconstruct.smeltery": "Лудильникs' Smeltery",
+  "itemGroup.tconstruct.fluids": "Лудильникs' Fluids",
+  "itemGroup.tconstruct.world": "Лудильникs' World",
 
   "gui.tconstruct.crafting_station": "Crafting Station",
   "gui.tconstruct.crafting_station.uncraftable": "This item is not currently craftable by the player",
@@ -2883,17 +2883,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "gui.tconstruct.part_builder.uncraftable": "Cannot shape",
   "gui.tconstruct.part_builder.uncraftable.tooltip": "Material cannot be shaped in the part builder. Other methods such as casting are required.",
 
-  "gui.tconstruct.tinkers_chest": "Tinker's Chest",
+  "gui.tconstruct.tinkers_chest": "Лудильник's Chest",
   "gui.tconstruct.cast_chest": "Cast Chest",
   "gui.tconstruct.part_chest": "Part Chest",
 
-  "gui.tconstruct.tinker_station": "Tinker Station",
+  "gui.tconstruct.tinker_station": "Лудильник Station",
   "gui.tconstruct.tinker_station.repair_limited": "Repair & Modify",
   "gui.tconstruct.tinker_station.repair_limited.description": "Allows creating all basic tools and applying most modifiers. Select a layout from the buttons on the left to get started.",
   "gui.tconstruct.tinker_station.repair": "Repair & Modify",
   "gui.tconstruct.tinker_station.repair.description": "Create both small and broad tools and modify existing tools to fulfil your dreams! Select a layout from the buttons on the left to get started.",
-  "gui.tconstruct.tinker_station.modifiers": "Modifiers",
-  "gui.tconstruct.tinker_station.upgrades": "Upgrades & Abilities",
+  "gui.tconstruct.tinker_station.modifiers": "Зміни",
+  "gui.tconstruct.tinker_station.upgrades": "Покращення & Abilities",
   "gui.tconstruct.tinker_station.traits": "Traits",
   "gui.tconstruct.tinker_station.components": "Components",
   "gui.tconstruct.tinker_station.info": "The main way to repair or change your tools. Place a tool and a material on the left to get started.",
@@ -2907,16 +2907,16 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "recipe.tconstruct.swappable.already_present": "Tool already contains %s with variant %s",
 
-  "gui.tconstruct.modifier_worktable": "Modifier Worktable",
-  "gui.tconstruct.modifier_worktable.title": "Modifier Tuning",
+  "gui.tconstruct.modifier_worktable": "Зміни Worktable",
+  "gui.tconstruct.modifier_worktable.title": "Зміни Tuning",
   "gui.tconstruct.modifier_worktable.info": "Add a tool and the proper items to tune the tool's modifiers",
   "recipe.tconstruct.modifier_set_worktable.empty": "Tool has no applicable modifiers",
 
-  "recipe.tconstruct.remove_modifier.modifiers": "Remove Modifiers",
+  "recipe.tconstruct.remove_modifier.modifiers": "Remove Зміни",
   "recipe.tconstruct.remove_modifier.description": "Select a modifier to remove, slots will be returned but any item cost is lost. Fluid will be consumed from the input, and the container returned.",
   "recipe.tconstruct.remove_modifier.no_modifiers": "Tool does not have any modifiers removable by this recipe",
 
-  "recipe.tconstruct.modifier_sorting.title": "Sort Modifiers",
+  "recipe.tconstruct.modifier_sorting.title": "Sort Зміни",
   "recipe.tconstruct.modifier_sorting.description": "Select a modifier to swap its location with the next modifier in the list. Does not consume items to swap.",
   "recipe.tconstruct.modifier_sorting.not_enough_modifiers": "Tool needs at least two modifiers to sort",
 
@@ -2931,11 +2931,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "recipe.tconstruct.attack_modifiers.removing.title": "Untoggle Interaction",
   "recipe.tconstruct.attack_modifiers.removing.description": "Switches an interaction modifier back to activating on interaction",
 
-  "recipe.tconstruct.extract_modifier.upgrades": "Extract Upgrade",
-  "recipe.tconstruct.extract_modifier.slotless": "Extract Slotless",
-  "recipe.tconstruct.extract_modifier.abilities": "Extract Ability",
+  "recipe.tconstruct.extract_modifier.upgrades": "Extract Покращення",
+  "recipe.tconstruct.extract_modifier.slotless": "Extract Без'ячейкове",
+  "recipe.tconstruct.extract_modifier.abilities": "Extract Здібність",
   "recipe.tconstruct.extract_modifier.defense": "Extract Defense",
-  "recipe.tconstruct.extract_modifier.modifiers": "Extract Modifier",
+  "recipe.tconstruct.extract_modifier.modifiers": "Extract Зміни",
   "recipe.tconstruct.extract_modifier.description": "Select a modifier to extract onto a modifier crystal, slots will be returned but any item cost is lost.",
   "recipe.tconstruct.extract_modifier.no_modifiers": "Tool does not have any modifiers extractable with this recipe",
 
@@ -3001,10 +3001,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "subtitles.tconstruct.equip.travelers": "Travelers armor rustles",
   "subtitles.tconstruct.equip.plate": "Plate armor clanks",
 
-  "subtitles.tconstruct.block.earth_crystal.chime": "Earth Crystal Chimes",
-  "subtitles.tconstruct.block.sky_crystal.chime":   "Sky Crystal Chimes",
-  "subtitles.tconstruct.block.ichor_crystal.chime": "Іхор Crystal Chimes",
-  "subtitles.tconstruct.block.ender_crystal.chime": "Ender Crystal Chimes",
+  "subtitles.tconstruct.block.earth_crystal.chime": "Earth кристал Chimes",
+  "subtitles.tconstruct.block.sky_crystal.chime":   "Sky кристал Chimes",
+  "subtitles.tconstruct.block.ichor_crystal.chime": "Іхор кристал Chimes",
+  "subtitles.tconstruct.block.ender_crystal.chime": "Ender кристал Chimes",
 
 
   "_comment": "Book Strings",
@@ -3085,7 +3085,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "JEI Strings",
   "jei.tconstruct.time": "%s s",
   "jei.tconstruct.temperature": "%s°C",
-  "jei.tconstruct.modifier_ingredient": "%s Modifier",
+  "jei.tconstruct.modifier_ingredient": "%s Зміни",
 
   "jei.tconstruct.casting.basin": "Ливарний котел",
   "jei.tconstruct.casting.table": "ливарський стіл",
@@ -3110,9 +3110,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.alloy.title": "Alloying",
   "jei.tconstruct.alloy.catalyst": "Not consumed",
 
-  "jei.tconstruct.modifiers.title": "Modifiers",
-  "jei.tconstruct.modifiers.slot": "Modifier requires 1 %s slot to apply",
-  "jei.tconstruct.modifiers.slots": "Modifier requires %s %s slots to apply",
+  "jei.tconstruct.modifiers.title": "Зміни",
+  "jei.tconstruct.modifiers.slot": "Зміни requires 1 %s slot to apply",
+  "jei.tconstruct.modifiers.slots": "Зміни requires %s %s slots to apply",
   "jei.tconstruct.modifiers.free": "No modifier slots are required to apply",
   "jei.tconstruct.modifiers.incremental": "Recipe is incremental, you can apply part of the input for a partial effect",
   "jei.tconstruct.modifiers.level.min": "Min level: %s",
@@ -3123,30 +3123,30 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.severing.title": "Severing",
 
   "jei.tconstruct.tinkering.tool_building": "Tool Building",
-  "jei.tconstruct.tinkering.tool_building.anvil": "Broad tools require the Tinker's Anvil to be created or swap parts",
+  "jei.tconstruct.tinkering.tool_building.anvil": "Broad tools require the Лудильник's Anvil to be created or swap parts",
 
   "jei.tconstruct.part_builder.title": "Part Builder",
   "jei.tconstruct.part_builder.cost": "Cost: %s",
 
-  "jei.tconstruct.modifier_worktable.title": "Modifier Worktable",
+  "jei.tconstruct.modifier_worktable.title": "Зміни Worktable",
 
 
   "_comment": "Tool Advancements",
-  "advancements.tconstruct.tools.materials_and_you.title": "Tinker In Training",
-  "advancements.tconstruct.tools.materials_and_you.description": "Craft Materials and You, the introduction book into Tinkers' Construct",
+  "advancements.tconstruct.tools.materials_and_you.title": "Лудильник In Training",
+  "advancements.tconstruct.tools.materials_and_you.description": "Craft Матеріали й ти, the introduction book into Лудильникs' Construct",
   "advancements.tconstruct.tools.part_builder.title": "Part Builder",
   "advancements.tconstruct.tools.part_builder.description": "Create a part builder, your first step to making tools",
   "advancements.tconstruct.tools.make_part.title": "Tool Parts",
   "advancements.tconstruct.tools.make_part.description": "Create your first tool part using a pattern and some material in the part builder",
-  "advancements.tconstruct.tools.tinker_station.title": "Tinker Station",
+  "advancements.tconstruct.tools.tinker_station.title": "Лудильник Station",
   "advancements.tconstruct.tools.tinker_station.description": "Create a tinker station to combine parts into tools",
-  "advancements.tconstruct.tools.tinker_tool.title": "Novice Tinker",
+  "advancements.tconstruct.tools.tinker_tool.title": "Novice Лудильник",
   "advancements.tconstruct.tools.tinker_tool.description": "Create a your first tinker tool",
   "advancements.tconstruct.tools.travelers_gear.title": "Traveler",
   "advancements.tconstruct.tools.travelers_gear.description": "Craft a full set of traveler's gear",
   "advancements.tconstruct.tools.modified.title": "Modification",
   "advancements.tconstruct.tools.modified.description": "Apply a modifier to a tinker tool",
-  "advancements.tconstruct.tools.upgrade_slots.title": "All the Upgrades",
+  "advancements.tconstruct.tools.upgrade_slots.title": "All the Покращення",
   "advancements.tconstruct.tools.upgrade_slots.description": "Give a tool 6 more upgrade slots using writable, recapitated, harmonious, resurrected, and gilded",
   "advancements.tconstruct.tools.glass_cannon.title": "Glass Cannon",
   "advancements.tconstruct.tools.glass_cannon.description": "Create a tool that does over 20 damage with at most 100 durability",
@@ -3177,10 +3177,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.smeltery.structure.title": "The Mighty Smeltery",
   "advancements.tconstruct.smeltery.structure.description": "Craft a smeltery controller from casting molten copper, build a smeltery, and open the smeltery UI",
   "advancements.tconstruct.smeltery.tinkers_anvil.title": "Advanced Tool Making",
-  "advancements.tconstruct.smeltery.tinkers_anvil.description": "Craft a Tinker's Anvil using alloys from the smeltery!",
+  "advancements.tconstruct.smeltery.tinkers_anvil.description": "Craft a Лудильник's Anvil using alloys from the smeltery!",
   "advancements.tconstruct.smeltery.tool_forge.title": "Tool Forge",
   "advancements.tconstruct.smeltery.tool_forge.description": "Forge one of every broad tool in the anvil",
-  "advancements.tconstruct.smeltery.abilities.title": "Ability Master",
+  "advancements.tconstruct.smeltery.abilities.title": "Здібність Master",
   "advancements.tconstruct.smeltery.abilities.description": "Apply every single default ability modifier to a tool at least once",
 
   "_comment": "Foundry Advancements",
@@ -3188,7 +3188,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.foundry.fantastic_foundry.description": "Create fantastic foundry, the nether smelting guidebook",
   "advancements.tconstruct.foundry.alloyer.title": "Basic Alloyer",
   "advancements.tconstruct.foundry.alloyer.description": "Create a basic alloying setup using an alloyer, a fuel tank, some ingot tanks, ливарський стіл, a casting котел, and a faucet",
-  "advancements.tconstruct.foundry.structure.title": "The Fantastic Foundry",
+  "advancements.tconstruct.foundry.structure.title": "The Потужне виплавляння",
   "advancements.tconstruct.foundry.structure.description": "Craft a founry controller from alloyed obsidian, build a foundry, and open the foundry UI",
   "advancements.tconstruct.foundry.blaze.title": "Blazing Blood",
   "advancements.tconstruct.foundry.blaze.description": "Fill a tank with blazing blood",
@@ -3200,9 +3200,9 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.foundry.encyclopedia.description": "Craft the encyclopedia of materials with your knowledge from all the books",
 
   "_comment": "Gadget Advancements",
-  "advancements.tconstruct.world.tinkers_gadgetry.title": "Tinker's Gadgetry",
-  "advancements.tconstruct.world.tinkers_gadgetry.description": "Craft Tinker's Gadgetry to begin exploring the world",
-  "advancements.tconstruct.world.earth_island.title": "Earthslime Island",
+  "advancements.tconstruct.world.tinkers_gadgetry.title": "Лудильник's Gadgetry",
+  "advancements.tconstruct.world.tinkers_gadgetry.description": "Craft Лудильник's Gadgetry to begin exploring the world",
+  "advancements.tconstruct.world.earth_island.title": "Землеслиз Island",
   "advancements.tconstruct.world.earth_island.description": "Locate an earthslime island in the ocean",
   "advancements.tconstruct.world.sky_island.title": "Небослизовий Island",
   "advancements.tconstruct.world.sky_island.description": "Locate a skyslime island in the sky",
@@ -3231,7 +3231,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/special/
   "modifier_id": "tconstruct:revitalizing",
   "text": [
     {
-      "text": "Jeweled apples, what a throwback."
+      "text": "Коштовні яблука, what a throwback."
     }
   ],
   "effects": [
@@ -3281,7 +3281,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/special/
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/special.json
 ```
 {
-  "title": "Special Defense Modifiers",
+  "title": "Special Defense Зміни",
   "text": [
     { "text": "Special defense boosts protection in ways other than raw defense." }
   ]
@@ -3291,7 +3291,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/special.
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/protection.json
 ```
 {
-  "title": "Protection Defense Modifiers",
+  "title": "Protection Defense Зміни",
   "text": [
     { "text": "Protection defense modifiers increase resistance to a particular type of damage. All damage sources should fit into one of the five types, and types can be freely mixed on armor and shields for passive protection." }
   ]
@@ -3378,7 +3378,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/protecti
       "text": "Dovah ko krif dilos ahrk qah."
     },
     {
-      "text": "Tinker, you can't read dragon tongue? What do they teach these days? That says, \"Dragons that fly are deadly and protected.\"", "paragraph": true
+      "text": "Лудильник, you can't read dragon tongue? What do they teach these days? That says, \"Dragons that fly are deadly and protected.\"", "paragraph": true
     }
   ],
   "effects": [
@@ -3623,7 +3623,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/thruul.
   },
   "text": [
     {
-      "text": "I see Tinker, you can't get enough of looking at me."
+      "text": "I see Лудильник, you can't get enough of looking at me."
     }
   ]
 }
@@ -4070,7 +4070,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/abilities/intera
   ],
   "effects": [
     "Your tool is now a bucket",
-    "Tank size can be increased with Tank Upgrade",
+    "Tank size can be increased with Tank Покращення",
     "Single level",
     "Requires 1 ability slot"
   ]
@@ -4316,7 +4316,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/abilities/armor/
     }
   ],
   "effects": [
-    "Slots can be swapped with hotbar slots using control plus leggings interact.",
+    "Ячейка can be swapped with hotbar slots using control plus leggings interact.",
     "Grants 4 slots, plus 1 per consecutive level",
     "Different recipe per level",
     "First level requires 1 ability slot"
@@ -4979,13 +4979,13 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/thruul.json
 ```
 {
-  "title": "Mighty Smelting",
+  "title": "Могутнє плавлення",
   "text": [
     {
-      "text": "So you survived this far fellow Tinker, perhaps you are smarter than I believed. Well then let's take that puny melter and those puny metals and make them even stronger. "
+      "text": "So you survived this far fellow Лудильник, perhaps you are smarter than I believed. Well then let's take that puny melter and those puny metals and make them even stronger. "
     },
     {
-      "text": "I hope you are ready fellow Tinker, this is going to get really advanced really fast.",	
+      "text": "I hope you are ready fellow Лудильник, this is going to get really advanced really fast.",	
 	  "paragraph": true
     }
   ]
@@ -4995,7 +4995,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/thruul.jso
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkersanvil_craft.json
 ```
 {
-  "title": "Tinker's Anvil Crafting",
+  "title": "Лудильник's Anvil Crafting",
   "recipe": "tconstruct:tables/tinkers_anvil"
 }
 ```
@@ -5003,11 +5003,11 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkersanv
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkers_anvil.json
 ```
 {
-  "title": "Tinker's Anvil",
+  "title": "Лудильник's Anvil",
   "item": "tconstruct:tinkers_anvil",
   "text": [
     {
-      "text": "Alright Tinker, it's time to put that puny Tinker Station away and create the mighty Tinker's Anvil. The ability to create the biggest and best tools is simply one hammer pound away."
+      "text": "Alright Лудильник, it's time to put that puny Лудильник Station away and create the mighty Лудильник's Anvil. The ability to create the biggest and best tools is simply one hammer pound away."
     },
     {
       "text": "This anvil can only be made with the finest of alloys, but will bring you the broadest of tools. They allow you to make the best modifiers, and let you rename tools during any modification.",
@@ -5030,7 +5030,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/entitymelting/en
 	  "paragraph": true
     },
     {
-      "text": "I have a challenge for the mightiest of Tinkers: if you can manage to melt the Ender Dragon, you will receive awesome power!",
+      "text": "I have a challenge for the mightiest of Лудильникs: if you can manage to melt the Ender Dragon, you will receive awesome power!",
 	  "paragraph": true
     }
   ]
@@ -5123,7 +5123,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/defense/special/tco
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/defense/special.json
 ```
 {
-  "title": "Special Defense Modifiers",
+  "title": "Special Defense Зміни",
   "text": [
     { "text": "Special defense boosts protection in ways other than raw defense." }
   ]
@@ -5133,7 +5133,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/defense/special.jso
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/defense/protection.json
 ```
 {
-  "title": "Protection Defense Modifiers",
+  "title": "Protection Defense Зміни",
   "text": [
     { "text": "Protection defense modifiers increase resistance to a particular type of damage. All damage sources should fit into one of the five types, and types can be freely mixed on armor and shields for passive benefits." }
   ]
@@ -6327,7 +6327,7 @@ tools.group_small=Small Tools
 tools.group_large=Broad Tools
 tools.group_ancient=Ancient Tools
 tools.group_staff=Staffs
-tools.tconstruct.earth_staff=Earthslime
+tools.tconstruct.earth_staff=Землеслиз
 tools.tconstruct.sky_staff=Небослизовий
 tools.tconstruct.ichor_staff=Іхор
 tools.tconstruct.ender_staff=ендерслиз
@@ -6342,7 +6342,7 @@ materials_armor.subtext=Materials used for creating armor and shields.
 materials_skull=Slimeskulls
 materials_skull.subtext=This section describes the effects of all types of skulls in creating a slimeskull
 
-upgrades=Upgrades
+upgrades=Покращення
 upgrades.subtext=Each tool gets a limited total number of upgrades slots.
 upgrades.group_general=General
 upgrades.group_harvest=Harvest
@@ -6364,13 +6364,13 @@ defense.subtext=Instead of material traits, armor will include defense slots to 
 defense.group_protection=Protection
 defense.group_special=Special
 
-slotless=Slotless
-slotless.subtext=Slotless modifiers do not require any slots.
+slotless=Без'ячейкове
+slotless.subtext=Без'ячейкове modifiers do not require any slots.
 slotless.group_general=General
 slotless.group_bonus=Bonus
 
 abilities=Abilities
-abilities.subtext=Ability modifiers have fewer slots than upgrades, but are stronger per slot.
+abilities.subtext=Здібність modifiers have fewer slots than upgrades, but are stronger per slot.
 abilities.group_general=General
 abilities.group_harvest=Harvest
 abilities.group_melee=Melee
@@ -6389,7 +6389,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad.json
 {
   "title": "Broad Tools",
   "text": [
-    { "text": "All broad tools require the Tinker's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
+    { "text": "All broad tools require the Лудильник's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
     { "text": "Large tools have both attack bonuses and modifiers like small tools, and many more have traits. In addition, many tools have a durability or a mining speed modifier that act similarly to the attack modifier, affecting both base stats and stat bonuses from modifiers.", "paragraph": true }
   ]
 }
@@ -6400,7 +6400,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small.json
 {
   "title": "Small Tools",
   "text": [
-    { "text": "All small tools can be created in either the Tinker Station or the Tinker's Anvil. They require between 2 to 3 parts, granting 2 to 3 traits. Most small tools start with 1 ability slot and 3 upgrade slots as well." },
+    { "text": "All small tools can be created in either the Лудильник Station or the Лудильник's Anvil. They require between 2 to 3 parts, granting 2 to 3 traits. Most small tools start with 1 ability slot and 3 upgrade slots as well." },
     { "text": "Most tools have an attack damage bonus, which is added to the head stats and multiplied by the handle stats. In addition, some tools have an attack modifier, which multiplies attack damage from all sources on the tool, including modifiers. Some tools also start with tool traits, which are applied to fully built tools similarly to material traits.", "paragraph": true }
   ]
 }
@@ -6420,8 +6420,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
     "1.0 Draw Speed",
     "1.00 Arrow Velocity",
     "0.75 Accuracy",
-    "3 Upgrade Slots",
-    "1 Ability Slot"
+    "3 ячейки покращення",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -6438,8 +6438,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
     "1.5 Attack Speed",
     "Spitting I",
     "Spilling I",
-    "3 Upgrade Slots",
-    "1 Ability Slot"
+    "3 ячейки покращення",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -6457,8 +6457,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
     "Blocks 50 damage",
     "120° block angle",
     "20% block speed",
-    "3 Defense Slots",
-    "1 Ability Slot"
+    "3 ячейки захисту",
+    "1 ячейки здібності"
   ]
 }
 ```
@@ -6476,9 +6476,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
     "Stone Harvest Tier",
     "10% Knockback Resistance",
     "Melting+",
-    "1 Defense Slot",
-    "1 Upgrade Slot",
-    "2 Ability Slots"
+    "1 ячейка захисту",
+    "1 ячейка покращення",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -6638,7 +6638,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   ],
   "properties": [
     "+0.5 Attack Damage",
-    "115% Attack Modifier",
+    "115% Attack Зміни",
     "1.3 Attack Speed",
     "75% Mining Multiplier",
     "130% Durability Multiplier",
@@ -6676,7 +6676,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   ],
   "properties": [
     "+3 Attack Damage",
-    "65% Attack Modifier",
+    "65% Attack Зміни",
     "2.0 Attack Speed",
     "75% Durability Multiplier",
     "Padded I",
@@ -6713,7 +6713,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   ],
   "properties": [
     "+1.5 Attack Damage",
-    "110% Attack Modifier",
+    "110% Attack Зміни",
     "0.9 Attack Speed",
     "110% Mining Multiplier",
     "125% Durability Multiplier",
@@ -6732,7 +6732,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
   ],
   "properties": [
     "+1 Attack Damage",
-    "50% Attack Modifier",
+    "50% Attack Зміни",
     "1.6 Attack Speed",
     "Shears plants and animals",
     "Small AOE Attack",
@@ -6807,7 +6807,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:earth_staff",
   "text": [
-    { "text": "Earthslime Staff is a high defense  and accuracy staff variant." }
+    { "text": "Землеслиз Staff is a high defense  and accuracy staff variant." }
   ],
   "properties": [
     "800 Durability",
@@ -6815,9 +6815,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
     "0.9 Accuracy",
     "35 Max Blocking",
     "1.25 Draw Speed",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
-    "2 Ability Slots"
+    "2 ячейки покращення",
+    "3 ячейки захисту",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -6834,9 +6834,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
     "3 Projectile Power",
     "0.5 Accuracy",
     "120 блок Angle",
-    "3 Upgrade Slots",
-    "1 Defense Slot",
-    "2 Ability Slots",
+    "3 ячейки покращення",
+    "1 ячейка захисту",
+    "2 ячейки здібності",
     "Reach II"
   ]
 }
@@ -6853,8 +6853,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
     "1225 Durability",
     "1.2 Velocity",
     "0.75 Draw Speed",
-    "2 Upgrade Slots",
-    "3 Ability Slots"
+    "2 ячейки покращення",
+    "3 ячейки здібності"
   ]
 }
 ```
@@ -6870,8 +6870,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
     "375 Durability",
     "0.8 Velocity",
     "1.25 Draw Speed",
-    "5 Upgrade Slots",
-    "2 Ability Slots"
+    "5 ячейки покращення",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -6885,7 +6885,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/intro/foreward.json
       "text": "During my research into tool making, I noticed several authors have created partial lists of materials but there was no one complete list. This means in order to properly compare all the materials, it is necessary to switch between several volumes. This book is intended to solve that problem by indexing known materials from several different volumes into a single book."
     },
     {
-      "text": "I could not have created such a grand book alone. This book also includes lists of materials collected by both Thruul M'Gon and Nemea. Just don't tell either of them that I spoke with both of them.",
+      "text": "I could not have created such a grand book alone. This book also includes lists of materials collected by both Thruul M'Gon and Немея. Just don't tell either of them that I spoke with both of them.",
       "paragraph": true
     }
   ]
@@ -6898,10 +6898,10 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/intro/focus.json
   "title": "Focus",
   "text": [
     {
-      "text": "This book is focused on tool building. Unlike other volumes like Materials and You or Mighty Smelting, it won't explain how to use the technology used in tool creation; it just lists all the optionals available assuming you have the technology."
+      "text": "This book is focused on tool building. Unlike other volumes like Матеріали й ти or Могутнє плавлення, it won't explain how to use the technology used in tool creation; it just lists all the optionals available assuming you have the technology."
     },
     {
-      "text": "If you are unsure of how to use the technology or find the resources, you will need to refer to a copy of Materials and You, Puny Smelting, Mighty Smelting, Fantastic Foundry, or Tinkers' Gadgetry.",
+      "text": "If you are unsure of how to use the technology or find the resources, you will need to refer to a copy of Матеріали й ти, Легеньке плавлення, Могутнє плавлення, Потужне виплавляння, or Лудильникs' Gadgetry.",
       "paragraph": true
     }
   ]
@@ -6915,11 +6915,11 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus.json
   "text": [
     { "text": "Bonus modifiers are a group of slotless modifiers that grant additional modifier slots." },
     {
-      "text": "By default, most small tools start with 3 upgrade slots, and most broad tools start with 2. Modifiers can add an additional 4 slots to the tool.",
+      "text": "By default, most small tools start with 3 upgrade slots, and most broad tools start with 2. Зміни can add an additional 4 slots to the tool.",
       "paragraph": true
     },
     {
-      "text": "In addition, most tools start with 1 ability slot. Modifiers can add an additional ability slot to the tool, or potentially even an additional two.",
+      "text": "In addition, most tools start with 1 ability slot. Зміни can add an additional ability slot to the tool, or potentially even an additional two.",
       "paragraph": true
     }
   ]
@@ -6948,7 +6948,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -6965,7 +6965,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -6982,7 +6982,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -6999,7 +6999,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7019,7 +7019,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7036,7 +7036,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
   "more_text_space": true,
   "effects": [
 	  "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7057,7 +7057,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7078,7 +7078,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7118,7 +7118,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7135,7 +7135,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7152,7 +7152,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless",
+    "Без'ячейкове",
     "No max level, though accuracy minimum is 0.1"
   ]
 }
@@ -7171,7 +7171,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7188,7 +7188,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Single use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7209,7 +7209,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless",
+    "Без'ячейкове",
     "Non-slimy tools: -10% mining speed and attack damage, -0.5 armor"
   ]
 }
@@ -7230,7 +7230,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/general/tc
   "more_text_space": true,
   "effects": [
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -7245,8 +7245,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
   "properties": [
     "Material controlled stats",
     "40% Unarmed Attack",
-    "2 Upgrade Slot",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -7263,9 +7263,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
   "properties": [
     "672 Durability",
     "40% Unarmed Attack",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot",
+    "5 ячейок покращення",
+    "0 ячейок захисту",
+    "1 ячейка здібності",
     "Wings"
   ]
 }
@@ -7281,9 +7281,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
   ],
   "properties": [
     "630 Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot",
+    "5 ячейок покращення",
+    "0 ячейок захисту",
+    "1 ячейка здібності",
     "Shulking I"
   ]
 }
@@ -7299,9 +7299,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
   ],
   "properties": [
     "546 Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot",
+    "5 ячейок покращення",
+    "0 ячейок захисту",
+    "1 ячейка здібності",
     "Bouncy",
     "Leaping I"
   ]
@@ -7317,8 +7317,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
   ],
   "properties": [
     "Material controlled stats",
-    "2 Upgrade Slot",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -7336,8 +7336,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
     "Blocks 100 damage",
     "180° block angle",
     "20% block speed",
-    "2 Upgrade Slot",
-    "4 Defense Slots",
+    "2 ячейки покращення",
+    "4 ячейки захисту",
     "1 Material Trait"
   ]
 }
@@ -7352,8 +7352,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
   ],
   "properties": [
     "Material controlled stats",
-    "2 Upgrade Slot",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -7369,9 +7369,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
   "properties": [
     "110 Durability",
     "+1 Armor",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Insulated",
     "Tanned"
   ]
@@ -7389,9 +7389,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
     "160 Durability",
     "+5 Armor",
     "55% Unarmed Attack",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Insulated",
     "Tanned"
   ]
@@ -7410,9 +7410,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
     "Blocks 10 damage",
     "90° block angle",
     "80% block speed",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -7428,9 +7428,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
   "properties": [
     "130 Durability",
     "+1 Armor",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Insulated",
     "Tanned",
     "Can walk on powdered snow"
@@ -7448,9 +7448,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
   ],
   "properties": [
     "+362 Bonus Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot"
+    "5 ячейок покращення",
+    "0 ячейок захисту",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -7476,8 +7476,8 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
   ],
   "properties": [
     "Material controlled stats",
-    "2 Upgrade Slot",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -7493,9 +7493,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
   "properties": [
     "150 Durability",
     "+4 Armor",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Insulated",
     "Tanned"
   ]
@@ -7658,7 +7658,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/damage/tco
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/ranged.json
 ```
 {
-  "title": "Ranged Upgrades",
+  "title": "Ranged Покращення",
   "text": [
     { "text": "Ranged upgrades can be applied to longbows and crossbows to either boost the bow or the arrows fired." }
   ]
@@ -7668,7 +7668,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/ranged.jso
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/armor.json
 ```
 {
-  "title": "Armor Upgrades",
+  "title": "Armor Покращення",
   "text": [
     { "text": "Armor upgrades are typically effective on a single type of armor or are designed to run on counter attack. If applicable on multiple pieces, the effects typically interact in some way." },
     { "text": "Shield counterattack modifiers only work while blocking, but are otherwise twice as effective. Other shield modifiers work passively.", "paragraph": true }
@@ -7679,7 +7679,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/armor.json
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/harvest.json
 ```
 {
-  "title": "Harvest Upgrades",
+  "title": "Harvest Покращення",
   "text": [
     { "text": "Harvest modifiers are most useful on tools that break blocks, such as pickaxes or shovels." }
   ]
@@ -8095,7 +8095,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/ranged/tco
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/general.json
 ```
 {
-  "title": "General Upgrades",
+  "title": "General Покращення",
   "text": [
     { "text": "General modifiers are effective on multiple types of tools, including melee and harvest tools along with armor." },
     { "text": "Some modifiers are only to melee and harvest, so check the list of tools displayed.", "paragraph": true }
@@ -8106,7 +8106,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/general.js
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/melee.json
 ```
 {
-  "title": "Melee Upgrades",
+  "title": "Melee Покращення",
   "text": [
     { "text": "Melee upgrades are most effective on tools built for melee combat, whether it is a sword, a repurposed harvest tool, or a bow for stabbing." },
     { "text": "When applied to ranged weapons such as bows or crossbows, these modifiers will boost the effectiveness of the weapon for melee attacks only unless otherwise stated.", "paragraph": true },
@@ -8712,17 +8712,17 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/general/tc
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/introduction/thruul.json
 ```
 {
-  "title": "Puny Smelting",
+  "title": "Легеньке плавлення",
   "text": [
     {
-      "text": "Alright, now that you are done tinkering with those wimpy materials Selena thinks you should use, it's time for some REAL TINKER MATERIALS LIKE I USE. METAL"
+      "text": "Alright, now that you are done tinkering with those wimpy materials Селена thinks you should use, it's time for some REAL TINKER MATERIALS LIKE I USE. METAL"
     },
     {
       "text": "Obviously you will never be as cool and strong as I am for I am the one true §lTHRUUL M'GON§r however, I'm sure a novice tinker such as yourself can learn a thing or two and turn up the heat.",
       "paragraph": true
     },
     {
-      "text": "Don't forget to join me in my next book Tinker. Once you have your melter simply pour some seared stone over a book!",
+      "text": "Don't forget to join me in my next book Лудильник. Once you have your melter simply pour some seared stone over a book!",
       "paragraph": true
     }
   ]
@@ -8800,7 +8800,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/melting/features.j
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/further_reading/encyclopedia.json
 ```
 {
-  "title": "Encyclopedia of Tinkering",
+  "title": "Лудильникька енциклопедія",
   "image": {
     "file": "tconstruct:book/images/book_encyclopedia.png",
     "width": 128,
@@ -8808,7 +8808,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/further_reading/en
   },
   "text": [
     {
-      "text": "Apparently some aspiring tinkers don't have enough arms to make tools and hold both of my books. If you just had four arms like me it would not be a problem! Luckily for you nerds, for just a bit of molten gold you can craft Selena's new book, which has all the tool building info that need. Don't expect to find anything about my awesome smeltery in there."
+      "text": "Apparently some aspiring tinkers don't have enough arms to make tools and hold both of my books. If you just had four arms like me it would not be a problem! Luckily for you nerds, for just a bit of molten gold you can craft Селена's new book, which has all the tool building info that need. Don't expect to find anything about my awesome smeltery in there."
     }
   ]
 }
@@ -8817,7 +8817,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/further_reading/en
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/further_reading/mighty_smelting.json
 ```
 {
-  "title": "Mighty Smelting",
+  "title": "Могутнє плавлення",
   "image": {
     "file": "tconstruct:book/images/book_mighty_smelting.png",
     "width": 128,
@@ -8849,7 +8849,7 @@ further_reading=Further Reading
 armor=Puny Armor
 armor.subtext=Choose your path with your armor; travelers gives you highly modifiable armor with more room for abilities, while plate gives you more opportunities for defense. If you have no fashion sense you can mix both.
 
-upgrades=Upgrades
+upgrades=Покращення
 upgrades.subtext=Tools can be enhanced with upgrades, though only a limited number can be applied per tool.
 upgrades.group_general=General
 upgrades.group_harvest=Harvest
@@ -8861,10 +8861,10 @@ upgrades.group_armor.chestplate=Chestplate
 upgrades.group_armor.leggings=Leggings
 upgrades.group_armor.boots=Boots
 
-slotless=Slotless Modifier
+slotless=Без'ячейкове Зміни
 slotless.subtext=These modifiers do not require any slots to apply, you can have them all if you wish.
-slotless.group_slotless=Slotless
-slotless.group_bonus_upgrades=Slots++
+slotless.group_slotless=Без'ячейкове
+slotless.group_bonus_upgrades=Ячейки++
 ```
 
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tconstruct_recapitated.json
@@ -8945,7 +8945,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tco
   ],
   "effects": [
     "Adds a modifier slot",
-    "Slot type is determined by the recipe",
+    "Ячейка type is determined by the recipe",
     "Greedy are penalized",
     "ендерслиз adds a trait",
     "Single level"
@@ -8962,7 +8962,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tco
       "text": "It's time to get a§ohead§r of the competition!"
     },
     {
-      "text": "What's that Tinker, you dont know what an ability slot is for? Sounds like you need to pick up my second book, Mighty Smelting!", "paragraph": true
+      "text": "What's that Лудильник, you dont know what an ability slot is for? Sounds like you need to pick up my second book, Могутнє плавлення!", "paragraph": true
     }
   ],
   "effects": [
@@ -8975,7 +8975,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tco
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus_upgrades.json
 ```
 {
-  "title": "Extra Modifiers",
+  "title": "Extra Зміни",
   "text": [
     {
       "text": "Everyone loves extra modifier slots! These special modifiers will increase your modifying potential."
@@ -9000,7 +9000,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
   "effects": [
     "Increases FOV on the held tool or worn armor",
     "Multiple levels",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9017,7 +9017,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
   "effects": [
     "Decreases FOV on the held tool or worn armor",
     "Multiple levels",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9054,7 +9054,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
     "Use wood to embellish staffs and shields",
     "Use congealed slime to embellish slime",
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9089,7 +9089,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
   "effects": [
     "Decreases accuracy of fired projectiles",
     "Multiple levels, each level decreases accuracy further",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9107,7 +9107,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
     "Adds decorative edges to your armor",
     "The combination of template and material chooses the design",
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9160,7 +9160,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
   "effects": [
     "Can use dyes to change the color of the tool",
     "Multi-use",
-    "Slotless"
+    "Без'ячейкове"
   ]
 }
 ```
@@ -9168,7 +9168,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/general/t
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/slotless.json
 ```
 {
-  "title": "Slotless Modifiers",
+  "title": "Без'ячейкове Зміни",
   "text": [
     {
       "text": "Run out of slots? Well good news, all of the modifiers in this section need no slots to apply, perhaps some may even give you more slots!"
@@ -9194,8 +9194,8 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
   "properties": [
     "High Durability",
     "High Armor",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -9214,8 +9214,8 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
   "properties": [
     "High Durability",
     "High Armor",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -9234,8 +9234,8 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
   "properties": [
     "High блок Potential",
     "Low speed while shielding",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -9254,8 +9254,8 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
   "properties": [
     "High Durability",
     "High Armor",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -9275,9 +9275,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
     "Low Armor",
     "Low Durability",
     "Great in snow",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -9297,9 +9297,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
     "Low Armor",
     "Low Durability",
     "Great in snow",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -9319,9 +9319,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
     "Low Durability",
     "Low блок Potential",
     "High speed while shielding",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -9341,9 +9341,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
     "Low Armor",
     "Low Durability",
     "Great in snow",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -9362,8 +9362,8 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_p
   "properties": [
     "High Durability",
     "High Armor",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
+    "2 ячейки покращення",
+    "3 ячейки захисту",
     "2 Material Traits"
   ]
 }
@@ -9383,9 +9383,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/armor/tconstruct_t
     "Low Armor",
     "Low Durability",
     "Great in snow",
-    "3 Upgrade Slots",
-    "2 Defense Slots",
-    "1 Ability Slot",
+    "3 ячейки покращення",
+    "2 ячейки захисту",
+    "1 ячейка здібності",
     "Tanned"
   ]
 }
@@ -9547,7 +9547,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/damage/tc
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/ranged.json
 ```
 {
-  "title": "Ranged Upgrades",
+  "title": "Ranged Покращення",
   "text": [
     { "text": "Ranged upgrades are good for bows, whether it's quicker firing, more damage, or freezing your enemies." }
   ]
@@ -9557,7 +9557,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/ranged.js
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/armor.json
 ```
 {
-  "title": "Armor Upgrades",
+  "title": "Armor Покращення",
   "text": [
     { "text": "Armor upgrades provide ways to modify your jump, speed, and other such factors on armor and shields." }
   ]
@@ -9567,7 +9567,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/armor.jso
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/harvest.json
 ```
 {
-  "title": "Harvest Upgrades",
+  "title": "Harvest Покращення",
   "text": [
     {
       "text": "Harvest crops with ease! Er wrong type of harvest... These upgrades can help you harvest blocks better in special situations!"
@@ -9980,10 +9980,10 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/ranged/tc
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/general.json
 ```
 {
-  "title": "General Upgrades",
+  "title": "General Покращення",
   "text": [
     {
-      "text": "Upgrades are modifiers added to tools using upgrade recipes. Each tool has a limited number of upgrade slots to start, though the number of slots can be increased in a few ways."
+      "text": "Покращення are modifiers added to tools using upgrade recipes. Each tool has a limited number of upgrade slots to start, though the number of slots can be increased in a few ways."
     },
     {
       "text": "General upgrades work well on any tool! These upgrades will enhance your tool all around, by increasing its attack damage, mining speed, durability, and more!",
@@ -9996,7 +9996,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/general.j
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/melee.json
 ```
 {
-  "title": "Melee Upgrades",
+  "title": "Melee Покращення",
   "text": [
     {
       "text": "With these upgrades perhaps you could forge the strongest weapon of all. Of course what weapon you choose is up to you."
@@ -10714,7 +10714,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/movingfluids/chann
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/movingfluids/copper_can.json
 ```
 {
-  "title": "Copper Cans",
+  "title": "Мідний жбан",
   "text": [
     {
       "text": "Copper cans (and buckets!) can be used to manually transfer fluids around."
@@ -10751,7 +10751,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/movingfluids/thruu
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/movingfluids/copper_can_craft.json
 ```
 {
-  "title": "Copper Can Crafting",
+  "title": "Мідний жбан Crafting",
   "recipe": "tconstruct:smeltery/copper_can"
 }
 ```
@@ -10765,7 +10765,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/movingfluids/intro
   },
   "text": [
     {
-      "text": "Now that you know how to use your puny melter you may be asking 'But Thruul, how do I get these metals out?' Good question Tinker!"
+      "text": "Now that you know how to use your puny melter you may be asking 'But Thruul, how do I get these metals out?' Good question Лудильник!"
     }
   ]
 }
@@ -10855,7 +10855,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
   },
   "text": [
     {
-      "text": "\"But Nemea, how do I get a blaze into a smeltery?\". If you were that nerd Melvin, you might suggest \"Drink fire resistance then use a piggybackpack or an ichor sling.\" Perfect if you want to get burnt to a crisp.",
+      "text": "\"But Немея, how do I get a blaze into a smeltery?\". If you were that nerd Мелвін, you might suggest \"Drink fire resistance then use a piggybackpack or an ichor sling.\" Perfect if you want to get burnt to a crisp.",
       "paragraph": true
     }
   ]
@@ -10882,7 +10882,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
   },
   "text": [
     {
-      "text": "A real Master Tinker would just bring the foundry to the blazes. Just add fuel, and it absorbs those fools before they even realize what is happening. I suppose you could also do it with that inferior smeltery if you must.",
+      "text": "A real Master Лудильник would just bring the foundry to the blazes. Just add fuel, and it absorbs those fools before they even realize what is happening. I suppose you could also do it with that inferior smeltery if you must.",
       "paragraph": true
     }
   ]
@@ -10918,7 +10918,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
   },
   "text": [
     {
-      "text": "So Tinker, you are trying to make better alloys, and found lava is too weak? Why not liquefy the essence of living blazes to fuel your desires?",
+      "text": "So Лудильник, you are trying to make better alloys, and found lava is too weak? Why not liquefy the essence of living blazes to fuel your desires?",
       "paragraph": true
     }
   ]
@@ -11163,7 +11163,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/byprod
   "title": "Byproducts",
   "text": [
     {
-      "text": "My Fantastic Foundry will give you byproducts from your ores. You may be asking 'But Nemea what are these byproducts?' Well just read a bit further and find out."
+      "text": "My Потужне виплавляння will give you byproducts from your ores. You may be asking 'But Немея what are these byproducts?' Well just read a bit further and find out."
     },
     {
       "text": "Byproducts are the hidden extras inside your ores that you would not normally be able to achieve with a simple furnace. A bit of extra material of some other kind that is hidden in the rock.",
@@ -11253,10 +11253,10 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/multib
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/intro/intro.json
 ```
 {
-  "title": "Fantastic Foundry",
+  "title": "Потужне виплавляння",
   "text": [
     {
-      "text": "Hello fellow Tinker. My name is Nemea, and I'd like to welcome you to the wonderful world of the Fantastic Foundry."
+      "text": "Hello fellow Лудильник. My name is Немея, and I'd like to welcome you to the wonderful world of the Потужне виплавляння."
     },
     {
       "text": "Using the mysticalities of the Nether I have created some outstanding devices.",
@@ -11277,7 +11277,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/alloyer/castin
   },
   "text": [
     {
-      "text": "Real Tinkers always use a cast to prevent accidentally casting the wrong thing, so the scorched table always requires one. Gold platforms and bars can be used as a substitute for an empty casting block."
+      "text": "Real Лудильникs always use a cast to prevent accidentally casting the wrong thing, so the scorched table always requires one. Gold platforms and bars can be used as a substitute for an empty casting block."
     }
 	]
 }
@@ -11352,8 +11352,8 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/alloyer/featur
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/index.json
 ```
 {
-  "title": "Modifiers",
-  "subText": "Modifiers are extra enhancements that can be applied to a tool, similar to enchantments. The sections below describe each type of modifier:"
+  "title": "Зміни",
+  "subText": "Зміни are extra enhancements that can be applied to a tool, similar to enchantments. The sections below describe each type of modifier:"
 }
 ```
 
@@ -11361,7 +11361,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/defe
 ```
 {
   "type": "tconstruct:showcase",
-  "title": "Defense Modifiers",
+  "title": "Defense Зміни",
   "item": {
     "type": "forge:nbt",
     "item": "tconstruct:creative_slot",
@@ -11369,7 +11369,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/defe
       "slot": "defense"
     }
   },
-  "tooltip": [ "Defense Slot Icon" ],
+  "tooltip": [ "ячейка захисту Icon" ],
   "text": [
     {
       "text": "Defense are a type of modifier exclusive to armor, boosting protection against particular threats such as fire or knockback. They provide another way to customize armor as most armor types lack material traits. "
@@ -11378,7 +11378,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/defe
       "text": "Typically, armor with a large number of defense slots start with fewer upgrade slots, meaning functionality is sacrificed for protection."
     },
 	 {
-      "text": "Mighty Smelting also has a full list of defense modifiers available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "Могутнє плавлення also has a full list of defense modifiers available on tools, along with the Лудильникька енциклопедія.",
       "paragraph": true
     }
   ]
@@ -11397,16 +11397,16 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/abil
       "slot": "abilities"
     }
   },
-  "tooltip": [ "Ability Slot Icon" ],
+  "tooltip": [ "ячейка здібності Icon" ],
   "text": [
     {
-      "text": "Abilities are powerful modifiers that drastically change a tool. Modifiers such as silky and autosmelt are notable as both change the effects of mining blocks, while dual wielding makes tools much easier to handle. "
+      "text": "Abilities are powerful modifiers that drastically change a tool. Зміни such as silky and autosmelt are notable as both change the effects of mining blocks, while dual wielding makes tools much easier to handle. "
     },
     {
       "text": "Nearly all tools start with a single ability slot, and can only receive up to 2 more, so choose abilities wisely."
     },
     {
-      "text": "Thruul M'Gon's Mighty Smelting has a full list of abilities available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "Thruul M'Gon's Могутнє плавлення has a full list of abilities available on tools, along with the Лудильникька енциклопедія.",
       "paragraph": true
     }
   ]
@@ -11426,7 +11426,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/trai
       "paragraph": true
     },
     {
-      "text": "This book, along with Thruul M'Gon's Puny and Mighty Smelting and Nemea's Fantastic Foundry all cover a tier of materials with a listing of material traits. Tool traits are covered both by this book and Mighty Smelting.",
+      "text": "This book, along with Thruul M'Gon's Puny and Могутнє плавлення and Немея's Потужне виплавляння all cover a tier of materials with a listing of material traits. Tool traits are covered both by this book and Могутнє плавлення.",
       "paragraph": true
     }
   ]
@@ -11437,7 +11437,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/upgr
 ```
 {
   "type": "tconstruct:showcase",
-  "title": "Upgrades",
+  "title": "Покращення",
   "item": {
     "type": "forge:nbt",
     "item": "tconstruct:creative_slot",
@@ -11445,16 +11445,16 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/upgr
       "slot": "upgrades"
     }
   },
-  "tooltip": [ "Upgrade Slot Icon" ],
+  "tooltip": [ "ячейка покращення Icon" ],
   "text": [
     {
-      "text": "Upgrades are standard improvements to a tool. They are usually done by applying an item and 'rubbing off' some of its magic qualities, like redstone making tools faster. "
+      "text": "Покращення are standard improvements to a tool. They are usually done by applying an item and 'rubbing off' some of its magic qualities, like redstone making tools faster. "
     },
     {
       "text": "Most tools start with around 3 upgrade slots, though it's possible to get more slots through other types of modifiers."
     },
     {
-      "text": "Thruul M'Gon's Puny Smelting has a full list of upgrades available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "Thruul M'Gon's Легеньке плавлення has a full list of upgrades available on tools, along with the Лудильникька енциклопедія.",
       "paragraph": true
     }
   ]
@@ -11465,7 +11465,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/slot
 ```
 {
   "type": "tconstruct:showcase",
-  "title": "Slotless Modifiers",
+  "title": "Без'ячейкове Зміни",
   "item": {
     "type": "forge:nbt",
     "item": "tconstruct:creative_slot",
@@ -11473,16 +11473,16 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/modifiers/slot
       "slot": "slotless"
     }
   },
-  "tooltip": [ "Slotless Icon" ],
+  "tooltip": [ "Без'ячейкове Icon" ],
   "text": [
     {
-      "text": "Slotless modifiers do not require slots, unlike all other types of modifiers. This typically means the modifier either has some tradeoff or the effect is minor. "
+      "text": "Без'ячейкове modifiers do not require slots, unlike all other types of modifiers. This typically means the modifier either has some tradeoff or the effect is minor. "
     },
     {
       "text": "One notable type of slotless modifiers is bonus modifiers, which grant additional modifier slots. Many exist that grant more upgrade slots, and I am told some even exist to grant more ability slots."
     },
     {
-      "text": "Thruul M'Gon's Puny Smelting has a full list of slotless modifiers available on tools, along with the Encyclopedia of Tinkering.",
+      "text": "Thruul M'Gon's Легеньке плавлення has a full list of slotless modifiers available on tools, along with the Лудильникька енциклопедія.",
       "paragraph": true
     }
   ]
@@ -11503,7 +11503,7 @@ tools=Tools
 armor=Basic Armor
 armor.subtext=Basic armor allows basic protection without needing to hunt for resources or build any machinery. This will grant limited defense, but there are still many opportunities to upgrade your suit of armor! Oh what fun things will you create?
 
-modifiers=Modifiers
+modifiers=Зміни
 further_reading=Further Reading
 ```
 
@@ -11558,7 +11558,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/repairin
   },
   "description": [
     {
-      "text": "Repairing your tool is an important thing to do, unless you want it to break. In Tinker Station or Tinker Anvil place the tool and material of the head/plate and it will repair. Alternatively, you can use repair kits, which work in crafting tables!",
+      "text": "Repairing your tool is an important thing to do, unless you want it to break. In Лудильник Station or Лудильник Anvil place the tool and material of the head/plate and it will repair. Alternatively, you can use repair kits, which work in crafting tables!",
       "paragraph": true
     }
 	]
@@ -11820,11 +11820,11 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading/fantastic_foundry_craft.json
 ```
 {
-  "title": "Fantastic Foundry by Nemea",
+  "title": "Потужне виплавляння by Немея",
   "recipe": "tconstruct:common/fantastic_foundry",
   "grid_size": "small",
   "description": [
-    { "text": "Hottest new technology in molten metals. Skip the smeltery, start with a foundry! Learn more in §oFantastic Foundry§r by Nemea." }
+    { "text": "Hottest new technology in molten metals. Skip the smeltery, start with a foundry! Learn more in §oПотужне виплавляння§r by Немея." }
   ]
 }
 ```
@@ -11832,11 +11832,11 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading/puny_craft.json
 ```
 {
-  "title": "Puny Smelting by Thruul",
+  "title": "Легеньке плавлення by Thruul",
   "recipe": "tconstruct:common/puny_smelting",
   "grid_size": "small",
   "description": [
-    { "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oPuny Smelting§r and §oMighty Smelting§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE." }
+    { "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oЛегеньке плавлення§r and §oМогутнє плавлення§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE." }
   ]
 }
 ```
@@ -11844,11 +11844,11 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading/gadget_craft.json
 ```
 {
-  "title": "Tinker's Gadgetry by Melvin",
+  "title": "Лудильник's Gadgetry by Мелвін",
   "recipe": "tconstruct:common/tinkers_gadgetry",
   "grid_size": "small",
   "description": [
-    { "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of, I even made armor out of slime! Coming soon in §oTinker's §oGadgetry§r by Melvin." }
+    { "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of, I even made armor out of slime! Coming soon in §oЛудильник's §oGadgetry§r by Мелвін." }
   ]
 }
 ```
@@ -11856,7 +11856,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation.json
 ```
 {
-  "title": "Tinker Station",
+  "title": "Лудильник Station",
   "image": {
     "file": "tconstruct:book/images/tinkerstation.png",
     "width": 135,
@@ -11885,17 +11885,17 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partches
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation2.json
 ```
 {
-  "title": "Tinker Station",
+  "title": "Лудильник Station",
   "text": [
     {
       "text": "To finish the first step in your grand tinkering adventure, it is time to craft your first tool. It may not start off the best, but it is your work, and you should be proud of it."
     },
     {
-      "text": "Once you have acquired all the parts you need to make a tool, construction can begin! First get a Tinker Station, then select which tool you want to make and tinker away! Give it a name before you miss your chance. ",
+      "text": "Once you have acquired all the parts you need to make a tool, construction can begin! First get a Лудильник Station, then select which tool you want to make and tinker away! Give it a name before you miss your chance. ",
       "paragraph": true
     },
     {
-      "text": "You can also use the Tinker Station to add modifiers to your tools. The basic table only has enough room to combine three parts maximum, meaning no broad tools can be crafted. Other master tinkers know the secret to making tools out of four or five parts.",
+      "text": "You can also use the Лудильник Station to add modifiers to your tools. The basic table only has enough room to combine three parts maximum, meaning no broad tools can be crafted. Other master tinkers know the secret to making tools out of four or five parts.",
       "paragraph": true
     }
   ]
@@ -11923,7 +11923,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuil
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation_craft.json
 ```
 {
-  "title": "Tinker Station Crafting",
+  "title": "Лудильник Station Crafting",
   "recipe": "tconstruct:tables/tinker_station",
   "description": [
     { "text": "Hopefully you still have some patterns leftover. If not can always make more." }
@@ -11954,7 +11954,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/storage.
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/selena.json
 ```
 {
-  "title": "Selena",
+  "title": "Селена",
   "image": {
 	"file": "tconstruct:book/images/selena.png",
     "width": 95,
@@ -11962,7 +11962,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/selena.j
   },
   "text": [
     {
-      "text": "I, Selena Arcadia Eodhan, Librarian of the Slime Crafter Guild and Leader of the Special Slimic Military Unit, wish all of you great skill in your studies and great fortune in the field."
+      "text": "I, Селена Arcadia Eodhan, Librarian of the Slime Crafter Guild and Leader of the Special Slimic Military Unit, wish all of you great skill in your studies and great fortune in the field."
     }
   ]
 }
@@ -12011,7 +12011,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuil
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerschest_craft.json
 ```
 {
-  "title": "Tinker's Chest Crafting",
+  "title": "Лудильник's Chest Crafting",
   "recipe": "tconstruct:tables/tinkers_chest",
   "description": [
     { "text": "After crafting, you can dye the chest any color you wish." }
@@ -12039,7 +12039,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/ind
 ```
 {
   "title": "Exploration",
-  "subText": "Many Tinkers mention resources useful in modifiers or tool materials, but neglect to tell you how to obtain them. Luckily in my travels I have located many of them, so I can pass on my findings to you.",
+  "subText": "Many Лудильникs mention resources useful in modifiers or tool materials, but neglect to tell you how to obtain them. Luckily in my travels I have located many of them, so I can pass on my findings to you.",
   "operations": [
     { "before": "grass_seeds", "action": "add_group", "data": "Resources" },
     { "before": "skyslime_island", "action": "column_break" },
@@ -12053,11 +12053,11 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/ind
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/necrotic_bones.json
 ```
 {
-  "title": "Necrotic Bones",
+  "title": "Візер кістка",
   "item": "tconstruct:necrotic_bone",
   "text": [
     {
-      "text": "Bones from wither skeletons seem to have unique properties compared to the bones of regular skeletons. Selena and Nemea have managed to create tools out of these, and Thruul has used them in some clever modifiers. I have been working on producing a powder similar to bonemeal as I want to see the effect bones infused with wither would have on plants",
+      "text": "Кістки з візерів-скелетів, схоже, мають особливі властивості, на відміну від звичайних. Селена та Немея вигададали, як роботи з них інструменти, а Thruul використав їх для вигадливих покращень. Я ж намагався зробити щось на кшталт кісткового борошна із цікавості, що буде з рослинами, якщо його використати на них",
       "paragraph": true
     }
   ]
@@ -12135,7 +12135,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/earthslime.json
 ```
 {
-  "title": "Earthslime Islands",
+  "title": "Землеслиз Islands",
   "image": {
 	"file": "tconstruct:book/images/islands/earthslime.png",
     "width": 180,
@@ -12143,7 +12143,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "Earthslime islands are sometimes found in the overworld oceans, appearing less alien than their skyslime cousins. They are not the only way to find the common green variant of slime, though the grass causes them to appear much more commonly."
+      "text": "Землеслиз islands are sometimes found in the overworld oceans, appearing less alien than their skyslime cousins. They are not the only way to find the common green variant of slime, though the grass causes them to appear much more commonly."
     }
   ]
 }
@@ -12203,7 +12203,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/earthslime.json
 ```
 {
-  "title": "Earthslime Geodes",
+  "title": "Землеслиз Geodes",
   "image": {
 	"file": "tconstruct:book/images/geodes/earthslime.png",
     "width": 180,
@@ -12211,7 +12211,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Earthslime geodes are located deep underground, and can be some of the largest geodes I have seen. You can often identify them by the presence of clay."
+      "text": "Землеслиз geodes are located deep underground, and can be some of the largest geodes I have seen. You can often identify them by the presence of clay."
     }
   ]
 }
@@ -12241,8 +12241,8 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
   "properties": [
     "Mines stone blocks and similar",
     "Able to keep an arrow prepared to fire",
-    "3 Upgrade Slots",
-    "1 Ability Slot"
+    "3 ячейки покращення",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -12258,8 +12258,8 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
     "Medium Damage",
     "High Attack Speed",
     "Fluid Pistol",
-    "3 Upgrade Slots",
-    "1 Ability Slot"
+    "3 ячейки покращення",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -12274,8 +12274,8 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
   "properties": [
     "Medium Damage",
     "Medium блок Potential",
-    "3 Defense Slots",
-    "1 Ability Slot"
+    "3 ячейки захисту",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -12290,9 +12290,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
   "properties": [
     "Mines meltable blocks",
     "Melting+",
-    "1 Defense Slot",
-    "1 Upgrade Slot",
-    "2 Ability Slots"
+    "1 ячейка захисту",
+    "1 ячейка покращення",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -12300,7 +12300,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extract_upgrade.json
 ```
 {
-  "title": "Extract Upgrade",
+  "title": "Extract Покращення",
   "image": {
     "file": "tconstruct:book/images/worktable/extract_upgrade.png",
     "width": 147,
@@ -12317,7 +12317,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extra
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/modifier_worktable.json
 ```
 {
-  "title": "Modifier Worktable",
+  "title": "Зміни Worktable",
   "recipe": "tconstruct:tables/modifier_worktable",
   "description": [
     { "text": "Arranging seared stone like this makes it easier to target a specific modifier in the recipes." }
@@ -12328,7 +12328,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/modif
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/sort_modifiers.json
 ```
 {
-  "title": "Sort Modifiers",
+  "title": "Sort Зміни",
   "image": {
     "file": "tconstruct:book/images/worktable/sort_modifiers.png",
     "width": 147,
@@ -12353,7 +12353,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/invis
   },
   "text": [
     {
-      "text": "I once accidentally spilled an invisibility potion on my tool, and discovered the potion actually works to hide modifiers from view. The technique does not seem that useful unless a modifier does not go with the tools aesthetic, but maybe a more artistically minded Tinker will find a use for it."
+      "text": "I once accidentally spilled an invisibility potion on my tool, and discovered the potion actually works to hide modifiers from view. The technique does not seem that useful unless a modifier does not go with the tools aesthetic, but maybe a more artistically minded Лудильник will find a use for it."
     }
   ]
 }
@@ -12362,7 +12362,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/invis
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/remove_modifiers.json
 ```
 {
-  "title": "Remove Modifiers",
+  "title": "Remove Зміни",
   "image": {
     "file": "tconstruct:book/images/worktable/remove_modifier.png",
     "width": 147,
@@ -12396,7 +12396,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extra
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/index.json
 ```
 {
-  "title": "Odd Modifiers",
+  "title": "Odd Зміни",
   "subText": "By applying certain odd items to my tools, often on accident, I have discovered a few unique interactions. For some of these, I found it easier to apply if I used a custom worktable."
 }
 ```
@@ -12438,7 +12438,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/untog
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extract_modifier.json
 ```
 {
-  "title": "Extract Modifiers",
+  "title": "Extract Зміни",
   "image": {
     "file": "tconstruct:book/images/worktable/extract_modifier.png",
     "width": 147,
@@ -12489,7 +12489,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/toggl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extract_ability.json
 ```
 {
-  "title": "Extract Ability",
+  "title": "Extract Здібність",
   "image": {
     "file": "tconstruct:book/images/worktable/extract_ability.png",
     "width": 147,
@@ -12660,19 +12660,19 @@ intro=Introduction
 
 gadgets=Gadgets
 
-modifiers=Odd Modifiers
+modifiers=Odd Зміни
 
 exploration=Exploration
-exploration.necrotic_bones=Necrotic Bone
+exploration.necrotic_bones=Візер кістка
 
 exploration.skyslime_island=Небослизовий
-exploration.earthslime_island=Earthslime
+exploration.earthslime_island=Землеслиз
 exploration.clay_island=Clay
 exploration.blood_island=Blood
 exploration.enderslime_island=ендерслиз
 
 exploration.skyslime_geode=Небослизовий
-exploration.earthslime_geode=Earthslime
+exploration.earthslime_geode=Землеслиз
 exploration.ichor_geode=Іхор
 exploration.enderslime_geode=ендерслиз
 
@@ -12692,10 +12692,10 @@ materials.subtext=Placing one of these skulls in a casting котел and adding
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/intro.json
 ```
 {
-  "title": "Melvin's Guide to Gadgets",
+  "title": "Мелвін's Guide to Gadgets",
   "text": [
     {
-      "text": "Hey future or current tinker. My name is Melvin. I fell in a slimepool once, and since then I have never stopped experimenting with slime. While I am not a master tinker yet, I am hoping some of my discoveries will one day get me accepted into their ranks."
+      "text": "Hey future or current tinker. My name is Мелвін. I fell in a slimepool once, and since then I have never stopped experimenting with slime. While I am not a master tinker yet, I am hoping some of my discoveries will one day get me accepted into their ranks."
     },
     {
       "text": "This book covers inventions I have made, my attempts to discover new modifiers, and some of my journeys to discover all types of slime. Hopefully this will aid you on your quest to master both toolmaking and the slimes in the world.",
@@ -12714,9 +12714,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
   ],
   "properties": [
     "Mid Durability",
-    "2 Upgrade Slots",
-    "3 Defense Slots",
-    "2 Ability Slots"
+    "2 ячейки покращення",
+    "3 ячейки захисту",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -12730,9 +12730,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
   ],
   "properties": [
     "High Durability",
-    "3 Upgrade Slots",
-    "1 Defense Slots",
-    "2 Ability Slots",
+    "3 ячейки покращення",
+    "1 ячейка захисту",
+    "2 ячейки здібності",
     "Reach II"
   ]
 }
@@ -12747,8 +12747,8 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
   ],
   "properties": [
     "High Durability",
-    "2 Upgrade Slots",
-    "3 Ability Slots"
+    "2 ячейки покращення",
+    "3 ячейки здібності"
   ]
 }
 ```
@@ -12762,8 +12762,8 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
   ],
   "properties": [
     "Low Durability",
-    "5 Upgrade Slots",
-    "2 Ability Slots"
+    "5 ячейок покращення",
+    "2 ячейки здібності"
   ]
 }
 ```
@@ -12778,9 +12778,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   ],
   "properties": [
     "High Durability",
-    "No Armor or Defense Slots",
-    "5 Upgrade Slots",
-    "1 Ability Slot"
+    "No Armor or ячейок захисту",
+    "5 ячейок покращення",
+    "1 ячейка здібності"
   ]
 }
 ```
@@ -12795,9 +12795,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   ],
   "properties": [
     "High Durability",
-    "No Armor or Defense Slots",
-    "5 Upgrade Slots",
-    "1 Ability Slot",
+    "No Armor or ячейок захисту",
+    "5 ячейок покращення",
+    "1 ячейка здібності",
     "Shulking"
   ]
 }
@@ -12813,9 +12813,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   ],
   "properties": [
     "High Durability",
-    "No Armor or Defense Slots",
-    "5 Upgrade Slots",
-    "1 Ability Slot",
+    "No Armor or ячейок захисту",
+    "5 ячейок покращення",
+    "1 ячейка здібності",
     "Bouncy and Leaping"
   ]
 }
@@ -12831,9 +12831,9 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   ],
   "properties": [
     "High Durability",
-    "5 Upgrade Slots",
-    "0 Defense Slots",
-    "1 Ability Slot"
+    "5 ячейок покращення",
+    "0 ячейок захисту",
+    "1 ячейка здібності"
   ]
 }
 ```
