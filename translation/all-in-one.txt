@@ -379,52 +379,52 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Sand Casts",
 
-  "item.tconstruct.blank_sand_cast": "Blank Sand Cast",
-  "item.tconstruct.ingot_sand_cast": "злиток Sand Cast",
-  "item.tconstruct.nugget_sand_cast": "самородок Sand Cast",
-  "item.tconstruct.gem_sand_cast": "Самоцвіт Sand Cast",
-  "item.tconstruct.rod_sand_cast": "Стрижень Sand Cast",
+  "item.tconstruct.blank_sand_cast": "Пісочне литво",
+  "item.tconstruct.ingot_sand_cast": "Пісочне литво злитока",
+  "item.tconstruct.nugget_sand_cast": "Пісочне литво самородока",
+  "item.tconstruct.gem_sand_cast": "Пісочне литво самоцвіту",
+  "item.tconstruct.rod_sand_cast": "Пісочне литво стрижня",
 
-  "item.tconstruct.gear_sand_cast": "Шестерня Sand Cast",
-  "item.tconstruct.plate_sand_cast": "Мала пластина Sand Cast",
-  "item.tconstruct.coin_sand_cast": "Монетка Sand Cast",
-  "item.tconstruct.wire_sand_cast": "Дріт Sand Cast",
+  "item.tconstruct.gear_sand_cast": "Пісочне литво шестерні",
+  "item.tconstruct.plate_sand_cast": "Пісочне литво малої пластини",
+  "item.tconstruct.coin_sand_cast": "Пісочне литво монетки",
+  "item.tconstruct.wire_sand_cast": "Пісочне литво дроту",
 
-  "item.tconstruct.repair_kit_sand_cast": "Ремонтний набір Sand Cast",
+  "item.tconstruct.repair_kit_sand_cast": "Пісочне литво ремонтного набіру",
 
   "_comment": "Small Head Sand Casts",
 
-  "item.tconstruct.pick_head_sand_cast": "Наконечник кайла Sand Cast",
-  "item.tconstruct.small_axe_head_sand_cast": "Наконечник сокири Sand Cast",
-  "item.tconstruct.small_blade_sand_cast": "Лезо Sand Cast",
-  "item.tconstruct.bow_limb_sand_cast": "Плече лука Sand Cast",
-  "item.tconstruct.bow_grip_sand_cast": "Руків'я арбалета Sand Cast",
-  "item.tconstruct.adze_head_sand_cast": "Наконечник тесла Sand Cast",
+  "item.tconstruct.pick_head_sand_cast": "Пісочне литво наконечника кайла",
+  "item.tconstruct.small_axe_head_sand_cast": "Пісочне литво наконечника сокири",
+  "item.tconstruct.small_blade_sand_cast": "Пісочне литво леза",
+  "item.tconstruct.bow_limb_sand_cast": "Пісочне литво плеча лука",
+  "item.tconstruct.bow_grip_sand_cast": "Пісочне литво руків'я арбалета",
+  "item.tconstruct.adze_head_sand_cast": "Пісочне литво наконечника тесла",
 
   "_comment": "Large Head Sand Casts",
 
-  "item.tconstruct.hammer_head_sand_cast": "Наконечник молота Sand Cast",
-  "item.tconstruct.broad_axe_head_sand_cast": "Наконечник широкої сокири Sand Cast",
-  "item.tconstruct.broad_blade_sand_cast": "Широке лезо Sand Cast",
-  "item.tconstruct.large_plate_sand_cast": "Велика пластина Sand Cast",
+  "item.tconstruct.hammer_head_sand_cast": "Пісочне литво наконечника молота",
+  "item.tconstruct.broad_axe_head_sand_cast": "Пісочне литво наконечника широкої сокири",
+  "item.tconstruct.broad_blade_sand_cast": "Пісочне литво широкого леза",
+  "item.tconstruct.large_plate_sand_cast": "Пісочне литво великої пластини",
 
   "_comment": "Binding Sand Casts",
 
-  "item.tconstruct.tool_binding_sand_cast": "Кріплення Sand Cast",
-  "item.tconstruct.tough_binding_sand_cast": "Хомут Sand Cast",
+  "item.tconstruct.tool_binding_sand_cast": "Пісочне литво кріплення",
+  "item.tconstruct.tough_binding_sand_cast": "Пісочне литво хомута",
 
   "_comment": "Tool Handle Sand Casts",
 
-  "item.tconstruct.tool_handle_sand_cast": "Держак Sand Cast",
-  "item.tconstruct.tough_handle_sand_cast": "Товстий держак Sand Cast",
+  "item.tconstruct.tool_handle_sand_cast": "Пісочне литво держака",
+  "item.tconstruct.tough_handle_sand_cast": "Пісочне литво товстого держака",
 
   "_comment": "Armor Sand Casts",
 
-  "item.tconstruct.helmet_plating_sand_cast": "Обшивка шолома Sand Cast",
-  "item.tconstruct.chestplate_plating_sand_cast": "Обшивка нагрудника Sand Cast",
-  "item.tconstruct.leggings_plating_sand_cast": "Обшивка наголінників Sand Cast",
-  "item.tconstruct.boots_plating_sand_cast": "Обшивка чоботів Sand Cast",
-  "item.tconstruct.maille_sand_cast": "Основа броні Sand Cast",
+  "item.tconstruct.helmet_plating_sand_cast": "Пісочне литво обшивки шолома",
+  "item.tconstruct.chestplate_plating_sand_cast": "Пісочне литво обшивки нагрудника",
+  "item.tconstruct.leggings_plating_sand_cast": "Пісочне литво обшивки наголінників",
+  "item.tconstruct.boots_plating_sand_cast": "Пісочне литво обшивки чоботів",
+  "item.tconstruct.maille_sand_cast": "Пісочне литво основи броні",
 
 
   "_comment": "Tinkers Red Sand Casts",
