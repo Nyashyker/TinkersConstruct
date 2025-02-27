@@ -313,17 +313,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Binding Patterns",
 
-  "pattern.tconstruct.tool_binding": "Tool Binding",
-  "pattern.tconstruct.tough_binding": "Tough Collar",
-  "pattern.tconstruct.bowstring": "Bowstring",
-  "pattern.tconstruct.maille": "Maille",
-  "pattern.tconstruct.shield_core": "Shield Core",
+  "pattern.tconstruct.tool_binding": "Кріплення",
+  "pattern.tconstruct.tough_binding": "Цупкий ремінь",
+  "pattern.tconstruct.bowstring": "Тятива",
+  "pattern.tconstruct.maille": "Основа броні",
+  "pattern.tconstruct.shield_core": "Основа щита",
 
   "_comment": "Tool Handle Patterns",
 
-  "pattern.tconstruct.tool_handle": "Tool Handle",
-  "pattern.tconstruct.tough_handle": "Tough Handle",
-  "pattern.tconstruct.bow_grip": "Bow Grip",
+  "pattern.tconstruct.tool_handle": "Держак",
+  "pattern.tconstruct.tough_handle": "Товстий держак",
+  "pattern.tconstruct.bow_grip": "Руків'я арбалета",
 
 
   "_comment": "Tinkers Gold Casts",
@@ -349,7 +349,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.small_axe_head_cast": "Наконечник сокири Gold Cast",
   "item.tconstruct.small_blade_cast": "Лезо Gold Cast",
   "item.tconstruct.bow_limb_cast": "Плече лука Gold Cast",
-  "item.tconstruct.bow_grip_cast": "Bow Grip Gold Cast",
+  "item.tconstruct.bow_grip_cast": "Руків'я арбалета Gold Cast",
   "item.tconstruct.adze_head_cast": "Наконечник тесла Gold Cast",
 
   "_comment": "Large Head Gold Casts",
@@ -361,20 +361,20 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Binding Gold Casts",
 
-  "item.tconstruct.tool_binding_cast": "Tool Binding Gold Cast",
-  "item.tconstruct.tough_binding_cast": "Tough Collar Gold Cast",
+  "item.tconstruct.tool_binding_cast": "Кріплення Gold Cast",
+  "item.tconstruct.tough_binding_cast": "Цупкий ремінь Gold Cast",
 
   "_comment": "Tool Handle Gold Casts",
 
-  "item.tconstruct.tool_handle_cast": "Tool Handle Gold Cast",
-  "item.tconstruct.tough_handle_cast": "Tough Handle Gold Cast",
+  "item.tconstruct.tool_handle_cast": "Держак Gold Cast",
+  "item.tconstruct.tough_handle_cast": "Товстий держак Gold Cast",
 
   "_comment": "Armor Gold Casts",
   "item.tconstruct.helmet_plating_cast": "Обшивка шолома Gold Cast",
   "item.tconstruct.chestplate_plating_cast": "Обшивка нагрудника Gold Cast",
   "item.tconstruct.leggings_plating_cast": "Обшивка наголінників Gold Cast",
   "item.tconstruct.boots_plating_cast": "Обшивка чоботів Gold Cast",
-  "item.tconstruct.maille_cast": "Maille Gold Cast",
+  "item.tconstruct.maille_cast": "Основа броні Gold Cast",
 
 
   "_comment": "Tinkers Sand Casts",
@@ -398,7 +398,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.small_axe_head_sand_cast": "Наконечник сокири Sand Cast",
   "item.tconstruct.small_blade_sand_cast": "Лезо Sand Cast",
   "item.tconstruct.bow_limb_sand_cast": "Плече лука Sand Cast",
-  "item.tconstruct.bow_grip_sand_cast": "Bow Grip Sand Cast",
+  "item.tconstruct.bow_grip_sand_cast": "Руків'я арбалета Sand Cast",
   "item.tconstruct.adze_head_sand_cast": "Наконечник тесла Sand Cast",
 
   "_comment": "Large Head Sand Casts",
@@ -410,13 +410,13 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Binding Sand Casts",
 
-  "item.tconstruct.tool_binding_sand_cast": "Tool Binding Sand Cast",
-  "item.tconstruct.tough_binding_sand_cast": "Tough Collar Sand Cast",
+  "item.tconstruct.tool_binding_sand_cast": "Кріплення Sand Cast",
+  "item.tconstruct.tough_binding_sand_cast": "Цупкий ремінь Sand Cast",
 
   "_comment": "Tool Handle Sand Casts",
 
-  "item.tconstruct.tool_handle_sand_cast": "Tool Handle Sand Cast",
-  "item.tconstruct.tough_handle_sand_cast": "Tough Handle Sand Cast",
+  "item.tconstruct.tool_handle_sand_cast": "Держак Sand Cast",
+  "item.tconstruct.tough_handle_sand_cast": "Товстий держак Sand Cast",
 
   "_comment": "Armor Sand Casts",
 
@@ -424,7 +424,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_sand_cast": "Обшивка нагрудника Sand Cast",
   "item.tconstruct.leggings_plating_sand_cast": "Обшивка наголінників Sand Cast",
   "item.tconstruct.boots_plating_sand_cast": "Обшивка чоботів Sand Cast",
-  "item.tconstruct.maille_sand_cast": "Maille Sand Cast",
+  "item.tconstruct.maille_sand_cast": "Основа броні Sand Cast",
 
 
   "_comment": "Tinkers Red Sand Casts",
@@ -448,7 +448,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.small_axe_head_red_sand_cast": "Наконечник сокири Red Sand Cast",
   "item.tconstruct.small_blade_red_sand_cast": "Лезо Red Sand Cast",
   "item.tconstruct.bow_limb_red_sand_cast": "Плече лука Red Sand Cast",
-  "item.tconstruct.bow_grip_red_sand_cast": "Bow Grip Red Sand Cast",
+  "item.tconstruct.bow_grip_red_sand_cast": "Руків'я арбалета Red Sand Cast",
   "item.tconstruct.adze_head_red_sand_cast": "Наконечник тесла Red Sand Cast",
 
   "_comment": "Large Head Red Sand Casts",
@@ -460,13 +460,13 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Binding Red Sand Casts",
 
-  "item.tconstruct.tool_binding_red_sand_cast": "Tool Binding Red Sand Cast",
-  "item.tconstruct.tough_binding_red_sand_cast": "Tough Collar Red Sand Cast",
+  "item.tconstruct.tool_binding_red_sand_cast": "Кріплення Red Sand Cast",
+  "item.tconstruct.tough_binding_red_sand_cast": "Цупкий ремінь Red Sand Cast",
 
   "_comment": "Tool Handle Red Sand Casts",
 
-  "item.tconstruct.tool_handle_red_sand_cast": "Tool Handle Red Sand Cast",
-  "item.tconstruct.tough_handle_red_sand_cast": "Tough Handle Red Sand Cast",
+  "item.tconstruct.tool_handle_red_sand_cast": "Держак Red Sand Cast",
+  "item.tconstruct.tough_handle_red_sand_cast": "Товстий держак Red Sand Cast",
 
   "_comment": "Armor Red Sand Casts",
 
@@ -474,7 +474,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_red_sand_cast": "Обшивка нагрудника Red Sand Cast",
   "item.tconstruct.leggings_plating_red_sand_cast": "Обшивка наголінників Red Sand Cast",
   "item.tconstruct.boots_plating_red_sand_cast": "Обшивка чоботів Red Sand Cast",
-  "item.tconstruct.maille_red_sand_cast": "Maille Red Sand Cast",
+  "item.tconstruct.maille_red_sand_cast": "Основа броні Red Sand Cast",
 
 
   "_comment": "Tinkers Fluids",
@@ -986,16 +986,16 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.small_blade": "Лезо",
   "item.tconstruct.broad_blade": "Широке лезо",
 
-  "item.tconstruct.tool_handle": "Tool Handle",
-  "item.tconstruct.tough_handle": "Tough Handle",
-  "item.tconstruct.tool_binding": "Tool Binding",
-  "item.tconstruct.tough_binding": "Tough Collar",
+  "item.tconstruct.tool_handle": "Держак",
+  "item.tconstruct.tough_handle": "Товстий держак",
+  "item.tconstruct.tool_binding": "Кріплення",
+  "item.tconstruct.tough_binding": "Цупкий ремінь",
   "item.tconstruct.adze_head": "Наконечник тесла",
   "item.tconstruct.large_plate": "Велика пластина",
   
   "item.tconstruct.bow_limb": "Плече лука",
-  "item.tconstruct.bow_grip": "Bow Grip",
-  "item.tconstruct.bowstring": "Bowstring",
+  "item.tconstruct.bow_grip": "Руків'я арбалета",
+  "item.tconstruct.bowstring": "Тятива",
 
   "item.tconstruct.helmet_plating": "Обшивка шолома",
   "item.tconstruct.chestplate_plating": "Обшивка нагрудника",
@@ -1005,8 +1005,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_dummy": "Stone Обшивка нагрудника",
   "item.tconstruct.leggings_plating_dummy": "Stone Обшивка наголінників",
   "item.tconstruct.boots_plating_dummy": "Stone Обшивка чоботів",
-  "item.tconstruct.maille": "Maille",
-  "item.tconstruct.shield_core": "Shield Core",
+  "item.tconstruct.maille": "Основа броні",
+  "item.tconstruct.shield_core": "Основа щита",
 
 
   "_conment": "Tool Descriptions",
@@ -2770,8 +2770,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "stat.tconstruct.plating_chestplate": "Обшивка нагрудника",
   "stat.tconstruct.plating_boots": "Обшивка чоботів",
   "stat.tconstruct.plating_shield": "Shield Обшивка",
-  "stat.tconstruct.shield_core": "Shield Core",
-  "stat.tconstruct.maille": "Maille",
+  "stat.tconstruct.shield_core": "Основа щита",
+  "stat.tconstruct.maille": "Основа броні",
   "tool_stat.tconstruct.armor": "Armor: ",
   "tool_stat.tconstruct.armor.description": "How much this protects you when worn.",
   "tool_stat.tconstruct.armor_toughness": "Armor Toughness: ",
@@ -2797,7 +2797,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconsturct.projectile_damage.description": "Determines the base damage or strength of projectiles fired by this weapon.",
 
   "stat.tconstruct.binding": "Binding",
-  "stat.tconstruct.bowstring": "Bowstring",
+  "stat.tconstruct.bowstring": "Тятива",
   "tool_stat.tconstruct.extra.no_stats": "No stats",
 
   "tool_stat.tconstruct.block_amount": "блок Amount: ",
