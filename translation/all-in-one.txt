@@ -314,7 +314,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Binding Patterns",
 
   "pattern.tconstruct.tool_binding": "Кріплення",
-  "pattern.tconstruct.tough_binding": "Цупкий ремінь",
+  "pattern.tconstruct.tough_binding": "Хомут",
   "pattern.tconstruct.bowstring": "Тятива",
   "pattern.tconstruct.maille": "Основа броні",
   "pattern.tconstruct.shield_core": "Основа щита",
@@ -362,7 +362,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Binding Gold Casts",
 
   "item.tconstruct.tool_binding_cast": "Кріплення Gold Cast",
-  "item.tconstruct.tough_binding_cast": "Цупкий ремінь Gold Cast",
+  "item.tconstruct.tough_binding_cast": "Хомут Gold Cast",
 
   "_comment": "Tool Handle Gold Casts",
 
@@ -411,7 +411,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Binding Sand Casts",
 
   "item.tconstruct.tool_binding_sand_cast": "Кріплення Sand Cast",
-  "item.tconstruct.tough_binding_sand_cast": "Цупкий ремінь Sand Cast",
+  "item.tconstruct.tough_binding_sand_cast": "Хомут Sand Cast",
 
   "_comment": "Tool Handle Sand Casts",
 
@@ -461,7 +461,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Binding Red Sand Casts",
 
   "item.tconstruct.tool_binding_red_sand_cast": "Кріплення Red Sand Cast",
-  "item.tconstruct.tough_binding_red_sand_cast": "Цупкий ремінь Red Sand Cast",
+  "item.tconstruct.tough_binding_red_sand_cast": "Хомут Red Sand Cast",
 
   "_comment": "Tool Handle Red Sand Casts",
 
@@ -989,7 +989,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.tool_handle": "Держак",
   "item.tconstruct.tough_handle": "Товстий держак",
   "item.tconstruct.tool_binding": "Кріплення",
-  "item.tconstruct.tough_binding": "Цупкий ремінь",
+  "item.tconstruct.tough_binding": "Хомут",
   "item.tconstruct.adze_head": "Наконечник тесла",
   "item.tconstruct.large_plate": "Велика пластина",
   
