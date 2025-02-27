@@ -306,10 +306,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Large Head Patterns",
 
-  "pattern.tconstruct.hammer_head": "Hammer Наконечник",
-  "pattern.tconstruct.broad_axe_head": "Broad Axe Наконечник",
-  "pattern.tconstruct.broad_blade": "Broad Blade",
-  "pattern.tconstruct.large_plate": "Large Plate",
+  "pattern.tconstruct.hammer_head": "Наконечник молота",
+  "pattern.tconstruct.broad_axe_head": "Наконечник широкої сокири",
+  "pattern.tconstruct.broad_blade": "Широке лезо",
+  "pattern.tconstruct.large_plate": "Велика пластина",
 
   "_comment": "Binding Patterns",
 
@@ -354,10 +354,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Large Head Gold Casts",
 
-  "item.tconstruct.hammer_head_cast": "Hammer Наконечник Gold Cast",
-  "item.tconstruct.broad_axe_head_cast": "Broad Axe Наконечник Gold Cast",
-  "item.tconstruct.broad_blade_cast": "Broad Blade Gold Cast",
-  "item.tconstruct.large_plate_cast": "Large Plate Gold Cast",
+  "item.tconstruct.hammer_head_cast": "Наконечник молота Gold Cast",
+  "item.tconstruct.broad_axe_head_cast": "Наконечник широкої сокири Gold Cast",
+  "item.tconstruct.broad_blade_cast": "Широке лезо Gold Cast",
+  "item.tconstruct.large_plate_cast": "Велика пластина Gold Cast",
 
   "_comment": "Binding Gold Casts",
 
@@ -403,10 +403,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Large Head Sand Casts",
 
-  "item.tconstruct.hammer_head_sand_cast": "Hammer Наконечник Sand Cast",
-  "item.tconstruct.broad_axe_head_sand_cast": "Broad Axe Наконечник Sand Cast",
-  "item.tconstruct.broad_blade_sand_cast": "Broad Blade Sand Cast",
-  "item.tconstruct.large_plate_sand_cast": "Large Plate Sand Cast",
+  "item.tconstruct.hammer_head_sand_cast": "Наконечник молота Sand Cast",
+  "item.tconstruct.broad_axe_head_sand_cast": "Наконечник широкої сокири Sand Cast",
+  "item.tconstruct.broad_blade_sand_cast": "Широке лезо Sand Cast",
+  "item.tconstruct.large_plate_sand_cast": "Велика пластина Sand Cast",
 
   "_comment": "Binding Sand Casts",
 
@@ -453,10 +453,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Large Head Red Sand Casts",
 
-  "item.tconstruct.hammer_head_red_sand_cast": "Hammer Наконечник Red Sand Cast",
-  "item.tconstruct.broad_axe_head_red_sand_cast": "Broad Axe Наконечник Red Sand Cast",
-  "item.tconstruct.broad_blade_red_sand_cast": "Broad Blade Red Sand Cast",
-  "item.tconstruct.large_plate_red_sand_cast": "Large Plate Red Sand Cast",
+  "item.tconstruct.hammer_head_red_sand_cast": "Наконечник молота Red Sand Cast",
+  "item.tconstruct.broad_axe_head_red_sand_cast": "Наконечник широкої сокири Red Sand Cast",
+  "item.tconstruct.broad_blade_red_sand_cast": "Широке лезо Red Sand Cast",
+  "item.tconstruct.large_plate_red_sand_cast": "Велика пластина Red Sand Cast",
 
   "_comment": "Binding Red Sand Casts",
 
@@ -978,20 +978,20 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.repair_kit": "Ремонтний набір",
 
   "item.tconstruct.pick_head": "Наконечник кайла",
-  "item.tconstruct.hammer_head": "Hammer Наконечник",
+  "item.tconstruct.hammer_head": "Наконечник молота",
 
   "item.tconstruct.small_axe_head": "Наконечник сокири",
-  "item.tconstruct.broad_axe_head": "Broad Axe Наконечник",
+  "item.tconstruct.broad_axe_head": "Наконечник широкої сокири",
 
   "item.tconstruct.small_blade": "Лезо",
-  "item.tconstruct.broad_blade": "Broad Blade",
+  "item.tconstruct.broad_blade": "Широке лезо",
 
   "item.tconstruct.tool_handle": "Tool Handle",
   "item.tconstruct.tough_handle": "Tough Handle",
   "item.tconstruct.tool_binding": "Tool Binding",
   "item.tconstruct.tough_binding": "Tough Collar",
   "item.tconstruct.adze_head": "Наконечник тесла",
-  "item.tconstruct.large_plate": "Large Plate",
+  "item.tconstruct.large_plate": "Велика пластина",
   
   "item.tconstruct.bow_limb": "Плече лука",
   "item.tconstruct.bow_grip": "Bow Grip",
