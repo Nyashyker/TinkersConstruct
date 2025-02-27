@@ -298,16 +298,16 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Small Head Patterns",
 
-  "pattern.tconstruct.pick_head": "Pick Head",
-  "pattern.tconstruct.small_axe_head": "Small Axe Head",
-  "pattern.tconstruct.small_blade": "Small Blade",
-  "pattern.tconstruct.adze_head": "Adze Head",
-  "pattern.tconstruct.bow_limb": "Bow Limb",
+  "pattern.tconstruct.pick_head": "Наконечник кайла",
+  "pattern.tconstruct.small_axe_head": "Наконечник сокири",
+  "pattern.tconstruct.small_blade": "Лезо",
+  "pattern.tconstruct.adze_head": "Наконечник тесла",
+  "pattern.tconstruct.bow_limb": "Плече лука",
 
   "_comment": "Large Head Patterns",
 
-  "pattern.tconstruct.hammer_head": "Hammer Head",
-  "pattern.tconstruct.broad_axe_head": "Broad Axe Head",
+  "pattern.tconstruct.hammer_head": "Hammer Наконечник",
+  "pattern.tconstruct.broad_axe_head": "Broad Axe Наконечник",
   "pattern.tconstruct.broad_blade": "Broad Blade",
   "pattern.tconstruct.large_plate": "Large Plate",
 
@@ -345,17 +345,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Small Head Gold Casts",
 
-  "item.tconstruct.pick_head_cast": "Pick Head Gold Cast",
-  "item.tconstruct.small_axe_head_cast": "Small Axe Head Gold Cast",
-  "item.tconstruct.small_blade_cast": "Small Blade Gold Cast",
-  "item.tconstruct.bow_limb_cast": "Bow Limb Gold Cast",
+  "item.tconstruct.pick_head_cast": "Наконечник кайла Gold Cast",
+  "item.tconstruct.small_axe_head_cast": "Наконечник сокири Gold Cast",
+  "item.tconstruct.small_blade_cast": "Лезо Gold Cast",
+  "item.tconstruct.bow_limb_cast": "Плече лука Gold Cast",
   "item.tconstruct.bow_grip_cast": "Bow Grip Gold Cast",
-  "item.tconstruct.adze_head_cast": "Adze Head Gold Cast",
+  "item.tconstruct.adze_head_cast": "Наконечник тесла Gold Cast",
 
   "_comment": "Large Head Gold Casts",
 
-  "item.tconstruct.hammer_head_cast": "Hammer Head Gold Cast",
-  "item.tconstruct.broad_axe_head_cast": "Broad Axe Head Gold Cast",
+  "item.tconstruct.hammer_head_cast": "Hammer Наконечник Gold Cast",
+  "item.tconstruct.broad_axe_head_cast": "Broad Axe Наконечник Gold Cast",
   "item.tconstruct.broad_blade_cast": "Broad Blade Gold Cast",
   "item.tconstruct.large_plate_cast": "Large Plate Gold Cast",
 
@@ -394,17 +394,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Small Head Sand Casts",
 
-  "item.tconstruct.pick_head_sand_cast": "Pick Head Sand Cast",
-  "item.tconstruct.small_axe_head_sand_cast": "Small Axe Head Sand Cast",
-  "item.tconstruct.small_blade_sand_cast": "Small Blade Sand Cast",
-  "item.tconstruct.bow_limb_sand_cast": "Bow Limb Sand Cast",
+  "item.tconstruct.pick_head_sand_cast": "Наконечник кайла Sand Cast",
+  "item.tconstruct.small_axe_head_sand_cast": "Наконечник сокири Sand Cast",
+  "item.tconstruct.small_blade_sand_cast": "Лезо Sand Cast",
+  "item.tconstruct.bow_limb_sand_cast": "Плече лука Sand Cast",
   "item.tconstruct.bow_grip_sand_cast": "Bow Grip Sand Cast",
-  "item.tconstruct.adze_head_sand_cast": "Adze Head Sand Cast",
+  "item.tconstruct.adze_head_sand_cast": "Наконечник тесла Sand Cast",
 
   "_comment": "Large Head Sand Casts",
 
-  "item.tconstruct.hammer_head_sand_cast": "Hammer Head Sand Cast",
-  "item.tconstruct.broad_axe_head_sand_cast": "Broad Axe Head Sand Cast",
+  "item.tconstruct.hammer_head_sand_cast": "Hammer Наконечник Sand Cast",
+  "item.tconstruct.broad_axe_head_sand_cast": "Broad Axe Наконечник Sand Cast",
   "item.tconstruct.broad_blade_sand_cast": "Broad Blade Sand Cast",
   "item.tconstruct.large_plate_sand_cast": "Large Plate Sand Cast",
 
@@ -444,17 +444,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Small Head Red Sand Casts",
 
-  "item.tconstruct.pick_head_red_sand_cast": "Pick Head Red Sand Cast",
-  "item.tconstruct.small_axe_head_red_sand_cast": "Small Axe Head Red Sand Cast",
-  "item.tconstruct.small_blade_red_sand_cast": "Small Blade Red Sand Cast",
-  "item.tconstruct.bow_limb_red_sand_cast": "Bow Limb Red Sand Cast",
+  "item.tconstruct.pick_head_red_sand_cast": "Наконечник кайла Red Sand Cast",
+  "item.tconstruct.small_axe_head_red_sand_cast": "Наконечник сокири Red Sand Cast",
+  "item.tconstruct.small_blade_red_sand_cast": "Лезо Red Sand Cast",
+  "item.tconstruct.bow_limb_red_sand_cast": "Плече лука Red Sand Cast",
   "item.tconstruct.bow_grip_red_sand_cast": "Bow Grip Red Sand Cast",
-  "item.tconstruct.adze_head_red_sand_cast": "Adze Head Red Sand Cast",
+  "item.tconstruct.adze_head_red_sand_cast": "Наконечник тесла Red Sand Cast",
 
   "_comment": "Large Head Red Sand Casts",
 
-  "item.tconstruct.hammer_head_red_sand_cast": "Hammer Head Red Sand Cast",
-  "item.tconstruct.broad_axe_head_red_sand_cast": "Broad Axe Head Red Sand Cast",
+  "item.tconstruct.hammer_head_red_sand_cast": "Hammer Наконечник Red Sand Cast",
+  "item.tconstruct.broad_axe_head_red_sand_cast": "Broad Axe Наконечник Red Sand Cast",
   "item.tconstruct.broad_blade_red_sand_cast": "Broad Blade Red Sand Cast",
   "item.tconstruct.large_plate_red_sand_cast": "Large Plate Red Sand Cast",
 
@@ -865,15 +865,15 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.piggy_backpack.tooltip": "Use on a mob to pick it up",
   "effect.tconstruct.carry": "Carrying",
   
-  "block.tconstruct.blaze_head":            "Blaze Head",
-  "block.tconstruct.enderman_head":         "Enderman Head",
+  "block.tconstruct.blaze_head":            "Blaze Наконечник",
+  "block.tconstruct.enderman_head":         "Enderman Наконечник",
   "block.tconstruct.stray_head":            "Stray Skull",
-  "block.tconstruct.husk_head":             "Husk Head",
-  "block.tconstruct.drowned_head":          "Drowned Head",
-  "block.tconstruct.spider_head":           "Spider Head",
-  "block.tconstruct.cave_spider_head":      "Cave Spider Head",
-  "block.tconstruct.piglin_brute_head":     "Piglin Brute Head",
-  "block.tconstruct.zombified_piglin_head": "Zombified Piglin Head",
+  "block.tconstruct.husk_head":             "Husk Наконечник",
+  "block.tconstruct.drowned_head":          "Drowned Наконечник",
+  "block.tconstruct.spider_head":           "Spider Наконечник",
+  "block.tconstruct.cave_spider_head":      "Cave Spider Наконечник",
+  "block.tconstruct.piglin_brute_head":     "Piglin Brute Наконечник",
+  "block.tconstruct.zombified_piglin_head": "Zombified Piglin Наконечник",
 
 
   "_comment": "Tinkers Tables",
@@ -977,23 +977,23 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "item.tconstruct.repair_kit": "Ремонтний набір",
 
-  "item.tconstruct.pick_head": "Pick Head",
-  "item.tconstruct.hammer_head": "Hammer Head",
+  "item.tconstruct.pick_head": "Наконечник кайла",
+  "item.tconstruct.hammer_head": "Hammer Наконечник",
 
-  "item.tconstruct.small_axe_head": "Small Axe Head",
-  "item.tconstruct.broad_axe_head": "Broad Axe Head",
+  "item.tconstruct.small_axe_head": "Наконечник сокири",
+  "item.tconstruct.broad_axe_head": "Broad Axe Наконечник",
 
-  "item.tconstruct.small_blade": "Small Blade",
+  "item.tconstruct.small_blade": "Лезо",
   "item.tconstruct.broad_blade": "Broad Blade",
 
   "item.tconstruct.tool_handle": "Tool Handle",
   "item.tconstruct.tough_handle": "Tough Handle",
   "item.tconstruct.tool_binding": "Tool Binding",
   "item.tconstruct.tough_binding": "Tough Collar",
-  "item.tconstruct.adze_head": "Adze Head",
+  "item.tconstruct.adze_head": "Наконечник тесла",
   "item.tconstruct.large_plate": "Large Plate",
   
-  "item.tconstruct.bow_limb": "Bow Limb",
+  "item.tconstruct.bow_limb": "Плече лука",
   "item.tconstruct.bow_grip": "Bow Grip",
   "item.tconstruct.bowstring": "Bowstring",
 
@@ -2368,7 +2368,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.harmonious.flavor": "Like a Symphony of Зміни!",
   "modifier.tconstruct.harmonious.description": "Allows an additional upgrade to live in harmony with the rest!",
   "modifier.tconstruct.recapitated": "Recapitated",
-  "modifier.tconstruct.recapitated.flavor": "Put the Head Back On!",
+  "modifier.tconstruct.recapitated.flavor": "Put the Наконечник Back On!",
   "modifier.tconstruct.recapitated.description": "Sets this tool ahead by one upgrade!",
   "modifier.tconstruct.resurrected": "Resurrected",
   "modifier.tconstruct.resurrected.flavor": "Bring it back to life!",
@@ -2756,7 +2756,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconstruct.use_item_speed": "Use Item Speed: ",
   "tool_stat.tconstruct.use_item_speed.description": "Movement speed multiplier when using an item, such as a bow or a shield.",
 
-  "stat.tconstruct.head": "Head",
+  "stat.tconstruct.head": "Наконечник",
   "tool_stat.tconstruct.mining_speed": "Mining Speed: ",
   "tool_stat.tconstruct.mining_speed.description": "How fast a tool with a tool head of this material can mine blocks.\nMay be influenced by other toolparts.",
   "tool_stat.tconstruct.harvest_tier": "Mining Tier: ",
@@ -10927,7 +10927,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/head.json
 ```
 {
-  "title": "Head Melting",
+  "title": "Наконечник Melting",
   "item": "tconstruct:blaze_head",
   "text": [
     {
