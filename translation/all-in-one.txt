@@ -328,53 +328,53 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Gold Casts",
 
-  "item.tconstruct.cast.cost": "Material cost: %d",
+  "item.tconstruct.cast.cost": "Ціна виливу: %d",
 
-  "item.tconstruct.blank_cast": "Blank Gold Cast",
-  "item.tconstruct.ingot_cast": "злиток Gold Cast",
-  "item.tconstruct.nugget_cast": "самородок Gold Cast",
-  "item.tconstruct.gem_cast": "Gem Gold Cast",
-  "item.tconstruct.rod_cast": "Стрижень Gold Cast",
+  "item.tconstruct.blank_cast": "Золоте литво",
+  "item.tconstruct.ingot_cast": "Золоте литво злитока",
+  "item.tconstruct.nugget_cast": "Золоте литво самородока",
+  "item.tconstruct.gem_cast": "Золоте литво самоцвіту",
+  "item.tconstruct.rod_cast": "Золоте литво стрижня",
 
-  "item.tconstruct.gear_cast": "Шестерня Gold Cast",
-  "item.tconstruct.plate_cast": "Мала пластина Gold Cast",
-  "item.tconstruct.coin_cast": "Монетка Gold Cast",
-  "item.tconstruct.wire_cast": "Дріт Gold Cast",
+  "item.tconstruct.gear_cast": "Золоте литво шестерні",
+  "item.tconstruct.plate_cast": "Золоте литво малої пластини",
+  "item.tconstruct.coin_cast": "Золоте литво монетки",
+  "item.tconstruct.wire_cast": "Золоте литво дроту",
 
-  "item.tconstruct.repair_kit_cast": "Ремонтний набір Gold Cast",
+  "item.tconstruct.repair_kit_cast": "Золоте литво ремонтного набіру",
 
   "_comment": "Small Head Gold Casts",
 
-  "item.tconstruct.pick_head_cast": "Наконечник кайла Gold Cast",
-  "item.tconstruct.small_axe_head_cast": "Наконечник сокири Gold Cast",
-  "item.tconstruct.small_blade_cast": "Лезо Gold Cast",
-  "item.tconstruct.bow_limb_cast": "Плече лука Gold Cast",
-  "item.tconstruct.bow_grip_cast": "Руків'я арбалета Gold Cast",
-  "item.tconstruct.adze_head_cast": "Наконечник тесла Gold Cast",
+  "item.tconstruct.pick_head_cast": "Золоте литво наконечника кайла",
+  "item.tconstruct.small_axe_head_cast": "Золоте литво наконечника сокири",
+  "item.tconstruct.small_blade_cast": "Золоте литво леза",
+  "item.tconstruct.bow_limb_cast": "Золоте литво плеча лука",
+  "item.tconstruct.bow_grip_cast": "Золоте литво руків'я арбалета",
+  "item.tconstruct.adze_head_cast": "Золоте литво наконечника тесла",
 
   "_comment": "Large Head Gold Casts",
 
-  "item.tconstruct.hammer_head_cast": "Наконечник молота Gold Cast",
-  "item.tconstruct.broad_axe_head_cast": "Наконечник широкої сокири Gold Cast",
-  "item.tconstruct.broad_blade_cast": "Широке лезо Gold Cast",
-  "item.tconstruct.large_plate_cast": "Велика пластина Gold Cast",
+  "item.tconstruct.hammer_head_cast": "Золоте литво наконечника молота",
+  "item.tconstruct.broad_axe_head_cast": "Золоте литво наконечника широкої сокири",
+  "item.tconstruct.broad_blade_cast": "Золоте литво широкого леза",
+  "item.tconstruct.large_plate_cast": "Золоте литво великої пластини",
 
   "_comment": "Binding Gold Casts",
 
-  "item.tconstruct.tool_binding_cast": "Кріплення Gold Cast",
-  "item.tconstruct.tough_binding_cast": "Хомут Gold Cast",
+  "item.tconstruct.tool_binding_cast": "Золоте литво кріплення",
+  "item.tconstruct.tough_binding_cast": "Золоте литво хомута",
 
   "_comment": "Tool Handle Gold Casts",
 
-  "item.tconstruct.tool_handle_cast": "Держак Gold Cast",
-  "item.tconstruct.tough_handle_cast": "Товстий держак Gold Cast",
+  "item.tconstruct.tool_handle_cast": "Золоте литво держака",
+  "item.tconstruct.tough_handle_cast": "Золоте литво товстого держака",
 
   "_comment": "Armor Gold Casts",
-  "item.tconstruct.helmet_plating_cast": "Обшивка шолома Gold Cast",
-  "item.tconstruct.chestplate_plating_cast": "Обшивка нагрудника Gold Cast",
-  "item.tconstruct.leggings_plating_cast": "Обшивка наголінників Gold Cast",
-  "item.tconstruct.boots_plating_cast": "Обшивка чоботів Gold Cast",
-  "item.tconstruct.maille_cast": "Основа броні Gold Cast",
+  "item.tconstruct.helmet_plating_cast": "Золоте литво обшивки шолома",
+  "item.tconstruct.chestplate_plating_cast": "Золоте литво обшивки нагрудника",
+  "item.tconstruct.leggings_plating_cast": "Золоте литво обшивки наголінників",
+  "item.tconstruct.boots_plating_cast": "Золоте литво обшивки чоботів",
+  "item.tconstruct.maille_cast": "Золоте литво основи броні",
 
 
   "_comment": "Tinkers Sand Casts",
@@ -382,7 +382,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.blank_sand_cast": "Blank Sand Cast",
   "item.tconstruct.ingot_sand_cast": "злиток Sand Cast",
   "item.tconstruct.nugget_sand_cast": "самородок Sand Cast",
-  "item.tconstruct.gem_sand_cast": "Gem Sand Cast",
+  "item.tconstruct.gem_sand_cast": "Самоцвіт Sand Cast",
   "item.tconstruct.rod_sand_cast": "Стрижень Sand Cast",
 
   "item.tconstruct.gear_sand_cast": "Шестерня Sand Cast",
@@ -432,7 +432,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.blank_red_sand_cast": "Blank Red Sand Cast",
   "item.tconstruct.ingot_red_sand_cast": "злиток Red Sand Cast",
   "item.tconstruct.nugget_red_sand_cast": "самородок Red Sand Cast",
-  "item.tconstruct.gem_red_sand_cast": "Gem Red Sand Cast",
+  "item.tconstruct.gem_red_sand_cast": "Самоцвіт Red Sand Cast",
   "item.tconstruct.rod_red_sand_cast": "Стрижень Red Sand Cast",
 
   "item.tconstruct.gear_red_sand_cast": "Шестерня Red Sand Cast",
@@ -1274,7 +1274,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "gui.tconstruct.fluid.block": "%s блоки",
   "gui.tconstruct.fluid.ingot": "%s злитки",
   "gui.tconstruct.fluid.nugget": "%s самородки",
-  "gui.tconstruct.fluid.gem": "%s Gems",
+  "gui.tconstruct.fluid.gem": "%s самоцвіти",
   "gui.tconstruct.fluid.shard": "%s уламки",
   "gui.tconstruct.fluid.pane": "%s шибки",
   "gui.tconstruct.fluid.slimeball": "%s слизьові кульки",
