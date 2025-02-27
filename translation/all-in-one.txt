@@ -281,20 +281,20 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "pattern.tconstruct.ingot": "Злиток",
   "pattern.tconstruct.nugget": "Самородок",
-  "pattern.tconstruct.gem": "Gem",
+  "pattern.tconstruct.gem": "Самоцвіт",
   "pattern.tconstruct.rod": "Стрижень",
 
-  "pattern.tconstruct.gear": "Gear",
-  "pattern.tconstruct.plate": "Small Plate",
-  "pattern.tconstruct.coin": "Coin",
-  "pattern.tconstruct.wire": "Wire",
+  "pattern.tconstruct.gear": "Шестерня",
+  "pattern.tconstruct.plate": "Мала пластина",
+  "pattern.tconstruct.coin": "Монетка",
+  "pattern.tconstruct.wire": "Дріт",
 
-  "pattern.tconstruct.repair_kit": "Repair Kit",
-  "pattern.tconstruct.plating": "Plating",
-  "pattern.tconstruct.helmet_plating": "Helmet Plating",
-  "pattern.tconstruct.chestplate_plating": "Chest Plating",
-  "pattern.tconstruct.leggings_plating": "Leg Plating",
-  "pattern.tconstruct.boots_plating": "Boot Plating",
+  "pattern.tconstruct.repair_kit": "Ремонтний набір",
+  "pattern.tconstruct.plating": "Обшивка",
+  "pattern.tconstruct.helmet_plating": "Обшивка шолома",
+  "pattern.tconstruct.chestplate_plating": "Обшивка нагрудника",
+  "pattern.tconstruct.leggings_plating": "Обшивка наголінників",
+  "pattern.tconstruct.boots_plating": "Обшивка чоботів",
 
   "_comment": "Small Head Patterns",
 
@@ -336,12 +336,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.gem_cast": "Gem Gold Cast",
   "item.tconstruct.rod_cast": "Стрижень Gold Cast",
 
-  "item.tconstruct.gear_cast": "Gear Gold Cast",
-  "item.tconstruct.plate_cast": "Small Plate Gold Cast",
-  "item.tconstruct.coin_cast": "Coin Gold Cast",
-  "item.tconstruct.wire_cast": "Wire Gold Cast",
+  "item.tconstruct.gear_cast": "Шестерня Gold Cast",
+  "item.tconstruct.plate_cast": "Мала пластина Gold Cast",
+  "item.tconstruct.coin_cast": "Монетка Gold Cast",
+  "item.tconstruct.wire_cast": "Дріт Gold Cast",
 
-  "item.tconstruct.repair_kit_cast": "Repair Kit Gold Cast",
+  "item.tconstruct.repair_kit_cast": "Ремонтний набір Gold Cast",
 
   "_comment": "Small Head Gold Casts",
 
@@ -370,10 +370,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.tough_handle_cast": "Tough Handle Gold Cast",
 
   "_comment": "Armor Gold Casts",
-  "item.tconstruct.helmet_plating_cast": "Helmet Plating Gold Cast",
-  "item.tconstruct.chestplate_plating_cast": "Chest Plating Gold Cast",
-  "item.tconstruct.leggings_plating_cast": "Leg Plating Gold Cast",
-  "item.tconstruct.boots_plating_cast": "Boot Plating Gold Cast",
+  "item.tconstruct.helmet_plating_cast": "Обшивка шолома Gold Cast",
+  "item.tconstruct.chestplate_plating_cast": "Обшивка нагрудника Gold Cast",
+  "item.tconstruct.leggings_plating_cast": "Обшивка наголінників Gold Cast",
+  "item.tconstruct.boots_plating_cast": "Обшивка чоботів Gold Cast",
   "item.tconstruct.maille_cast": "Maille Gold Cast",
 
 
@@ -385,12 +385,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.gem_sand_cast": "Gem Sand Cast",
   "item.tconstruct.rod_sand_cast": "Стрижень Sand Cast",
 
-  "item.tconstruct.gear_sand_cast": "Gear Sand Cast",
-  "item.tconstruct.plate_sand_cast": "Small Plate Sand Cast",
-  "item.tconstruct.coin_sand_cast": "Coin Sand Cast",
-  "item.tconstruct.wire_sand_cast": "Wire Sand Cast",
+  "item.tconstruct.gear_sand_cast": "Шестерня Sand Cast",
+  "item.tconstruct.plate_sand_cast": "Мала пластина Sand Cast",
+  "item.tconstruct.coin_sand_cast": "Монетка Sand Cast",
+  "item.tconstruct.wire_sand_cast": "Дріт Sand Cast",
 
-  "item.tconstruct.repair_kit_sand_cast": "Repair Kit Sand Cast",
+  "item.tconstruct.repair_kit_sand_cast": "Ремонтний набір Sand Cast",
 
   "_comment": "Small Head Sand Casts",
 
@@ -420,10 +420,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Armor Sand Casts",
 
-  "item.tconstruct.helmet_plating_sand_cast": "Helmet Plating Sand Cast",
-  "item.tconstruct.chestplate_plating_sand_cast": "Chest Plating Sand Cast",
-  "item.tconstruct.leggings_plating_sand_cast": "Leg Plating Sand Cast",
-  "item.tconstruct.boots_plating_sand_cast": "Boot Plating Sand Cast",
+  "item.tconstruct.helmet_plating_sand_cast": "Обшивка шолома Sand Cast",
+  "item.tconstruct.chestplate_plating_sand_cast": "Обшивка нагрудника Sand Cast",
+  "item.tconstruct.leggings_plating_sand_cast": "Обшивка наголінників Sand Cast",
+  "item.tconstruct.boots_plating_sand_cast": "Обшивка чоботів Sand Cast",
   "item.tconstruct.maille_sand_cast": "Maille Sand Cast",
 
 
@@ -435,12 +435,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.gem_red_sand_cast": "Gem Red Sand Cast",
   "item.tconstruct.rod_red_sand_cast": "Стрижень Red Sand Cast",
 
-  "item.tconstruct.gear_red_sand_cast": "Gear Red Sand Cast",
-  "item.tconstruct.plate_red_sand_cast": "Small Plate Red Sand Cast",
-  "item.tconstruct.coin_red_sand_cast": "Coin Red Sand Cast",
-  "item.tconstruct.wire_red_sand_cast": "Wire Red Sand Cast",
+  "item.tconstruct.gear_red_sand_cast": "Шестерня Red Sand Cast",
+  "item.tconstruct.plate_red_sand_cast": "Мала пластина Red Sand Cast",
+  "item.tconstruct.coin_red_sand_cast": "Монетка Red Sand Cast",
+  "item.tconstruct.wire_red_sand_cast": "Дріт Red Sand Cast",
 
-  "item.tconstruct.repair_kit_red_sand_cast": "Repair Kit Red Sand Cast",
+  "item.tconstruct.repair_kit_red_sand_cast": "Ремонтний набір Red Sand Cast",
 
   "_comment": "Small Head Red Sand Casts",
 
@@ -470,10 +470,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Armor Red Sand Casts",
 
-  "item.tconstruct.helmet_plating_red_sand_cast": "Helmet Plating Red Sand Cast",
-  "item.tconstruct.chestplate_plating_red_sand_cast": "Chest Plating Red Sand Cast",
-  "item.tconstruct.leggings_plating_red_sand_cast": "Leg Plating Red Sand Cast",
-  "item.tconstruct.boots_plating_red_sand_cast": "Boot Plating Red Sand Cast",
+  "item.tconstruct.helmet_plating_red_sand_cast": "Обшивка шолома Red Sand Cast",
+  "item.tconstruct.chestplate_plating_red_sand_cast": "Обшивка нагрудника Red Sand Cast",
+  "item.tconstruct.leggings_plating_red_sand_cast": "Обшивка наголінників Red Sand Cast",
+  "item.tconstruct.boots_plating_red_sand_cast": "Обшивка чоботів Red Sand Cast",
   "item.tconstruct.maille_red_sand_cast": "Maille Red Sand Cast",
 
 
@@ -975,7 +975,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "item.tconstruct.dummy_tool_part.tooltip": "Used to create casts, cannot be used to create tools.",
 
-  "item.tconstruct.repair_kit": "Repair Kit",
+  "item.tconstruct.repair_kit": "Ремонтний набір",
 
   "item.tconstruct.pick_head": "Pick Head",
   "item.tconstruct.hammer_head": "Hammer Head",
@@ -997,14 +997,14 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.bow_grip": "Bow Grip",
   "item.tconstruct.bowstring": "Bowstring",
 
-  "item.tconstruct.helmet_plating": "Helmet Plating",
-  "item.tconstruct.chestplate_plating": "Chest Plating",
-  "item.tconstruct.leggings_plating": "Leg Plating",
-  "item.tconstruct.boots_plating": "Boot Plating",
-  "item.tconstruct.helmet_plating_dummy": "Stone Helmet Plating",
-  "item.tconstruct.chestplate_plating_dummy": "Stone Chest Plating",
-  "item.tconstruct.leggings_plating_dummy": "Stone Leg Plating",
-  "item.tconstruct.boots_plating_dummy": "Stone Boot Plating",
+  "item.tconstruct.helmet_plating": "Обшивка шолома",
+  "item.tconstruct.chestplate_plating": "Обшивка нагрудника",
+  "item.tconstruct.leggings_plating": "Обшивка наголінників",
+  "item.tconstruct.boots_plating": "Обшивка чоботів",
+  "item.tconstruct.helmet_plating_dummy": "Stone Обшивка шолома",
+  "item.tconstruct.chestplate_plating_dummy": "Stone Обшивка нагрудника",
+  "item.tconstruct.leggings_plating_dummy": "Stone Обшивка наголінників",
+  "item.tconstruct.boots_plating_dummy": "Stone Обшивка чоботів",
   "item.tconstruct.maille": "Maille",
   "item.tconstruct.shield_core": "Shield Core",
 
@@ -2764,13 +2764,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconstruct.attack_damage": "Melee Damage: ",
   "tool_stat.tconstruct.attack_damage.description": "Base value for melee attack damage calculations.\nThe end result depends on the tool itself and the other components used.",
 
-  "stat.tconstruct.plating": "Plating",
-  "stat.tconstruct.plating_armor": "Armor Plating",
-  "stat.tconstruct.plating_helmet": "Helmet Plating",
-  "stat.tconstruct.plating_chestplate": "Chest Plating",
-  "stat.tconstruct.plating_leggings": "Leg Plating",
-  "stat.tconstruct.plating_boots": "Boot Plating",
-  "stat.tconstruct.plating_shield": "Shield Plating",
+  "stat.tconstruct.plating": "Обшивка",
+  "stat.tconstruct.plating_armor": "Обшивка броні",
+  "stat.tconstruct.plating_helmet": "Обшивка шолома",
+  "stat.tconstruct.plating_chestplate": "Обшивка нагрудника",
+  "stat.tconstruct.plating_boots": "Обшивка чоботів",
+  "stat.tconstruct.plating_shield": "Shield Обшивка",
   "stat.tconstruct.shield_core": "Shield Core",
   "stat.tconstruct.maille": "Maille",
   "tool_stat.tconstruct.armor": "Armor: ",
@@ -2812,7 +2811,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconstruct.tank_capacity.description": "Maximum amount of fluid that can be stored in this tool's tank.",
   "tool_stat.tconstruct.tank_capacity.fluid": "Fluid: ",
 
-  "stat.tconstruct.repair_kit": "Repair Kit",
+  "stat.tconstruct.repair_kit": "Ремонтний набір",
   "stat.tconstruct.skull": "Slimeskull",
 
   "stat.tconstruct.harvest_tier.minecraft.wood": "Wood",
