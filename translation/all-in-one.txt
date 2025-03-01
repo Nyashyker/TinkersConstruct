@@ -479,12 +479,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Fluids",
 
-  "block.tconstruct.blazing_blood_fluid": "Blazing Blood",
-  "fluid.tconstruct.blazing_blood": "Blazing Blood",
-  "fluid.tconstruct.flowing_blazing_blood": "Flowing Blazing Blood",
-  "item.tconstruct.blazing_blood_bucket": "Blazing Blood Bucket",
+  "block.tconstruct.blazing_blood_fluid": "Пломенева кров",
+  "fluid.tconstruct.blazing_blood": "Пломенева кров",
+  "fluid.tconstruct.flowing_blazing_blood": "Потік пломеневої крові",
+  "item.tconstruct.blazing_blood_bucket": "Відро пломеневої крові",
 
-  "fluid.tconstruct.powdered_snow": "Powdered Snow",
+  "fluid.tconstruct.powdered_snow": "Сипкий сніг",
 
   "_comment": "Food",
 
@@ -3189,7 +3189,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.foundry.alloyer.description": "Create a basic alloying setup using an alloyer, a fuel tank, some ingot tanks, ливарський стіл, a casting котел, and a faucet",
   "advancements.tconstruct.foundry.structure.title": "The Потужне виплавляння",
   "advancements.tconstruct.foundry.structure.description": "Craft a founry controller from alloyed obsidian, build a foundry, and open the foundry UI",
-  "advancements.tconstruct.foundry.blaze.title": "Blazing Blood",
+  "advancements.tconstruct.foundry.blaze.title": "Пломенева кров",
   "advancements.tconstruct.foundry.blaze.description": "Fill a tank with blazing blood",
   "advancements.tconstruct.foundry.plate_armor.title": "Plate Armor",
   "advancements.tconstruct.foundry.plate_armor.description": "Create a full set of plate armor",
@@ -10864,7 +10864,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/index.json
 ```
 {
-  "title": "Blazing Blood",
+  "title": "Пломенева кров",
   "subText": "Nothing better than a fiery blaze.",
   "hidden": ["intro", "piggy_backpack_craft"]
 }
@@ -10909,7 +10909,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/intro.json
 ```
 {
-  "title": "Blazing Blood",
+  "title": "Пломенева кров",
   "image": {
     "file": "tconstruct:book/images/manyullyn_alloy.png",
     "width": 179,
@@ -10946,7 +10946,7 @@ alloyer=Alloyer
 
 foundry=Foundry
 
-blazing_blood=Blazing Blood
+blazing_blood=Пломенева кров
 
 armor=Fantastic Armor
 armor.subtext=Using Nether resources grants access to create higher tiers of armor. For instance, the mighty plate armor boasts a high defense, but less modifiability. Who needs extra features when you can be protected?
