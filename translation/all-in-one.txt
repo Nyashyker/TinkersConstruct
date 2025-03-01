@@ -517,14 +517,14 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Potion",
 
-  "fluid.tconstruct.potion": "Potion",
+  "fluid.tconstruct.potion": "Зілля",
 
-  "item.tconstruct.potion_bucket": "Відро Uncraftable Potion",
-  "item.tconstruct.potion_bucket.effect.water": "Відро Water",
+  "item.tconstruct.potion_bucket": "Відро неможливого зілля",
+  "item.tconstruct.potion_bucket.effect.water": "Відро води",
   "item.tconstruct.potion_bucket.contents": "Відро %s",
 
-  "item.tconstruct.splash_bottle": "Splash Bottle",
-  "item.tconstruct.lingering_bottle": "Lingering Bottle",
+  "item.tconstruct.splash_bottle": "Вибухова пляшка",
+  "item.tconstruct.lingering_bottle": "Осідальна пляшка",
 
 
   "_comment": "Slime",
@@ -2836,8 +2836,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "armor_stat.tconstruct.use_item_speed": "Use Item Speed",
   "armor_stat.tconstruct.experience": "Experience",
   "armor_stat.tconstruct.critical_damage": "Critical Damage",
-  "armor_stat.tconstruct.good_effect_duration": "Good Potion Time",
-  "armor_stat.tconstruct.bad_effect_duration": "Bad Potion Time",
+  "armor_stat.tconstruct.good_effect_duration": "Good Зілля Time",
+  "armor_stat.tconstruct.bad_effect_duration": "Bad Зілля Time",
   "armor_stat.tconstruct.crouch_damage": "Crouch Damage",
   "armor_stat.tconstruct.explosion_knockback": "Explosion Knockback",
 
