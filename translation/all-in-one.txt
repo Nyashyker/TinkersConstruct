@@ -234,7 +234,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.emerald_reinforcement": "Смарагдове посилення",
   "item.tconstruct.emerald_reinforcement.tooltip": "Зменшує шанс ламання інструменту",
   "item.tconstruct.slimesteel_reinforcement": "Сталеслизеве посилення",
-  "item.tconstruct.slimesteel_reinforcement.tooltip": "Збільшує вміст сталеслизову",
+  "item.tconstruct.slimesteel_reinforcement.tooltip": "Збільшує вміст сталеслизу",
   "item.tconstruct.seared_reinforcement": "Обпалене посилення",
   "item.tconstruct.seared_reinforcement.tooltip": "Збільшує стійкість броні до вогню",
   "item.tconstruct.iron_reinforcement": "Залізне посилення",
