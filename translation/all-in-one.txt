@@ -567,269 +567,269 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Rock",
 
-  "block.tconstruct.seared_stone_fluid": "Seared Stone",
-  "fluid.tconstruct.seared_stone": "Seared Stone",
-  "fluid.tconstruct.flowing_seared_stone": "Потік Seared Stone",
-  "item.tconstruct.seared_stone_bucket": "Відро Seared Stone",
+  "block.tconstruct.seared_stone_fluid": "Горілий камінь",
+  "fluid.tconstruct.seared_stone": "Горілий камінь",
+  "fluid.tconstruct.flowing_seared_stone": "Потік горілого каміню",
+  "item.tconstruct.seared_stone_bucket": "Відро горілого каміню",
 
-  "block.tconstruct.scorched_stone_fluid": "Scorched Stone",
-  "fluid.tconstruct.scorched_stone": "Scorched Stone",
-  "fluid.tconstruct.flowing_scorched_stone": "Потік Scorched Stone",
-  "item.tconstruct.scorched_stone_bucket": "Відро Scorched Stone",
+  "block.tconstruct.scorched_stone_fluid": "Обпалений камінь",
+  "fluid.tconstruct.scorched_stone": "Обпалений камінь",
+  "fluid.tconstruct.flowing_scorched_stone": "Потік обпаленого каміню",
+  "item.tconstruct.scorched_stone_bucket": "Відро обпаленого каміню",
 
-  "block.tconstruct.molten_clay_fluid": "Molten Clay",
-  "fluid.tconstruct.molten_clay": "Molten Clay",
-  "fluid.tconstruct.flowing_molten_clay": "Потік Molten Clay",
-  "item.tconstruct.molten_clay_bucket": "Відро Molten Clay",
+  "block.tconstruct.molten_clay_fluid": "Розплавлена глина",
+  "fluid.tconstruct.molten_clay": "Розплавлена глина",
+  "fluid.tconstruct.flowing_molten_clay": "Потік розплавленої глини",
+  "item.tconstruct.molten_clay_bucket": "Відро розплавленої глини",
 
-  "block.tconstruct.molten_glass_fluid": "Molten Glass",
-  "fluid.tconstruct.molten_glass": "Molten Glass",
-  "fluid.tconstruct.flowing_molten_glass": "Потік Molten Glass",
-  "item.tconstruct.molten_glass_bucket": "Відро Molten Glass",
+  "block.tconstruct.molten_glass_fluid": "Розплавлене скло",
+  "fluid.tconstruct.molten_glass": "Розплавлене скло",
+  "fluid.tconstruct.flowing_molten_glass": "Потік розплавлене скло",
+  "item.tconstruct.molten_glass_bucket": "Відро розплавлене скло",
 
-  "block.tconstruct.liquid_soul_fluid": "Liquid Soul",
-  "fluid.tconstruct.liquid_soul": "Liquid Soul",
-  "fluid.tconstruct.flowing_liquid_soul": "Потік Liquid Soul",
-  "item.tconstruct.liquid_soul_bucket": "Відро Liquid Soul",
+  "block.tconstruct.liquid_soul_fluid": "Рідина душі",
+  "fluid.tconstruct.liquid_soul": "Рідина душі",
+  "fluid.tconstruct.flowing_liquid_soul": "Потік рідини душі",
+  "item.tconstruct.liquid_soul_bucket": "Відро рідини душі",
 
-  "block.tconstruct.molten_obsidian_fluid": "Molten Obsidian",
-  "fluid.tconstruct.molten_obsidian": "Molten Obsidian",
-  "fluid.tconstruct.flowing_molten_obsidian": "Потік Molten Obsidian",
-  "item.tconstruct.molten_obsidian_bucket": "Відро Molten Obsidian",
+  "block.tconstruct.molten_obsidian_fluid": "Розплавлений обсидіан",
+  "fluid.tconstruct.molten_obsidian": "Розплавлений обсидіан",
+  "fluid.tconstruct.flowing_molten_obsidian": "Потік розплавленого обсидіану",
+  "item.tconstruct.molten_obsidian_bucket": "Відро розплавленого обсидіану",
 
-  "block.tconstruct.molten_emerald_fluid": "Molten Emerald",
-  "fluid.tconstruct.molten_emerald": "Molten Emerald",
-  "fluid.tconstruct.flowing_molten_emerald": "Потік Molten Emerald",
-  "item.tconstruct.molten_emerald_bucket": "Відро Molten Emerald",
+  "block.tconstruct.molten_emerald_fluid": "Розплавлений смарагд",
+  "fluid.tconstruct.molten_emerald": "Розплавлений смарагд",
+  "fluid.tconstruct.flowing_molten_emerald": "Потік розплавленого смарагду",
+  "item.tconstruct.molten_emerald_bucket": "Відро розплавленого смарагду",
 
-  "block.tconstruct.molten_quartz_fluid": "Molten Quartz",
-  "fluid.tconstruct.molten_quartz": "Molten Quartz",
-  "fluid.tconstruct.flowing_molten_quartz": "Потік Molten Quartz",
-  "item.tconstruct.molten_quartz_bucket": "Відро Molten Quartz",
+  "block.tconstruct.molten_quartz_fluid": "Розплавлений кварц",
+  "fluid.tconstruct.molten_quartz": "Розплавлений кварц",
+  "fluid.tconstruct.flowing_molten_quartz": "Потік розплавленого кварцу",
+  "item.tconstruct.molten_quartz_bucket": "Відро розплавленого кварцу",
 
-  "block.tconstruct.molten_amethyst_fluid": "Molten Amethyst",
-  "fluid.tconstruct.molten_amethyst": "Molten Amethyst",
-  "fluid.tconstruct.flowing_molten_amethyst": "Потік Molten Amethyst",
-  "item.tconstruct.molten_amethyst_bucket": "Відро Molten Amethyst",
+  "block.tconstruct.molten_amethyst_fluid": "Розплавлений аметист",
+  "fluid.tconstruct.molten_amethyst": "Розплавлений аметист",
+  "fluid.tconstruct.flowing_molten_amethyst": "Потік розплавленого аметиста",
+  "item.tconstruct.molten_amethyst_bucket": "Відро розплавленого аметиста",
 
-  "block.tconstruct.molten_diamond_fluid": "Molten Diamond",
-  "fluid.tconstruct.molten_diamond": "Molten Diamond",
-  "fluid.tconstruct.flowing_molten_diamond": "Потік Molten Diamond",
-  "item.tconstruct.molten_diamond_bucket": "Відро Molten Diamond",
+  "block.tconstruct.molten_diamond_fluid": "Розплавлений діамант",
+  "fluid.tconstruct.molten_diamond": "Розплавлений діамант",
+  "fluid.tconstruct.flowing_molten_diamond": "Потік розплавленого діаманта",
+  "item.tconstruct.molten_diamond_bucket": "Відро розплавленого діаманта",
 
-  "block.tconstruct.molten_ender_fluid": "Molten Ender",
-  "fluid.tconstruct.molten_ender": "Molten Ender",
-  "fluid.tconstruct.flowing_molten_ender": "Потік Molten Ender",
-  "item.tconstruct.molten_ender_bucket": "Відро Molten Ender",
+  "block.tconstruct.molten_ender_fluid": "Рідина Енду",
+  "fluid.tconstruct.molten_ender": "Рідина Енду",
+  "fluid.tconstruct.flowing_molten_ender": "Потік рідини Енду",
+  "item.tconstruct.molten_ender_bucket": "Відро рідини Енду",
 
-  "block.tconstruct.molten_porcelain_fluid": "Molten Porcelain",
-  "fluid.tconstruct.molten_porcelain": "Molten Porcelain",
-  "fluid.tconstruct.flowing_molten_porcelain": "Потік Molten Porcelain",
-  "item.tconstruct.molten_porcelain_bucket": "Відро Molten Porcelain",
+  "block.tconstruct.molten_porcelain_fluid": "Розплавлена порцеляна",
+  "fluid.tconstruct.molten_porcelain": "Розплавлена порцеляна",
+  "fluid.tconstruct.flowing_molten_porcelain": "Потік розплевленої порцеляни",
+  "item.tconstruct.molten_porcelain_bucket": "Відро розплевленої порцеляни",
 
   "_comment": "Ores",
 
-  "block.tconstruct.molten_iron_fluid": "Molten Iron",
-  "fluid.tconstruct.molten_iron": "Molten Iron",
-  "fluid.tconstruct.flowing_molten_iron": "Потік Molten Iron",
-  "item.tconstruct.molten_iron_bucket": "Відро Molten Iron",
+  "block.tconstruct.molten_iron_fluid": "Розплавлений Iron",
+  "fluid.tconstruct.molten_iron": "Розплавлений Iron",
+  "fluid.tconstruct.flowing_molten_iron": "Потік Розплавлений Iron",
+  "item.tconstruct.molten_iron_bucket": "Відро Розплавлений Iron",
 
-  "block.tconstruct.molten_gold_fluid": "Molten Gold",
-  "fluid.tconstruct.molten_gold": "Molten Gold",
-  "fluid.tconstruct.flowing_molten_gold": "Потік Molten Gold",
-  "item.tconstruct.molten_gold_bucket": "Відро Molten Gold",
+  "block.tconstruct.molten_gold_fluid": "Розплавлений Gold",
+  "fluid.tconstruct.molten_gold": "Розплавлений Gold",
+  "fluid.tconstruct.flowing_molten_gold": "Потік Розплавлений Gold",
+  "item.tconstruct.molten_gold_bucket": "Відро Розплавлений Gold",
 
-  "block.tconstruct.molten_copper_fluid": "Molten Copper",
-  "fluid.tconstruct.molten_copper": "Molten Copper",
-  "fluid.tconstruct.flowing_molten_copper": "Потік Molten Copper",
-  "item.tconstruct.molten_copper_bucket": "Відро Molten Copper",
+  "block.tconstruct.molten_copper_fluid": "Розплавлений Copper",
+  "fluid.tconstruct.molten_copper": "Розплавлений Copper",
+  "fluid.tconstruct.flowing_molten_copper": "Потік Розплавлений Copper",
+  "item.tconstruct.molten_copper_bucket": "Відро Розплавлений Copper",
 
-  "block.tconstruct.molten_cobalt_fluid": "Molten кобальт",
-  "fluid.tconstruct.molten_cobalt": "Molten кобальт",
-  "fluid.tconstruct.flowing_molten_cobalt": "Потік Molten кобальт",
-  "item.tconstruct.molten_cobalt_bucket": "Відро Molten кобальт",
+  "block.tconstruct.molten_cobalt_fluid": "Розплавлений кобальт",
+  "fluid.tconstruct.molten_cobalt": "Розплавлений кобальт",
+  "fluid.tconstruct.flowing_molten_cobalt": "Потік Розплавлений кобальт",
+  "item.tconstruct.molten_cobalt_bucket": "Відро Розплавлений кобальт",
 
-  "block.tconstruct.molten_debris_fluid": "Molten Debris",
-  "fluid.tconstruct.molten_debris": "Molten Debris",
-  "fluid.tconstruct.flowing_molten_debris": "Потік Molten Debris",
-  "item.tconstruct.molten_debris_bucket": "Відро Molten Debris",
+  "block.tconstruct.molten_debris_fluid": "Розплавлений Debris",
+  "fluid.tconstruct.molten_debris": "Розплавлений Debris",
+  "fluid.tconstruct.flowing_molten_debris": "Потік Розплавлений Debris",
+  "item.tconstruct.molten_debris_bucket": "Відро Розплавлений Debris",
 
   "_comment": "Tier 3 Alloys",
 
-  "block.tconstruct.molten_slimesteel_fluid": "Molten сталеслизевий",
-  "fluid.tconstruct.molten_slimesteel": "Molten сталеслизевий",
-  "fluid.tconstruct.flowing_molten_slimesteel": "Потік Molten сталеслизевий",
-  "item.tconstruct.molten_slimesteel_bucket": "Відро Molten сталеслизевий",
+  "block.tconstruct.molten_slimesteel_fluid": "Розплавлений сталеслизевий",
+  "fluid.tconstruct.molten_slimesteel": "Розплавлений сталеслизевий",
+  "fluid.tconstruct.flowing_molten_slimesteel": "Потік Розплавлений сталеслизевий",
+  "item.tconstruct.molten_slimesteel_bucket": "Відро Розплавлений сталеслизевий",
 
-  "block.tconstruct.molten_amethyst_bronze_fluid": "Molten Amethyst Bronze",
-  "fluid.tconstruct.molten_amethyst_bronze": "Molten Amethyst Bronze",
-  "fluid.tconstruct.flowing_molten_amethyst_bronze": "Потік Molten Amethyst Bronze",
-  "item.tconstruct.molten_amethyst_bronze_bucket": "Відро Molten Amethyst Bronze",
+  "block.tconstruct.molten_amethyst_bronze_fluid": "Розплавлений аметист Bronze",
+  "fluid.tconstruct.molten_amethyst_bronze": "Розплавлений аметист Bronze",
+  "fluid.tconstruct.flowing_molten_amethyst_bronze": "Потік Розплавлений аметист Bronze",
+  "item.tconstruct.molten_amethyst_bronze_bucket": "Відро Розплавлений аметист Bronze",
 
-  "block.tconstruct.molten_rose_gold_fluid": "Molten Rose Gold",
-  "fluid.tconstruct.molten_rose_gold": "Molten Rose Gold",
-  "fluid.tconstruct.flowing_molten_rose_gold": "Потік Molten Rose Gold",
-  "item.tconstruct.molten_rose_gold_bucket": "Відро Molten Rose Gold",
+  "block.tconstruct.molten_rose_gold_fluid": "Розплавлений Rose Gold",
+  "fluid.tconstruct.molten_rose_gold": "Розплавлений Rose Gold",
+  "fluid.tconstruct.flowing_molten_rose_gold": "Потік Розплавлений Rose Gold",
+  "item.tconstruct.molten_rose_gold_bucket": "Відро Розплавлений Rose Gold",
 
-  "block.tconstruct.molten_pig_iron_fluid": "Molten Синолізо",
-  "fluid.tconstruct.molten_pig_iron": "Molten Синолізо",
-  "fluid.tconstruct.flowing_molten_pig_iron": "Потік Molten Синолізо",
-  "item.tconstruct.molten_pig_iron_bucket": "Відро Molten Синолізо",
+  "block.tconstruct.molten_pig_iron_fluid": "Розплавлений Синолізо",
+  "fluid.tconstruct.molten_pig_iron": "Розплавлений Синолізо",
+  "fluid.tconstruct.flowing_molten_pig_iron": "Потік Розплавлений Синолізо",
+  "item.tconstruct.molten_pig_iron_bucket": "Відро Розплавлений Синолізо",
 
   "_comment": "Tier 4 Alloys",
 
-  "block.tconstruct.molten_manyullyn_fluid": "Molten Майнулин",
-  "fluid.tconstruct.molten_manyullyn": "Molten Майнулин",
-  "fluid.tconstruct.flowing_molten_manyullyn": "Потік Molten Майнулин",
-  "item.tconstruct.molten_manyullyn_bucket": "Відро Molten Майнулин",
+  "block.tconstruct.molten_manyullyn_fluid": "Розплавлений Майнулин",
+  "fluid.tconstruct.molten_manyullyn": "Розплавлений Майнулин",
+  "fluid.tconstruct.flowing_molten_manyullyn": "Потік Розплавлений Майнулин",
+  "item.tconstruct.molten_manyullyn_bucket": "Відро Розплавлений Майнулин",
 
-  "block.tconstruct.molten_hepatizon_fluid": "Molten Гепатізон",
-  "fluid.tconstruct.molten_hepatizon": "Molten Гепатізон",
-  "fluid.tconstruct.flowing_molten_hepatizon": "Потік Molten Гепатізон",
-  "item.tconstruct.molten_hepatizon_bucket": "Відро Molten Гепатізон",
+  "block.tconstruct.molten_hepatizon_fluid": "Розплавлений Гепатізон",
+  "fluid.tconstruct.molten_hepatizon": "Розплавлений Гепатізон",
+  "fluid.tconstruct.flowing_molten_hepatizon": "Потік Розплавлений Гепатізон",
+  "item.tconstruct.molten_hepatizon_bucket": "Відро Розплавлений Гепатізон",
 
-  "block.tconstruct.molten_cinderslime_fluid": "Molten Золеслиз",
-  "fluid.tconstruct.molten_cinderslime": "Molten Золеслиз",
-  "fluid.tconstruct.flowing_molten_cinderslime": "Потік Molten Золеслиз",
-  "item.tconstruct.molten_cinderslime_bucket": "Відро Molten Золеслиз",
+  "block.tconstruct.molten_cinderslime_fluid": "Розплавлений Золеслиз",
+  "fluid.tconstruct.molten_cinderslime": "Розплавлений Золеслиз",
+  "fluid.tconstruct.flowing_molten_cinderslime": "Потік Розплавлений Золеслиз",
+  "item.tconstruct.molten_cinderslime_bucket": "Відро Розплавлений Золеслиз",
 
-  "block.tconstruct.molten_queens_slime_fluid": "Molten Королевський слиз",
-  "fluid.tconstruct.molten_queens_slime": "Molten Королевський слиз",
-  "fluid.tconstruct.flowing_molten_queens_slime": "Потік Molten Королевський слиз",
-  "item.tconstruct.molten_queens_slime_bucket": "Відро Molten Королевський слиз",
+  "block.tconstruct.molten_queens_slime_fluid": "Розплавлений Королевський слиз",
+  "fluid.tconstruct.molten_queens_slime": "Розплавлений Королевський слиз",
+  "fluid.tconstruct.flowing_molten_queens_slime": "Потік Розплавлений Королевський слиз",
+  "item.tconstruct.molten_queens_slime_bucket": "Відро Розплавлений Королевський слиз",
 
-  "block.tconstruct.molten_soulsteel_fluid": "Molten Сталь душі",
-  "fluid.tconstruct.molten_soulsteel": "Molten Сталь душі",
-  "fluid.tconstruct.flowing_molten_soulsteel": "Потік Molten Сталь душі",
-  "item.tconstruct.molten_soulsteel_bucket": "Відро Molten Сталь душі",
+  "block.tconstruct.molten_soulsteel_fluid": "Розплавлений Сталь душі",
+  "fluid.tconstruct.molten_soulsteel": "Розплавлений Сталь душі",
+  "fluid.tconstruct.flowing_molten_soulsteel": "Потік Розплавлений Сталь душі",
+  "item.tconstruct.molten_soulsteel_bucket": "Відро Розплавлений Сталь душі",
 
-  "block.tconstruct.molten_netherite_fluid": "Molten Netherite",
-  "fluid.tconstruct.molten_netherite": "Molten Netherite",
-  "fluid.tconstruct.flowing_molten_netherite": "Потік Molten Netherite",
-  "item.tconstruct.molten_netherite_bucket": "Відро Molten Netherite",
+  "block.tconstruct.molten_netherite_fluid": "Розплавлений Netherite",
+  "fluid.tconstruct.molten_netherite": "Розплавлений Netherite",
+  "fluid.tconstruct.flowing_molten_netherite": "Потік Розплавлений Netherite",
+  "item.tconstruct.molten_netherite_bucket": "Відро Розплавлений Netherite",
 
-  "block.tconstruct.molten_knightslime_fluid": "Molten Лицареслиз",
-  "fluid.tconstruct.molten_knightslime": "Molten Лицареслиз",
-  "fluid.tconstruct.flowing_molten_knightslime": "Потік Molten Лицареслиз",
-  "item.tconstruct.molten_knightslime_bucket": "Відро Molten Лицареслиз",
+  "block.tconstruct.molten_knightslime_fluid": "Розплавлений Лицареслиз",
+  "fluid.tconstruct.molten_knightslime": "Розплавлений Лицареслиз",
+  "fluid.tconstruct.flowing_molten_knightslime": "Потік Розплавлений Лицареслиз",
+  "item.tconstruct.molten_knightslime_bucket": "Відро Розплавлений Лицареслиз",
 
   "_comment": "Compat Ores",
 
-  "block.tconstruct.molten_tin_fluid": "Molten Tin",
-  "fluid.tconstruct.molten_tin": "Molten Tin",
-  "fluid.tconstruct.flowing_molten_tin": "Потік Molten Tin",
-  "item.tconstruct.molten_tin_bucket": "Відро Molten Tin",
+  "block.tconstruct.molten_tin_fluid": "Розплавлений Tin",
+  "fluid.tconstruct.molten_tin": "Розплавлений Tin",
+  "fluid.tconstruct.flowing_molten_tin": "Потік Розплавлений Tin",
+  "item.tconstruct.molten_tin_bucket": "Відро Розплавлений Tin",
 
-  "block.tconstruct.molten_aluminum_fluid": "Molten Aluminum",
-  "fluid.tconstruct.molten_aluminum": "Molten Aluminum",
-  "fluid.tconstruct.flowing_molten_aluminum": "Потік Molten Aluminum",
-  "item.tconstruct.molten_aluminum_bucket": "Відро Molten Aluminum",
+  "block.tconstruct.molten_aluminum_fluid": "Розплавлений Aluminum",
+  "fluid.tconstruct.molten_aluminum": "Розплавлений Aluminum",
+  "fluid.tconstruct.flowing_molten_aluminum": "Потік Розплавлений Aluminum",
+  "item.tconstruct.molten_aluminum_bucket": "Відро Розплавлений Aluminum",
 
-  "block.tconstruct.molten_lead_fluid": "Molten Lead",
-  "fluid.tconstruct.molten_lead": "Molten Lead",
-  "fluid.tconstruct.flowing_molten_lead": "Потік Molten Lead",
-  "item.tconstruct.molten_lead_bucket": "Відро Molten Lead",
+  "block.tconstruct.molten_lead_fluid": "Розплавлений Lead",
+  "fluid.tconstruct.molten_lead": "Розплавлений Lead",
+  "fluid.tconstruct.flowing_molten_lead": "Потік Розплавлений Lead",
+  "item.tconstruct.molten_lead_bucket": "Відро Розплавлений Lead",
 
-  "block.tconstruct.molten_silver_fluid": "Molten Silver",
-  "fluid.tconstruct.molten_silver": "Molten Silver",
-  "fluid.tconstruct.flowing_molten_silver": "Потік Molten Silver",
-  "item.tconstruct.molten_silver_bucket": "Відро Molten Silver",
+  "block.tconstruct.molten_silver_fluid": "Розплавлений Silver",
+  "fluid.tconstruct.molten_silver": "Розплавлений Silver",
+  "fluid.tconstruct.flowing_molten_silver": "Потік Розплавлений Silver",
+  "item.tconstruct.molten_silver_bucket": "Відро Розплавлений Silver",
 
-  "block.tconstruct.molten_nickel_fluid": "Molten Nickel",
-  "fluid.tconstruct.molten_nickel": "Molten Nickel",
-  "fluid.tconstruct.flowing_molten_nickel": "Потік Molten Nickel",
-  "item.tconstruct.molten_nickel_bucket": "Відро Molten Nickel",
+  "block.tconstruct.molten_nickel_fluid": "Розплавлений Nickel",
+  "fluid.tconstruct.molten_nickel": "Розплавлений Nickel",
+  "fluid.tconstruct.flowing_molten_nickel": "Потік Розплавлений Nickel",
+  "item.tconstruct.molten_nickel_bucket": "Відро Розплавлений Nickel",
 
-  "block.tconstruct.molten_zinc_fluid": "Molten Zinc",
-  "fluid.tconstruct.molten_zinc": "Molten Zinc",
-  "fluid.tconstruct.flowing_molten_zinc": "Потік Molten Zinc",
-  "item.tconstruct.molten_zinc_bucket": "Відро Molten Zinc",
+  "block.tconstruct.molten_zinc_fluid": "Розплавлений Zinc",
+  "fluid.tconstruct.molten_zinc": "Розплавлений Zinc",
+  "fluid.tconstruct.flowing_molten_zinc": "Потік Розплавлений Zinc",
+  "item.tconstruct.molten_zinc_bucket": "Відро Розплавлений Zinc",
 
-  "block.tconstruct.molten_platinum_fluid": "Molten Platinum",
-  "fluid.tconstruct.molten_platinum": "Molten Platinum",
-  "fluid.tconstruct.flowing_molten_platinum": "Потік Molten Platinum",
-  "item.tconstruct.molten_platinum_bucket": "Відро Molten Platinum",
+  "block.tconstruct.molten_platinum_fluid": "Розплавлений Platinum",
+  "fluid.tconstruct.molten_platinum": "Розплавлений Platinum",
+  "fluid.tconstruct.flowing_molten_platinum": "Потік Розплавлений Platinum",
+  "item.tconstruct.molten_platinum_bucket": "Відро Розплавлений Platinum",
 
-  "block.tconstruct.molten_tungsten_fluid": "Molten Tungsten",
-  "fluid.tconstruct.molten_tungsten": "Molten Tungsten",
-  "fluid.tconstruct.flowing_molten_tungsten": "Потік Molten Tungsten",
-  "item.tconstruct.molten_tungsten_bucket": "Відро Molten Tungsten",
+  "block.tconstruct.molten_tungsten_fluid": "Розплавлений Tungsten",
+  "fluid.tconstruct.molten_tungsten": "Розплавлений Tungsten",
+  "fluid.tconstruct.flowing_molten_tungsten": "Потік Розплавлений Tungsten",
+  "item.tconstruct.molten_tungsten_bucket": "Відро Розплавлений Tungsten",
 
-  "block.tconstruct.molten_osmium_fluid": "Molten Osmium",
-  "fluid.tconstruct.molten_osmium": "Molten Osmium",
-  "fluid.tconstruct.flowing_molten_osmium": "Потік Molten Osmium",
-  "item.tconstruct.molten_osmium_bucket": "Відро Molten Osmium",
+  "block.tconstruct.molten_osmium_fluid": "Розплавлений Osmium",
+  "fluid.tconstruct.molten_osmium": "Розплавлений Osmium",
+  "fluid.tconstruct.flowing_molten_osmium": "Потік Розплавлений Osmium",
+  "item.tconstruct.molten_osmium_bucket": "Відро Розплавлений Osmium",
 
-  "block.tconstruct.molten_uranium_fluid": "Molten Uranium",
-  "fluid.tconstruct.molten_uranium": "Molten Uranium",
-  "fluid.tconstruct.flowing_molten_uranium": "Потік Molten Uranium",
-  "item.tconstruct.molten_uranium_bucket": "Відро Molten Uranium",
+  "block.tconstruct.molten_uranium_fluid": "Розплавлений Uranium",
+  "fluid.tconstruct.molten_uranium": "Розплавлений Uranium",
+  "fluid.tconstruct.flowing_molten_uranium": "Потік Розплавлений Uranium",
+  "item.tconstruct.molten_uranium_bucket": "Відро Розплавлений Uranium",
 
   "_comment": "Compat Alloys",
 
-  "block.tconstruct.molten_bronze_fluid": "Molten Bronze",
-  "fluid.tconstruct.molten_bronze": "Molten Bronze",
-  "fluid.tconstruct.flowing_molten_bronze": "Потік Molten Bronze",
-  "item.tconstruct.molten_bronze_bucket": "Відро Molten Bronze",
+  "block.tconstruct.molten_bronze_fluid": "Розплавлений Bronze",
+  "fluid.tconstruct.molten_bronze": "Розплавлений Bronze",
+  "fluid.tconstruct.flowing_molten_bronze": "Потік Розплавлений Bronze",
+  "item.tconstruct.molten_bronze_bucket": "Відро Розплавлений Bronze",
 
-  "block.tconstruct.molten_brass_fluid": "Molten Brass",
-  "fluid.tconstruct.molten_brass": "Molten Brass",
-  "fluid.tconstruct.flowing_molten_brass": "Потік Molten Brass",
-  "item.tconstruct.molten_brass_bucket": "Відро Molten Brass",
+  "block.tconstruct.molten_brass_fluid": "Розплавлений Brass",
+  "fluid.tconstruct.molten_brass": "Розплавлений Brass",
+  "fluid.tconstruct.flowing_molten_brass": "Потік Розплавлений Brass",
+  "item.tconstruct.molten_brass_bucket": "Відро Розплавлений Brass",
 
-  "block.tconstruct.molten_electrum_fluid": "Molten Electrum",
-  "fluid.tconstruct.molten_electrum": "Molten Electrum",
-  "fluid.tconstruct.flowing_molten_electrum": "Потік Molten Electrum",
-  "item.tconstruct.molten_electrum_bucket": "Відро Molten Electrum",
+  "block.tconstruct.molten_electrum_fluid": "Розплавлений Electrum",
+  "fluid.tconstruct.molten_electrum": "Розплавлений Electrum",
+  "fluid.tconstruct.flowing_molten_electrum": "Потік Розплавлений Electrum",
+  "item.tconstruct.molten_electrum_bucket": "Відро Розплавлений Electrum",
 
-  "block.tconstruct.molten_invar_fluid": "Molten Invar",
-  "fluid.tconstruct.molten_invar": "Molten Invar",
-  "fluid.tconstruct.flowing_molten_invar": "Потік Molten Invar",
-  "item.tconstruct.molten_invar_bucket": "Відро Molten Invar",
+  "block.tconstruct.molten_invar_fluid": "Розплавлений Invar",
+  "fluid.tconstruct.molten_invar": "Розплавлений Invar",
+  "fluid.tconstruct.flowing_molten_invar": "Потік Розплавлений Invar",
+  "item.tconstruct.molten_invar_bucket": "Відро Розплавлений Invar",
 
-  "block.tconstruct.molten_constantan_fluid": "Molten Constantan",
-  "fluid.tconstruct.molten_constantan": "Molten Constantan",
-  "fluid.tconstruct.flowing_molten_constantan": "Потік Molten Constantan",
-  "item.tconstruct.molten_constantan_bucket": "Відро Molten Constantan",
+  "block.tconstruct.molten_constantan_fluid": "Розплавлений Constantan",
+  "fluid.tconstruct.molten_constantan": "Розплавлений Constantan",
+  "fluid.tconstruct.flowing_molten_constantan": "Потік Розплавлений Constantan",
+  "item.tconstruct.molten_constantan_bucket": "Відро Розплавлений Constantan",
 
-  "block.tconstruct.molten_pewter_fluid": "Molten Pewter",
-  "fluid.tconstruct.molten_pewter": "Molten Pewter",
-  "fluid.tconstruct.flowing_molten_pewter": "Потік Molten Pewter",
-  "item.tconstruct.molten_pewter_bucket": "Відро Molten Pewter",
+  "block.tconstruct.molten_pewter_fluid": "Розплавлений Pewter",
+  "fluid.tconstruct.molten_pewter": "Розплавлений Pewter",
+  "fluid.tconstruct.flowing_molten_pewter": "Потік Розплавлений Pewter",
+  "item.tconstruct.molten_pewter_bucket": "Відро Розплавлений Pewter",
 
-  "block.tconstruct.molten_steel_fluid": "Molten Steel",
-  "fluid.tconstruct.molten_steel": "Molten Steel",
-  "fluid.tconstruct.flowing_molten_steel": "Потік Molten Steel",
-  "item.tconstruct.molten_steel_bucket": "Відро Molten Steel",
+  "block.tconstruct.molten_steel_fluid": "Розплавлений Steel",
+  "fluid.tconstruct.molten_steel": "Розплавлений Steel",
+  "fluid.tconstruct.flowing_molten_steel": "Потік Розплавлений Steel",
+  "item.tconstruct.molten_steel_bucket": "Відро Розплавлений Steel",
 
   "_comment": "Thermal Alloys",
 
-  "block.tconstruct.molten_enderium_fluid": "Molten Enderium",
-  "fluid.tconstruct.molten_enderium": "Molten Enderium",
-  "fluid.tconstruct.flowing_molten_enderium": "Потік Molten Enderium",
-  "item.tconstruct.molten_enderium_bucket": "Відро Molten Enderium",
+  "block.tconstruct.molten_enderium_fluid": "Розплавлений Enderium",
+  "fluid.tconstruct.molten_enderium": "Розплавлений Enderium",
+  "fluid.tconstruct.flowing_molten_enderium": "Потік Розплавлений Enderium",
+  "item.tconstruct.molten_enderium_bucket": "Відро Розплавлений Enderium",
 
-  "block.tconstruct.molten_lumium_fluid": "Molten Lumium",
-  "fluid.tconstruct.molten_lumium": "Molten Lumium",
-  "fluid.tconstruct.flowing_molten_lumium": "Потік Molten Lumium",
-  "item.tconstruct.molten_lumium_bucket": "Відро Molten Lumium",
+  "block.tconstruct.molten_lumium_fluid": "Розплавлений Lumium",
+  "fluid.tconstruct.molten_lumium": "Розплавлений Lumium",
+  "fluid.tconstruct.flowing_molten_lumium": "Потік Розплавлений Lumium",
+  "item.tconstruct.molten_lumium_bucket": "Відро Розплавлений Lumium",
 
-  "block.tconstruct.molten_signalum_fluid": "Molten Signalum",
-  "fluid.tconstruct.molten_signalum": "Molten Signalum",
-  "fluid.tconstruct.flowing_molten_signalum": "Потік Molten Signalum",
-  "item.tconstruct.molten_signalum_bucket": "Відро Molten Signalum",
+  "block.tconstruct.molten_signalum_fluid": "Розплавлений Signalum",
+  "fluid.tconstruct.molten_signalum": "Розплавлений Signalum",
+  "fluid.tconstruct.flowing_molten_signalum": "Потік Розплавлений Signalum",
+  "item.tconstruct.molten_signalum_bucket": "Відро Розплавлений Signalum",
 
   "_comment": "Mekanism Alloys",
 
-  "block.tconstruct.molten_refined_glowstone_fluid": "Molten Refined Glowstone",
-  "fluid.tconstruct.molten_refined_glowstone": "Molten Refined Glowstone",
-  "fluid.tconstruct.flowing_molten_refined_glowstone": "Потік Molten Refined Glowstone",
-  "item.tconstruct.molten_refined_glowstone_bucket": "Відро Molten Refined Glowstone",
+  "block.tconstruct.molten_refined_glowstone_fluid": "Розплавлений Refined Glowstone",
+  "fluid.tconstruct.molten_refined_glowstone": "Розплавлений Refined Glowstone",
+  "fluid.tconstruct.flowing_molten_refined_glowstone": "Потік Розплавлений Refined Glowstone",
+  "item.tconstruct.molten_refined_glowstone_bucket": "Відро Розплавлений Refined Glowstone",
 
-  "block.tconstruct.molten_refined_obsidian_fluid": "Molten Refined Obsidian",
-  "fluid.tconstruct.molten_refined_obsidian": "Molten Refined Obsidian",
-  "fluid.tconstruct.flowing_molten_refined_obsidian": "Потік Molten Refined Obsidian",
-  "item.tconstruct.molten_refined_obsidian_bucket": "Відро Molten Refined Obsidian",
+  "block.tconstruct.molten_refined_obsidian_fluid": "Розплавлений Refined обсидіан",
+  "fluid.tconstruct.molten_refined_obsidian": "Розплавлений Refined обсидіан",
+  "fluid.tconstruct.flowing_molten_refined_obsidian": "Потік Розплавлений Refined обсидіан",
+  "item.tconstruct.molten_refined_obsidian_bucket": "Відро Розплавлений Refined обсидіан",
 
 
   "_comment": "Tinkers Gadgets",
@@ -840,7 +840,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.clear_item_frame": "Clear Item Frame",
   "item.tconstruct.gold_item_frame": "Golden Item Frame",
   "item.tconstruct.reversed_gold_item_frame": "Inverted Golden Item Frame",
-  "item.tconstruct.diamond_item_frame": "Diamond Item Frame",
+  "item.tconstruct.diamond_item_frame": "діамант Item Frame",
   "item.tconstruct.manyullyn_item_frame": "Майнулин Item Frame",
   "item.tconstruct.netherite_item_frame": "Netherite Item Frame",
 
@@ -849,7 +849,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.efln_ball": "EFLN",
   "item.tconstruct.efln_ball.tooltip": "Explodes! Safe for mining",
 
-  "item.tconstruct.quartz_shuriken": "Quartz Shuriken",
+  "item.tconstruct.quartz_shuriken": "кварц Shuriken",
   "item.tconstruct.quartz_shuriken.tooltip": "A throwable weapon with higher damage",
   "item.tconstruct.flint_shuriken": "Flint Shuriken",
   "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
@@ -1103,79 +1103,79 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.grout": "Grout",
   "block.tconstruct.grout.tooltip": "I am Grout!",
 
-  "block.tconstruct.seared_stone": "Seared Stone",
+  "block.tconstruct.seared_stone": "Горілий Stone",
   "block.tconstruct.seared_stone.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_stone_slab": "Seared Stone Slab",
-  "block.tconstruct.seared_stone_stairs": "Seared Stone Stairs",
+  "block.tconstruct.seared_stone_slab": "Горілий Stone Slab",
+  "block.tconstruct.seared_stone_stairs": "Горілий Stone Stairs",
 
-  "block.tconstruct.seared_cobble": "Seared Cobblestone",
+  "block.tconstruct.seared_cobble": "Горілий Cobblestone",
   "block.tconstruct.seared_cobble.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_cobble_slab": "Seared Cobblestone Slab",
-  "block.tconstruct.seared_cobble_stairs": "Seared Cobblestone Stairs",
-  "block.tconstruct.seared_cobble_wall": "Seared Cobblestone Wall",
+  "block.tconstruct.seared_cobble_slab": "Горілий Cobblestone Slab",
+  "block.tconstruct.seared_cobble_stairs": "Горілий Cobblestone Stairs",
+  "block.tconstruct.seared_cobble_wall": "Горілий Cobblestone Wall",
 
-  "item.tconstruct.seared_brick": "Seared Brick",
-  "block.tconstruct.seared_bricks": "Seared Bricks",
+  "item.tconstruct.seared_brick": "Горілий Brick",
+  "block.tconstruct.seared_bricks": "Горілий Bricks",
   "block.tconstruct.seared_bricks.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_bricks_slab": "Seared Bricks Slab",
-  "block.tconstruct.seared_bricks_stairs": "Seared Bricks Stairs",
-  "block.tconstruct.seared_bricks_wall": "Seared Bricks Wall",
+  "block.tconstruct.seared_bricks_slab": "Горілий Bricks Slab",
+  "block.tconstruct.seared_bricks_stairs": "Горілий Bricks Stairs",
+  "block.tconstruct.seared_bricks_wall": "Горілий Bricks Wall",
 
-  "block.tconstruct.seared_paver": "Seared Paver",
+  "block.tconstruct.seared_paver": "Горілий Paver",
   "block.tconstruct.seared_paver.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_paver_slab": "Seared Paver Slab",
-  "block.tconstruct.seared_paver_stairs": "Seared Paver Stairs",
+  "block.tconstruct.seared_paver_slab": "Горілий Paver Slab",
+  "block.tconstruct.seared_paver_stairs": "Горілий Paver Stairs",
 
-  "block.tconstruct.seared_cracked_bricks": "Cracked Seared Bricks",
+  "block.tconstruct.seared_cracked_bricks": "Cracked Горілий Bricks",
   "block.tconstruct.seared_cracked_bricks.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_fancy_bricks": "Fancy Seared Bricks",
+  "block.tconstruct.seared_fancy_bricks": "Fancy Горілий Bricks",
   "block.tconstruct.seared_fancy_bricks.tooltip": "Part of the Smeltery.",
-  "block.tconstruct.seared_triangle_bricks": "Triangle Seared Bricks",
+  "block.tconstruct.seared_triangle_bricks": "Triangle Горілий Bricks",
   "block.tconstruct.seared_triangle_bricks.tooltip": "Part of the Smeltery.",
 
-  "block.tconstruct.seared_glass": "Seared Glass",
+  "block.tconstruct.seared_glass": "Горілий Glass",
   "block.tconstruct.seared_glass.tooltip": "Part of the Smeltery.\nCannot store liquids.",
-  "block.tconstruct.seared_soul_glass": "Seared Soul Glass",
+  "block.tconstruct.seared_soul_glass": "Горілий Soul Glass",
   "block.tconstruct.seared_soul_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and can be walked through.",
-  "block.tconstruct.seared_tinted_glass": "Tinted Seared Glass",
+  "block.tconstruct.seared_tinted_glass": "Tinted Горілий Glass",
   "block.tconstruct.seared_tinted_glass.tooltip": "Part of the Smeltery.\nCannot store liquids, and does not let light through.",
-  "block.tconstruct.seared_glass_pane": "Seared Glass шибка",
+  "block.tconstruct.seared_glass_pane": "Горілий Glass шибка",
   "block.tconstruct.seared_glass_pane.tooltip": "Cannot be used in a Smeltery.",
-  "block.tconstruct.seared_soul_glass_pane": "Seared Soul Glass шибка",
+  "block.tconstruct.seared_soul_glass_pane": "Горілий Soul Glass шибка",
   "block.tconstruct.seared_soul_glass_pane.tooltip": "Cannot be used in a Smeltery, but can be walked through.",
 
-  "block.tconstruct.seared_ladder": "Seared Ladder",
+  "block.tconstruct.seared_ladder": "Горілий Ladder",
   "block.tconstruct.seared_ladder.tooltip": "Climbable Smeltery block.",
 
-  "block.tconstruct.seared_fuel_tank": "Seared Fuel Tank",
+  "block.tconstruct.seared_fuel_tank": "Горілий Fuel Tank",
   "block.tconstruct.seared_fuel_tank.tooltip": "Heart of the Smeltery.\nRetains liquid when broken.",
-  "block.tconstruct.seared_fuel_gauge": "Seared Fuel Gauge",
+  "block.tconstruct.seared_fuel_gauge": "Горілий Fuel Gauge",
   "block.tconstruct.seared_fuel_gauge.tooltip": "Alternate Smeltery heart.\nRetains liquid when broken.",
-  "block.tconstruct.seared_ingot_tank": "Seared злиток Tank",
+  "block.tconstruct.seared_ingot_tank": "Горілий злиток Tank",
   "block.tconstruct.seared_ingot_tank.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.seared_ingot_gauge": "Seared злиток Gauge",
+  "block.tconstruct.seared_ingot_gauge": "Горілий злиток Gauge",
   "block.tconstruct.seared_ingot_gauge.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.seared_lantern": "Seared Lantern",
+  "block.tconstruct.seared_lantern": "Горілий Lantern",
   "block.tconstruct.seared_lantern.tooltip": "Ideal for decoration, holding 50mb of fluid.\nRetains liquid when broken.",
 
-  "block.tconstruct.seared_faucet": "Seared Faucet",
+  "block.tconstruct.seared_faucet": "Горілий Faucet",
   "block.tconstruct.seared_faucet.tooltip": "Drains liquids from Smelteries and Tanks",
-  "block.tconstruct.seared_channel": "Seared Channel",
+  "block.tconstruct.seared_channel": "Горілий Channel",
   "block.tconstruct.seared_channel.tooltip": "Distributes fluids poured from a faucet above.",
 
-  "block.tconstruct.seared_basin": "Seared ливарний котел",
+  "block.tconstruct.seared_basin": "Горілий ливарний котел",
   "block.tconstruct.seared_basin.tooltip": "Cast items using molten metals from a Smeltery",
-  "block.tconstruct.seared_table": "Seared ливарський стіл",
+  "block.tconstruct.seared_table": "Горілий ливарський стіл",
   "block.tconstruct.seared_table.tooltip": "Cast items using molten metals from a Smeltery",
 
-  "block.tconstruct.seared_melter": "Seared Melter",
+  "block.tconstruct.seared_melter": "Горілий Melter",
   "block.tconstruct.seared_melter.tooltip": "First Smeltery.\nPlace above a tank or heater to fuel.",
   "gui.tconstruct.melter": "Melter",
   "gui.tconstruct.melting.capacity": "Capacity:",
   "gui.tconstruct.melting.available": "Free:",
   "gui.tconstruct.melting.used": "Used:",
 
-  "block.tconstruct.seared_heater": "Seared Heater",
+  "block.tconstruct.seared_heater": "Горілий Heater",
   "block.tconstruct.seared_heater.tooltip": "Solid fuel source for the Melter.",
   "gui.tconstruct.heater": "Heater",
 
@@ -1183,11 +1183,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.smeltery_controller.tooltip": "Brain of the Smeltery.",
   "gui.tconstruct.smeltery": "Smeltery",
 
-  "block.tconstruct.seared_drain": "Seared Drain",
+  "block.tconstruct.seared_drain": "Горілий Drain",
   "block.tconstruct.seared_drain.tooltip": "Smeltery fluid input and output",
-  "block.tconstruct.seared_duct": "Seared Duct",
+  "block.tconstruct.seared_duct": "Горілий Duct",
   "block.tconstruct.seared_duct.tooltip": "Filtered smeltery fluid input and output using copper cans or buckets",
-  "block.tconstruct.seared_chute": "Seared Chute",
+  "block.tconstruct.seared_chute": "Горілий Chute",
   "block.tconstruct.seared_chute.tooltip": "Smeltery item input and output",
 
 
@@ -1196,62 +1196,62 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.nether_grout": "Nether Grout",
   "block.tconstruct.nether_grout.tooltip": "We are Grout!",
 
-  "block.tconstruct.scorched_stone": "Scorched Stone",
+  "block.tconstruct.scorched_stone": "Обпалений Stone",
   "block.tconstruct.scorched_stone.tooltip": "Part of the Foundry.",
-  "block.tconstruct.polished_scorched_stone": "Polished Scorched Stone",
+  "block.tconstruct.polished_scorched_stone": "Polished Обпалений Stone",
   "block.tconstruct.polished_scorched_stone.tooltip": "Part of the Foundry.",
 
-  "item.tconstruct.scorched_brick": "Scorched Brick",
-  "block.tconstruct.scorched_bricks": "Scorched Bricks",
+  "item.tconstruct.scorched_brick": "Обпалений Brick",
+  "block.tconstruct.scorched_bricks": "Обпалений Bricks",
   "block.tconstruct.scorched_bricks.tooltip": "Part of the Foundry.",
-  "block.tconstruct.scorched_bricks_slab": "Scorched Bricks Slab",
-  "block.tconstruct.scorched_bricks_stairs": "Scorched Bricks Stairs",
-  "block.tconstruct.scorched_bricks_fence": "Scorched Bricks Fence",
+  "block.tconstruct.scorched_bricks_slab": "Обпалений Bricks Slab",
+  "block.tconstruct.scorched_bricks_stairs": "Обпалений Bricks Stairs",
+  "block.tconstruct.scorched_bricks_fence": "Обпалений Bricks Fence",
 
-  "block.tconstruct.scorched_road": "Scorched Road",
+  "block.tconstruct.scorched_road": "Обпалений Road",
   "block.tconstruct.scorched_road.tooltip": "Part of the Foundry.",
-  "block.tconstruct.scorched_road_slab": "Scorched Road Slab",
-  "block.tconstruct.scorched_road_stairs": "Scorched Road Stairs",
+  "block.tconstruct.scorched_road_slab": "Обпалений Road Slab",
+  "block.tconstruct.scorched_road_stairs": "Обпалений Road Stairs",
 
-  "block.tconstruct.chiseled_scorched_bricks": "Chiseled Scorched Bricks",
+  "block.tconstruct.chiseled_scorched_bricks": "Chiseled Обпалений Bricks",
   "block.tconstruct.chiseled_scorched_bricks.tooltip": "Part of the Foundry.",
 
-  "block.tconstruct.scorched_glass": "Scorched Glass",
+  "block.tconstruct.scorched_glass": "Обпалений Glass",
   "block.tconstruct.scorched_glass.tooltip": "Part of the Foundry.\nCannot store liquids.",
-  "block.tconstruct.scorched_soul_glass": "Scorched Soul Glass",
+  "block.tconstruct.scorched_soul_glass": "Обпалений Soul Glass",
   "block.tconstruct.scorched_soul_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and can be walked through.",
-  "block.tconstruct.scorched_tinted_glass": "Tinted Scorched Glass",
+  "block.tconstruct.scorched_tinted_glass": "Tinted Обпалений Glass",
   "block.tconstruct.scorched_tinted_glass.tooltip": "Part of the Foundry.\nCannot store liquids, and does not let light through.",
-  "block.tconstruct.scorched_glass_pane": "Scorched Glass шибка",
+  "block.tconstruct.scorched_glass_pane": "Обпалений Glass шибка",
   "block.tconstruct.scorched_glass_pane.tooltip": "Cannot be used in a Foundry.",
-  "block.tconstruct.scorched_soul_glass_pane": "Scorched Soul Glass шибка",
+  "block.tconstruct.scorched_soul_glass_pane": "Обпалений Soul Glass шибка",
   "block.tconstruct.scorched_soul_glass_pane.tooltip": "Cannot be used in a Foundry, but can be walked through.",
 
-  "block.tconstruct.scorched_ladder": "Scorched Ladder",
+  "block.tconstruct.scorched_ladder": "Обпалений Ladder",
   "block.tconstruct.scorched_ladder.tooltip": "Climbable Foundry block.",
 
-  "block.tconstruct.scorched_fuel_tank": "Scorched Fuel Tank",
+  "block.tconstruct.scorched_fuel_tank": "Обпалений Fuel Tank",
   "block.tconstruct.scorched_fuel_tank.tooltip": "Heart of the Foundry.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_fuel_gauge": "Scorched Fuel Gauge",
+  "block.tconstruct.scorched_fuel_gauge": "Обпалений Fuel Gauge",
   "block.tconstruct.scorched_fuel_gauge.tooltip": "Alternate Foundry tank.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_ingot_tank": "Scorched злиток Tank",
+  "block.tconstruct.scorched_ingot_tank": "Обпалений злиток Tank",
   "block.tconstruct.scorched_ingot_tank.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_ingot_gauge": "Scorched злиток Gauge",
+  "block.tconstruct.scorched_ingot_gauge": "Обпалений злиток Gauge",
   "block.tconstruct.scorched_ingot_gauge.tooltip": "Ideal for metals, holding 48 ingots of fluid.\nRetains liquid when broken.",
-  "block.tconstruct.scorched_lantern": "Scorched Lantern",
+  "block.tconstruct.scorched_lantern": "Обпалений Lantern",
   "block.tconstruct.scorched_lantern.tooltip": "Ideal for decoration, holding 50mb of fluid.\nRetains liquid when broken.",
 
-  "block.tconstruct.scorched_faucet": "Scorched Faucet",
+  "block.tconstruct.scorched_faucet": "Обпалений Faucet",
   "block.tconstruct.scorched_faucet.tooltip": "Drains liquids from Foundries and Tanks",
-  "block.tconstruct.scorched_basin": "Scorched ливарний котел",
+  "block.tconstruct.scorched_basin": "Обпалений ливарний котел",
   "block.tconstruct.scorched_basin.tooltip": "Cast items using molten metals from a Foundry, requires a cast or gold platform to cast",
-  "block.tconstruct.scorched_table": "Scorched ливарський стіл",
+  "block.tconstruct.scorched_table": "Обпалений ливарський стіл",
   "block.tconstruct.scorched_table.tooltip": "Cast items using molten metals from a Foundry, requires a cast or gold bars to cast",
 
-  "block.tconstruct.scorched_channel": "Scorched Channel",
+  "block.tconstruct.scorched_channel": "Обпалений Channel",
   "block.tconstruct.scorched_channel.tooltip": "Distributes fluids poured from a faucet above.",
 
-  "block.tconstruct.scorched_alloyer": "Scorched Alloyer",
+  "block.tconstruct.scorched_alloyer": "Обпалений Alloyer",
   "block.tconstruct.scorched_alloyer.tooltip": "Simple alloying machine.\nPlace above a tank or heater to fuel.",
   "gui.tconstruct.alloyer": "Alloyer",
 
@@ -1259,11 +1259,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.foundry_controller.tooltip": "Brain of the Foundry.",
   "gui.tconstruct.foundry": "Foundry",
 
-  "block.tconstruct.scorched_drain": "Scorched Drain",
+  "block.tconstruct.scorched_drain": "Обпалений Drain",
   "block.tconstruct.scorched_drain.tooltip": "Foundry fluid input and output",
-  "block.tconstruct.scorched_duct": "Scorched Duct",
+  "block.tconstruct.scorched_duct": "Обпалений Duct",
   "block.tconstruct.scorched_duct.tooltip": "Filtered Foundry fluid input and output using copper cans or buckets",
-  "block.tconstruct.scorched_chute": "Scorched Chute",
+  "block.tconstruct.scorched_chute": "Обпалений Chute",
   "block.tconstruct.scorched_chute.tooltip": "Foundry item input and output",
 
 
@@ -1588,12 +1588,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.iron.skull_flavor": "Violation of quarantine",
   "material.tconstruct.iron.skull_encyclopedia": "Melee attacks copy all negative status effects from the wearer to the target",
 
-  "material.tconstruct.seared_stone": "Seared Stone",
+  "material.tconstruct.seared_stone": "Горілий Stone",
   "material.tconstruct.seared_stone.flavor": "Hotter Grout.",
   "material.tconstruct.seared_stone.encyclopedia": "Gives +6 mining speed against blocks that can be melted in a melter",
   "material.tconstruct.seared_stone.armor": "Reduces damage from fire by 10% per level, and reduces fire burn time",
 
-  "material.tconstruct.scorched_stone": "Scorched Stone",
+  "material.tconstruct.scorched_stone": "Обпалений Stone",
   "material.tconstruct.scorched_stone.flavor": "Founders edition bonus.",
   "material.tconstruct.scorched_stone.encyclopedia": "Gives +2 damage per level against burning targets",
   "material.tconstruct.scorched_stone.armor": "Reduces damage from fire immune mobs by 5% per level, and reduces fire burn time",
@@ -1640,11 +1640,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.slimesteel.encyclopedia": "Grants 25 extra overslime, +50% of the total per level",
 
   "material.tconstruct.nahuatl": "Ацтеське",
-  "material.tconstruct.nahuatl.flavor": "This is not an obsidian part, if it was it would say \"Obsidian.\"",
+  "material.tconstruct.nahuatl.flavor": "This is not an obsidian part, if it was it would say \"обсидіан.\"",
   "material.tconstruct.nahuatl.encyclopedia": "Has a 50% chance of doing up to 5 damage over time, more damage at higher levels",
   "material.tconstruct.nahuatl.armor": "Has a 25% chance per level of doing up to 5 damage over time",
 
-  "material.tconstruct.amethyst_bronze": "Amethyst Bronze",
+  "material.tconstruct.amethyst_bronze": "аметист Bronze",
   "material.tconstruct.amethyst_bronze.flavor": "Not to be confused with bronze.",
   "material.tconstruct.amethyst_bronze.encyclopedia": "Grants +0.5 mining speed per level to blocks that don't require tools, even ones where the tool is not effective",
   "material.tconstruct.amethyst_bronze.ranged": "Adds +0.1 velocity per level at the cost of limiting arrow angles to 32, 16, or 8 directions at the first 3 levels respectively",
@@ -1737,17 +1737,17 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.gold.skull_flavor": "So shiny",
   "material.tconstruct.gold.skull_encyclopedia": "Causes some gold ores to drop extra gold nuggets, and increases drop chance of gold armor by 4%. самородокs and armor drops are further boosted by each piece of golden armor worn.",
 
-  "material.tconstruct.obsidian":   "Obsidian",
-  "material.tconstruct.obsidian.flavor": "This is an obsidian part, if it was not it would not say \"Obsidian.\"",
+  "material.tconstruct.obsidian":   "Обсидіан",
+  "material.tconstruct.obsidian.flavor": "This is an obsidian part, if it was not it would not say \"Обсидіан.\"",
   "material.tconstruct.obsidian.armor": "Grants 10% protection per level against explosions, and reduces explosion knockback",
   "material.tconstruct.debris":     "Debris",
   "material.tconstruct.netherite":  "Netherite",
   "material.tconstruct.earthslime": "Землеслиз",
-  "material.tconstruct.skyslime":   "Небослизовий",
+  "material.tconstruct.skyslime":   "Небослиз",
   "material.tconstruct.blood":      "Blood",
   "material.tconstruct.magma":      "Magma",
   "material.tconstruct.ichor":      "Іхор",
-  "material.tconstruct.enderslime": "ендерслиз",
+  "material.tconstruct.enderslime": "Ендерслиз",
   "material.tconstruct.clay":       "Clay",
   "material.tconstruct.honey":      "Мед",
   "material.tconstruct.venom":      "Отрута",
@@ -1872,10 +1872,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.overforced": "Overforced",
   "modifier.tconstruct.overforced.flavor": "Protected by Slime!",
   "modifier.tconstruct.overforced.description": "Tool is reinforced using slime, allowing more capacity for overslime",
-  "modifier.tconstruct.emerald": "Emerald",
+  "modifier.tconstruct.emerald": "смарагд",
   "modifier.tconstruct.emerald.flavor": "Villagers will want to be you!",
   "modifier.tconstruct.emerald.description": "Increases durability depending on base durability! Boosts effectiveness of conditional damage and mining speed",
-  "modifier.tconstruct.diamond": "Diamond",
+  "modifier.tconstruct.diamond": "діамант",
   "modifier.tconstruct.diamond.flavor": "Rich!",
   "modifier.tconstruct.diamond.description": "Increased durability and stats!",
   "modifier.tconstruct.worldbound": "Worldbound",
@@ -2024,12 +2024,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.crystalshot": "Crystalshot",
   "modifier.tconstruct.crystalshot.flavor": "Holding arrows is overrated",
   "modifier.tconstruct.crystalshot.description": "In place of arrows, fires shards of crystal grown from the bow itself. Growing crystals consumes extra durability",
-  "modifier.tconstruct.crystalshot.amethyst": "Amethyst",
+  "modifier.tconstruct.crystalshot.amethyst": "Аметист",
   "modifier.tconstruct.crystalshot.earthslime": "Землеслиз",
   "modifier.tconstruct.crystalshot.skyslime": "Небослизовий",
   "modifier.tconstruct.crystalshot.ichor": "Іхор",
   "modifier.tconstruct.crystalshot.enderslime": "ендерслиз",
-  "modifier.tconstruct.crystalshot.quartz": "Quartz",
+  "modifier.tconstruct.crystalshot.quartz": "кварц",
   "modifier.tconstruct.crystalshot.random": "Random",
   "modifier.tconstruct.multishot": "Multishot",
   "modifier.tconstruct.multishot.flavor": "Skill like an elf",
@@ -2818,7 +2818,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "stat.tconstruct.harvest_tier.minecraft.gold": "Gold",
   "stat.tconstruct.harvest_tier.minecraft.stone": "Stone",
   "stat.tconstruct.harvest_tier.minecraft.iron": "Iron",
-  "stat.tconstruct.harvest_tier.minecraft.diamond": "Diamond",
+  "stat.tconstruct.harvest_tier.minecraft.diamond": "діамант",
   "stat.tconstruct.harvest_tier.minecraft.netherite": "Netherite",
 
   "stat.tconstruct.slot.prefix.upgrades": "Покращення: ",
@@ -3463,7 +3463,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/structu
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/soul_glass.json
 ```
 {
-  "title": "Seared Soul Glass",
+  "title": "Горілий Soul Glass",
   "item": "tconstruct:seared_soul_glass",
   "text": [
     {
@@ -3512,7 +3512,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/index.j
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_duct.json
 ```
 {
-  "title": "Seared Duct",
+  "title": "Горілий Duct",
   "item": "tconstruct:seared_duct",
   "text": [
     {
@@ -3530,7 +3530,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/searedblocks.json
 ```
 {
-  "title": "Seared Blocks",
+  "title": "Горілий Blocks",
   "item": {
     "tag": "tconstruct:seared_blocks"
   },
@@ -3546,7 +3546,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/searedb
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_chute.json
 ```
 {
-  "title": "Seared Chute",
+  "title": "Горілий Chute",
   "item": "tconstruct:seared_chute",
   "text": [
     {
@@ -3560,7 +3560,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/tanks.json
 ```
 {
-  "title": "Seared Tanks",
+  "title": "Горілий Tanks",
   "item": {
     "tag": "tconstruct:seared_tanks"
   },
@@ -3580,7 +3580,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/tanks.j
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/tinted_glass.json
 ```
 {
-  "title": "Tinted Seared Glass",
+  "title": "Tinted Горілий Glass",
   "item": "tconstruct:seared_tinted_glass",
   "text": [
     {
@@ -3668,7 +3668,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/gui2.js
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/searedglass.json
 ```
 {
-  "title": "Seared Glass",
+  "title": "Горілий Glass",
   "item": "tconstruct:seared_glass",
   "text": [
     {
@@ -3723,7 +3723,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/alloyin
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_drain.json
 ```
 {
-  "title": "Seared Drain",
+  "title": "Горілий Drain",
   "item": "tconstruct:seared_drain",
   "text": [
     {
@@ -3741,7 +3741,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/seared_
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/smeltery/searedladder.json
 ```
 {
-  "title": "Seared Ladder",
+  "title": "Горілий Ladder",
   "item": "tconstruct:seared_ladder",
   "text": [
     {
@@ -5041,8 +5041,8 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/entitymelting/no
 {
   "title":"Notable Entities",
   "text": [
-    { "text": "• Silverfish - Seared Stone" },
-    { "text": "\n• Villagers and Illagers - Emerald" },
+    { "text": "• Silverfish - Горілий Stone" },
+    { "text": "\n• Villagers and Illagers - смарагд" },
     { "text": "\n• Skeletons - Milk" },
     { "text": "\n• Perhaps there are even more to discover." }
   ]
@@ -10438,7 +10438,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/general/t
   "modifier_id": "tconstruct:diamond",
   "text": [
     {
-      "text": "Diamonds are forever!"
+      "text": "діамантs are forever!"
     }
   ],
   "effects": [
@@ -10962,7 +10962,7 @@ armor_materials.subtext=These materials can be casted into armor and shields.
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorched_drain.json
 ```
 {
-  "title": "Scorched Drain",
+  "title": "Обпалений Drain",
   "item": "tconstruct:scorched_drain",
  "text": [
     {
@@ -11004,7 +11004,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/struct
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/soul_glass.json
 ```
 {
-  "title": "Scorched Soul Glass",
+  "title": "Обпалений Soul Glass",
   "item": "tconstruct:scorched_soul_glass",
   "text": [
     {
@@ -11051,7 +11051,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/index.
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/tanks.json
 ```
 {
-  "title": "Scorched Tanks",
+  "title": "Обпалений Tanks",
   "item": {
     "tag": "tconstruct:scorched_tanks"
   },
@@ -11071,7 +11071,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/tanks.
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorched_chute.json
 ```
 {
-  "title": "Scorched Chute",
+  "title": "Обпалений Chute",
   "item": "tconstruct:scorched_chute",
   "text": [
     {
@@ -11085,7 +11085,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorch
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/tinted_glass.json
 ```
 {
-  "title": "Tinted Scorched Glass",
+  "title": "Tinted Обпалений Glass",
   "item": "tconstruct:scorched_tinted_glass",
   "text": [
     {
@@ -11121,7 +11121,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/gui1.j
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorchedglass.json
 ```
 {
-  "title": "Scorched Glass",
+  "title": "Обпалений Glass",
   "item": "tconstruct:scorched_glass",
   "text": [
     {
@@ -11179,7 +11179,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/byprod
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorchedladder.json
 ```
 {
-  "title": "Scorched Ladder",
+  "title": "Обпалений Ladder",
   "item": "tconstruct:scorched_ladder",
   "text": [
     {
@@ -11210,7 +11210,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/featur
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorchedblocks.json
 ```
 {
-  "title": "Scorched Blocks",
+  "title": "Обпалений Blocks",
   "item": {
     "tag": "tconstruct:scorched_blocks"
   },
@@ -11226,7 +11226,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorch
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/foundry/scorched_duct.json
 ```
 {
-  "title": "Scorched Duct",
+  "title": "Обпалений Duct",
   "item": "tconstruct:scorched_duct",
   "text": [
     {
@@ -12533,11 +12533,11 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/glowbal
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/quartz_shuriken.json
 ```
 {
-  "title": "Quartz Shuriken",
+  "title": "Кварц Shuriken",
   "item": "tconstruct:quartz_shuriken",
   "text": [
     {
-      "text": "Quartz is far lighter than flint, and far sharper. Shurikens carved from quartz I was finding were causing monsters much more damage, though less knockback.",
+      "text": "Кварц is far lighter than flint, and far sharper. Shurikens carved from quartz I was finding were causing monsters much more damage, though less knockback.",
       "paragraph": true
     }
   ]
@@ -12579,7 +12579,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/fancy_f
     { "text": "\n" },
     { "text": "• Gold: Gradually rotates the item automatically. Crafting with a redstone torch reverses the direction." },
     { "text": "\n" },
-    { "text": "• Diamond: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame." },
+    { "text": "• Діамант: Gradually reduces the rotation until the item is upright. Supports more rotations than a standard frame." },
     { "text": "\n" },
     { "text": "• Майнулин: Always appears fully lit, even in darkness." },
     { "text": "\n" },
