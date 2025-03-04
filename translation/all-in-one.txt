@@ -703,10 +703,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "fluid.tconstruct.flowing_molten_soulsteel": "Потік розплавленої сталі душі",
   "item.tconstruct.molten_soulsteel_bucket": "Відро розплавленої сталі душі",
 
-  "block.tconstruct.molten_netherite_fluid": "Розплавлений Netherite",
-  "fluid.tconstruct.molten_netherite": "Розплавлений Netherite",
-  "fluid.tconstruct.flowing_molten_netherite": "Потік Розплавлений Netherite",
-  "item.tconstruct.molten_netherite_bucket": "Відро Розплавлений Netherite",
+  "block.tconstruct.molten_netherite_fluid": "Розплавлений незерит",
+  "fluid.tconstruct.molten_netherite": "Розплавлений незерит",
+  "fluid.tconstruct.flowing_molten_netherite": "Потік розплавленого незериту",
+  "item.tconstruct.molten_netherite_bucket": "Відро розплавленого незериту",
 
   "block.tconstruct.molten_knightslime_fluid": "Розплавлений лицареслиз",
   "fluid.tconstruct.molten_knightslime": "Розплавлений лицареслиз",
