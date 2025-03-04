@@ -3,18 +3,18 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 {
   "_comment": "Tinkers Common",
 
-  "block.tconstruct.sky_slime": "Блок небослизу",
+  "block.tconstruct.sky_slime": "Блок слизу неба",
   "block.tconstruct.sky_slime.tooltip": "Липне як до слизу, так і до меду",
   "block.tconstruct.ichor_slime": "Блок іхору",
   "block.tconstruct.ichor_slime.tooltip": "Липне до всього липкого, крім самого іхору",
-  "block.tconstruct.ender_slime": "Блок ендерслизу",
+  "block.tconstruct.ender_slime": "Блок слизу Енду",
   "block.tconstruct.ender_slime.tooltip": "Липкий, якщо штовхати, але не з липкими блоками",
 
   "block.tconstruct.earth_congealed_slime": "Застиглий блок слизу",
   "block.tconstruct.earth_congealed_slime.tooltip": "Підкидує дуже високо",
-  "block.tconstruct.sky_congealed_slime": "Застиглий блок небослизу",
+  "block.tconstruct.sky_congealed_slime": "Застиглий блок слизу неба",
   "block.tconstruct.sky_congealed_slime.tooltip": "Підкидує дуже високо",
-  "block.tconstruct.ender_congealed_slime": "Застиглий блок ендерслизу",
+  "block.tconstruct.ender_congealed_slime": "Застиглий блок слизу Енда",
   "block.tconstruct.ender_congealed_slime.tooltip": "Підкидує дуже високо",
   "block.tconstruct.ichor_congealed_slime": "Застиглий іхор",
   "block.tconstruct.ichor_congealed_slime.tooltip": "Підкидує дуже високо",
@@ -190,8 +190,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.fantastic_foundry": "Потужне виплавляння",
   "item.tconstruct.fantastic_foundry.tooltip": "Найгарячіші технології з плавлення металів\nвід Немея",
 
-  "item.tconstruct.sky_slime_ball": "Небослизовова кулька",
-  "item.tconstruct.ender_slime_ball": "Ендерслизова кулька",
+  "item.tconstruct.sky_slime_ball": "Слизова кулька неба",
+  "item.tconstruct.ender_slime_ball": "Слизова кулька Енду",
   "item.tconstruct.ichor_slime_ball": "Іхорова кулька",
 
   "item.tconstruct.bacon": "Бекон",
@@ -199,21 +199,21 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.cheese_block": "Блок сиру",
   "item.tconstruct.cheese.tooltip": "Прибирає довільний ефект",
 
-  "item.tconstruct.earth_slime_crystal": "Землеслизовий кристал",
-  "block.tconstruct.earth_slime_crystal_block": "Блок землеслизового кристалу",
-  "block.tconstruct.small_earth_slime_crystal_bud": "Малий зародок землеслизового кристалу",
-  "block.tconstruct.medium_earth_slime_crystal_bud": "Середній зародок землеслизового кристалу",
-  "block.tconstruct.large_earth_slime_crystal_bud": "Великий зародок землеслизового кристалу",
-  "block.tconstruct.earth_slime_crystal_cluster": "Землеслизова кристальна друза",
-  "block.tconstruct.budding_earth_slime_crystal": "Родючий землеслизовий кристал",
+  "item.tconstruct.earth_slime_crystal": "Слизовий кристал",
+  "block.tconstruct.earth_slime_crystal_block": "Блок слизового кристалу",
+  "block.tconstruct.small_earth_slime_crystal_bud": "Малий зародок слизового кристалу",
+  "block.tconstruct.medium_earth_slime_crystal_bud": "Середній зародок слизового кристалу",
+  "block.tconstruct.large_earth_slime_crystal_bud": "Великий зародок слизового кристалу",
+  "block.tconstruct.earth_slime_crystal_cluster": "Слизова кристальна друза",
+  "block.tconstruct.budding_earth_slime_crystal": "Родючий слизовий кристал",
 
-  "item.tconstruct.sky_slime_crystal": "Небослизовий кристал",
-  "block.tconstruct.sky_slime_crystal_block": "Блок небослизового кристалу",
-  "block.tconstruct.small_sky_slime_crystal_bud": "Малий зародок небослизового кристалу",
-  "block.tconstruct.medium_sky_slime_crystal_bud": "Середній зародок небослизового кристалу",
-  "block.tconstruct.large_sky_slime_crystal_bud": "Великий зародок небослизового кристалу",
-  "block.tconstruct.sky_slime_crystal_cluster": "Небослизова кристальна друза",
-  "block.tconstruct.budding_sky_slime_crystal": "Родючий небослизовий кристал",
+  "item.tconstruct.sky_slime_crystal": "Слизовий кристал неба",
+  "block.tconstruct.sky_slime_crystal_block": "Блок слизового кристалу неба",
+  "block.tconstruct.small_sky_slime_crystal_bud": "Малий зародок слизового кристалу неба",
+  "block.tconstruct.medium_sky_slime_crystal_bud": "Середній зародок слизового кристалу неба",
+  "block.tconstruct.large_sky_slime_crystal_bud": "Великий зародок слизового кристалу неба",
+  "block.tconstruct.sky_slime_crystal_cluster": "Слизова кристальна друза неба",
+  "block.tconstruct.budding_sky_slime_crystal": "Родючий слизовий кристал неба",
 
   "item.tconstruct.ichor_slime_crystal": "Іхоровий кристал",
   "block.tconstruct.ichor_slime_crystal_block": "Блок іхорового кристалу",
@@ -223,13 +223,13 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.ichor_slime_crystal_cluster": "Іхорова кристальна друза",
   "block.tconstruct.budding_ichor_slime_crystal": "Родючий іхоровий кристал",
 
-  "item.tconstruct.ender_slime_crystal": "Ендерслизовий кристал",
-  "block.tconstruct.ender_slime_crystal_block": "Блок ендерслизового кристалу",
-  "block.tconstruct.small_ender_slime_crystal_bud": "Малий зародок ендерслизового кристалу",
-  "block.tconstruct.medium_ender_slime_crystal_bud": "Середній зародок ендерслизового кристалу",
-  "block.tconstruct.large_ender_slime_crystal_bud": "Великий зародок ендерслизового кристалу",
-  "block.tconstruct.ender_slime_crystal_cluster": "Ендерслизова кристальна друза",
-  "block.tconstruct.budding_ender_slime_crystal": "Родючий ендерслизовий кристал",
+  "item.tconstruct.ender_slime_crystal": "Слизовий кристал Енду",
+  "block.tconstruct.ender_slime_crystal_block": "Блок слизового кристалу Енду",
+  "block.tconstruct.small_ender_slime_crystal_bud": "Малий зародок слизового кристалу Енду",
+  "block.tconstruct.medium_ender_slime_crystal_bud": "Середній зародок слизового кристалу Енду",
+  "block.tconstruct.large_ender_slime_crystal_bud": "Великий зародок слизового кристалу Енду",
+  "block.tconstruct.ender_slime_crystal_cluster": "слизова кристальна друза Енду",
+  "block.tconstruct.budding_ender_slime_crystal": "Родючий слизовий кристал Енду",
 
   "item.tconstruct.emerald_reinforcement": "Смарагдове посилення",
   "item.tconstruct.emerald_reinforcement.tooltip": "Зменшує шанс ламання інструменту",
@@ -535,11 +535,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.earth_slime_bucket": "Відро слизу",
   "item.tconstruct.earth_slime_bottle": "Пляшка слизу",
 
-  "block.tconstruct.sky_slime_fluid": "Небослиз",
-  "fluid.tconstruct.sky_slime": "Небослиз",
-  "fluid.tconstruct.flowing_sky_slime": "Потік небослизу",
-  "item.tconstruct.sky_slime_bucket": "Відро небослизу",
-  "item.tconstruct.sky_slime_bottle": "Пляшка небослизу",
+  "block.tconstruct.sky_slime_fluid": "Слиз неба",
+  "fluid.tconstruct.sky_slime": "Слиз неба",
+  "fluid.tconstruct.flowing_sky_slime": "Потік слизу неба",
+  "item.tconstruct.sky_slime_bucket": "Відро слизу неба",
+  "item.tconstruct.sky_slime_bottle": "Пляшка слизу неба",
 
   "block.tconstruct.magma_fluid": "Магма",
   "fluid.tconstruct.magma": "Магма",
@@ -547,11 +547,11 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.magma_bucket": "Відро магми",
   "item.tconstruct.magma_bottle": "Пляшка магми",
 
-  "block.tconstruct.ender_slime_fluid": "Ендерслиз",
-  "fluid.tconstruct.ender_slime": "Ендерслиз",
-  "fluid.tconstruct.flowing_ender_slime": "Потік ендерслизу",
-  "item.tconstruct.ender_slime_bucket": "Відро ендерслизу",
-  "item.tconstruct.ender_slime_bottle": "Пляшка ендерслизу",
+  "block.tconstruct.ender_slime_fluid": "Слиз Енду",
+  "fluid.tconstruct.ender_slime": "Слиз Енду",
+  "fluid.tconstruct.flowing_ender_slime": "Потік слизу Енду",
+  "item.tconstruct.ender_slime_bucket": "Відро слизу Енду",
+  "item.tconstruct.ender_slime_bottle": "Пляшка слизу Енду",
 
   "block.tconstruct.venom_fluid": "Отрута",
   "fluid.tconstruct.venom": "Отрута",
@@ -678,40 +678,40 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tier 4 Alloys",
 
-  "block.tconstruct.molten_manyullyn_fluid": "Розплавлений Майнулин",
-  "fluid.tconstruct.molten_manyullyn": "Розплавлений Майнулин",
-  "fluid.tconstruct.flowing_molten_manyullyn": "Потік Розплавлений Майнулин",
-  "item.tconstruct.molten_manyullyn_bucket": "Відро Розплавлений Майнулин",
+  "block.tconstruct.molten_manyullyn_fluid": "Розплавлений майнулин",
+  "fluid.tconstruct.molten_manyullyn": "Розплавлений майнулин",
+  "fluid.tconstruct.flowing_molten_manyullyn": "Потік розплавленого майнулину",
+  "item.tconstruct.molten_manyullyn_bucket": "Відро розплавленого майнулину",
 
-  "block.tconstruct.molten_hepatizon_fluid": "Розплавлений Гепатізон",
-  "fluid.tconstruct.molten_hepatizon": "Розплавлений Гепатізон",
-  "fluid.tconstruct.flowing_molten_hepatizon": "Потік Розплавлений Гепатізон",
-  "item.tconstruct.molten_hepatizon_bucket": "Відро Розплавлений Гепатізон",
+  "block.tconstruct.molten_hepatizon_fluid": "Розплавлений гепатізон",
+  "fluid.tconstruct.molten_hepatizon": "Розплавлений гепатізон",
+  "fluid.tconstruct.flowing_molten_hepatizon": "Потік розплавленого гепатізону",
+  "item.tconstruct.molten_hepatizon_bucket": "Відро розплавленого гепатізону",
 
-  "block.tconstruct.molten_cinderslime_fluid": "Розплавлений Золеслиз",
-  "fluid.tconstruct.molten_cinderslime": "Розплавлений Золеслиз",
-  "fluid.tconstruct.flowing_molten_cinderslime": "Потік Розплавлений Золеслиз",
-  "item.tconstruct.molten_cinderslime_bucket": "Відро Розплавлений Золеслиз",
+  "block.tconstruct.molten_cinderslime_fluid": "Розплавлений золеслиз",
+  "fluid.tconstruct.molten_cinderslime": "Розплавлений золеслиз",
+  "fluid.tconstruct.flowing_molten_cinderslime": "Потік розплавленого золеслизу",
+  "item.tconstruct.molten_cinderslime_bucket": "Відро розплавленого золеслизу",
 
-  "block.tconstruct.molten_queens_slime_fluid": "Розплавлений Королевський слиз",
-  "fluid.tconstruct.molten_queens_slime": "Розплавлений Королевський слиз",
-  "fluid.tconstruct.flowing_molten_queens_slime": "Потік Розплавлений Королевський слиз",
-  "item.tconstruct.molten_queens_slime_bucket": "Відро Розплавлений Королевський слиз",
+  "block.tconstruct.molten_queens_slime_fluid": "Розплавлений королевський слиз",
+  "fluid.tconstruct.molten_queens_slime": "Розплавлений королевський слиз",
+  "fluid.tconstruct.flowing_molten_queens_slime": "Потік розплавленого королевського слизу",
+  "item.tconstruct.molten_queens_slime_bucket": "Відро розплавленого королевського слизу",
 
-  "block.tconstruct.molten_soulsteel_fluid": "Розплавлений Сталь душі",
-  "fluid.tconstruct.molten_soulsteel": "Розплавлений Сталь душі",
-  "fluid.tconstruct.flowing_molten_soulsteel": "Потік Розплавлений Сталь душі",
-  "item.tconstruct.molten_soulsteel_bucket": "Відро Розплавлений Сталь душі",
+  "block.tconstruct.molten_soulsteel_fluid": "Розплавлена сталь душі",
+  "fluid.tconstruct.molten_soulsteel": "Розплавлена сталь душі",
+  "fluid.tconstruct.flowing_molten_soulsteel": "Потік розплавленої сталі душі",
+  "item.tconstruct.molten_soulsteel_bucket": "Відро розплавленої сталі душі",
 
   "block.tconstruct.molten_netherite_fluid": "Розплавлений Netherite",
   "fluid.tconstruct.molten_netherite": "Розплавлений Netherite",
   "fluid.tconstruct.flowing_molten_netherite": "Потік Розплавлений Netherite",
   "item.tconstruct.molten_netherite_bucket": "Відро Розплавлений Netherite",
 
-  "block.tconstruct.molten_knightslime_fluid": "Розплавлений Лицареслиз",
-  "fluid.tconstruct.molten_knightslime": "Розплавлений Лицареслиз",
-  "fluid.tconstruct.flowing_molten_knightslime": "Потік Розплавлений Лицареслиз",
-  "item.tconstruct.molten_knightslime_bucket": "Відро Розплавлений Лицареслиз",
+  "block.tconstruct.molten_knightslime_fluid": "Розплавлений лицареслиз",
+  "fluid.tconstruct.molten_knightslime": "Розплавлений лицареслиз",
+  "fluid.tconstruct.flowing_molten_knightslime": "Потік розплавленого лицареслизу",
+  "item.tconstruct.molten_knightslime_bucket": "Відро розплавленого лицареслизу",
 
   "_comment": "Compat Ores",
 
@@ -854,12 +854,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.flint_shuriken": "Flint Shuriken",
   "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
 
-  "block.tconstruct.earth_cake": "Землеслиз Cake",
-  "block.tconstruct.sky_cake":   "Небослизовий Cake",
-  "block.tconstruct.ichor_cake": "Іхор Cake",
-  "block.tconstruct.ender_cake": "ендерслиз Cake",
-  "block.tconstruct.blood_cake": "Blood Cake",
-  "block.tconstruct.magma_cake": "Magma Cake",
+  "block.tconstruct.earth_cake": "Торт зі слизу",
+  "block.tconstruct.sky_cake":   "Торт зі слизу неба",
+  "block.tconstruct.ichor_cake": "Торт із іхору",
+  "block.tconstruct.ender_cake": "Торт зі слизу Енду",
+  "block.tconstruct.blood_cake": "Торт із крові",
+  "block.tconstruct.magma_cake": "Торт із магми",
 
   "item.tconstruct.piggy_backpack": "Piggybackpack",
   "item.tconstruct.piggy_backpack.tooltip": "Use on a mob to pick it up",
@@ -927,10 +927,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.longbow": "Longbow",
 
   "item.tconstruct.flint_and_brick": "Flint and Brick",
-  "item.tconstruct.sky_staff": "Небослизовий Staff",
-  "item.tconstruct.earth_staff": "Землеслиз Staff",
+  "item.tconstruct.sky_staff": "Слиз неба Staff",
+  "item.tconstruct.earth_staff": "Слиз Staff",
   "item.tconstruct.ichor_staff": "Іхор Staff",
-  "item.tconstruct.ender_staff": "ендерслиз Staff",
+  "item.tconstruct.ender_staff": "Слиз Енду Staff",
   
   "item.tconstruct.melting_pan": "Melting Pan",
   "item.tconstruct.battlesign": "Battlesign",
@@ -1289,44 +1289,44 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers World",
 
-  "entity.tconstruct.earth_slime": "Землеслиз",
-  "item.tconstruct.earth_slime_spawn_egg": "Землеслиз Spawn Egg",
-  "entity.tconstruct.sky_slime": "Небослизовий",
-  "item.tconstruct.sky_slime_spawn_egg": "Небослизовий Spawn Egg",
-  "entity.tconstruct.ender_slime": "ендерслиз",
-  "item.tconstruct.ender_slime_spawn_egg": "ендерслиз Spawn Egg",
+  "entity.tconstruct.earth_slime": "Слиз",
+  "item.tconstruct.earth_slime_spawn_egg": "Слиз Spawn Egg",
+  "entity.tconstruct.sky_slime": "Слиз неба",
+  "item.tconstruct.sky_slime_spawn_egg": "Слиз неба Spawn Egg",
+  "entity.tconstruct.ender_slime": "Слиз Енду",
+  "item.tconstruct.ender_slime_spawn_egg": "Слиз Енду Spawn Egg",
   "entity.tconstruct.terracube": "Terracube",
   "item.tconstruct.terracube_spawn_egg": "Terracube Spawn Egg",
 
-  "block.tconstruct.earth_slime_dirt": "Землеслиз Dirt",
+  "block.tconstruct.earth_slime_dirt": "Слиз Dirt",
   "block.tconstruct.earth_slime_dirt.tooltip": "Slimy, but lets you jump higher",
-  "block.tconstruct.sky_slime_dirt": "Небослизовий Dirt",
+  "block.tconstruct.sky_slime_dirt": "Слиз неба Dirt",
   "block.tconstruct.sky_slime_dirt.tooltip": "Slimy, but lets you jump higher",
   "block.tconstruct.ichor_slime_dirt": "Іхор Dirt",
   "block.tconstruct.ichor_slime_dirt.tooltip": "Slimy, but lets you jump higher",
-  "block.tconstruct.ender_slime_dirt": "ендерслиз Dirt",
+  "block.tconstruct.ender_slime_dirt": "Слиз Енду Dirt",
   "block.tconstruct.ender_slime_dirt.tooltip": "Slimy, but lets you jump higher",
 
-  "block.tconstruct.earth_vanilla_slime_grass": "Землеслиз Grass",
+  "block.tconstruct.earth_vanilla_slime_grass": "Слиз Grass",
   "block.tconstruct.earth_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_earth_slime_grass": "Землеслиз Grass",
+  "block.tconstruct.earth_earth_slime_grass": "Слиз Grass",
   "block.tconstruct.earth_earth_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_sky_slime_grass": "Землеслиз Grass",
+  "block.tconstruct.earth_sky_slime_grass": "Слиз Grass",
   "block.tconstruct.earth_sky_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_ichor_slime_grass": "Землеслиз Grass",
+  "block.tconstruct.earth_ichor_slime_grass": "Слиз Grass",
   "block.tconstruct.earth_ichor_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
-  "block.tconstruct.earth_ender_slime_grass": "Землеслиз Grass",
+  "block.tconstruct.earth_ender_slime_grass": "Слиз Grass",
   "block.tconstruct.earth_ender_slime_grass.tooltip": "Lets you jump higher and spawns earthslimes in the overworld",
 
-  "block.tconstruct.sky_vanilla_slime_grass": "Небослизовий Grass",
+  "block.tconstruct.sky_vanilla_slime_grass": "Слиз неба Grass",
   "block.tconstruct.sky_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_earth_slime_grass": "Небослизовий Grass",
+  "block.tconstruct.sky_earth_slime_grass": "Слиз неба Grass",
   "block.tconstruct.sky_earth_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_sky_slime_grass": "Небослизовий Grass",
+  "block.tconstruct.sky_sky_slime_grass": "Слиз неба Grass",
   "block.tconstruct.sky_sky_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_ichor_slime_grass": "Небослизовий Grass",
+  "block.tconstruct.sky_ichor_slime_grass": "Слиз неба Grass",
   "block.tconstruct.sky_ichor_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
-  "block.tconstruct.sky_ender_slime_grass": "Небослизовий Grass",
+  "block.tconstruct.sky_ender_slime_grass": "Слиз неба Grass",
   "block.tconstruct.sky_ender_slime_grass.tooltip": "Lets you jump higher and spawns skyslimes in the overworld",
 
   "block.tconstruct.blood_vanilla_slime_grass": "Bloody Nylium",
@@ -1351,26 +1351,26 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.ichor_ender_slime_grass": "Іхор Nylium",
   "block.tconstruct.ichor_ender_slime_grass.tooltip": "So soft! Lets you jump higher",
 
-  "block.tconstruct.ender_vanilla_slime_grass": "ендерслиз Grass",
+  "block.tconstruct.ender_vanilla_slime_grass": "Слиз Енду Grass",
   "block.tconstruct.ender_vanilla_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_earth_slime_grass": "ендерслиз Grass",
+  "block.tconstruct.ender_earth_slime_grass": "Слиз Енду Grass",
   "block.tconstruct.ender_earth_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_sky_slime_grass": "ендерслиз Grass",
+  "block.tconstruct.ender_sky_slime_grass": "Слиз Енду Grass",
   "block.tconstruct.ender_sky_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_ichor_slime_grass": "ендерслиз Grass",
+  "block.tconstruct.ender_ichor_slime_grass": "Слиз Енду Grass",
   "block.tconstruct.ender_ichor_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
-  "block.tconstruct.ender_ender_slime_grass": "ендерслиз Grass",
+  "block.tconstruct.ender_ender_slime_grass": "Слиз Енду Grass",
   "block.tconstruct.ender_ender_slime_grass.tooltip": "Lets you jump higher and spawns enderslimes in the end",
 
-  "item.tconstruct.earth_slime_grass_seeds": "Землеслиз Seeds",
+  "item.tconstruct.earth_slime_grass_seeds": "Слиз Seeds",
   "item.tconstruct.earth_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass",
-  "item.tconstruct.sky_slime_grass_seeds": "Небослизовий Seeds",
+  "item.tconstruct.sky_slime_grass_seeds": "Слиз неба Seeds",
   "item.tconstruct.sky_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass, or on vines to get slimy vines",
   "item.tconstruct.blood_slime_grass_seeds": "Bloody Seeds",
   "item.tconstruct.blood_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy nylium",
   "item.tconstruct.ichor_slime_grass_seeds": "Іхор Seeds",
   "item.tconstruct.ichor_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy nylium",
-  "item.tconstruct.ender_slime_grass_seeds": "ендерслиз Seeds",
+  "item.tconstruct.ender_slime_grass_seeds": "Слиз Енду Seeds",
   "item.tconstruct.ender_slime_grass_seeds.tooltip": "Plant on dirt or slimy dirt to make slimy grass, or on vines to get slimy vines",
 
   "block.tconstruct.earth_slime_leaves": "Slimy Leaves",
@@ -1742,12 +1742,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.obsidian.armor": "Grants 10% protection per level against explosions, and reduces explosion knockback",
   "material.tconstruct.debris":     "Debris",
   "material.tconstruct.netherite":  "Netherite",
-  "material.tconstruct.earthslime": "Землеслиз",
+  "material.tconstruct.earthslime": "Слиз",
   "material.tconstruct.skyslime":   "Небослиз",
   "material.tconstruct.blood":      "Blood",
   "material.tconstruct.magma":      "Magma",
   "material.tconstruct.ichor":      "Іхор",
-  "material.tconstruct.enderslime": "Ендерслиз",
+  "material.tconstruct.enderslime": "Слиз Енду",
   "material.tconstruct.clay":       "Clay",
   "material.tconstruct.honey":      "Мед",
   "material.tconstruct.venom":      "Отрута",
@@ -2025,10 +2025,10 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.crystalshot.flavor": "Holding arrows is overrated",
   "modifier.tconstruct.crystalshot.description": "In place of arrows, fires shards of crystal grown from the bow itself. Growing crystals consumes extra durability",
   "modifier.tconstruct.crystalshot.amethyst": "Аметист",
-  "modifier.tconstruct.crystalshot.earthslime": "Землеслиз",
-  "modifier.tconstruct.crystalshot.skyslime": "Небослизовий",
+  "modifier.tconstruct.crystalshot.earthslime": "Слиз",
+  "modifier.tconstruct.crystalshot.skyslime": "Слиз неба",
   "modifier.tconstruct.crystalshot.ichor": "Іхор",
-  "modifier.tconstruct.crystalshot.enderslime": "ендерслиз",
+  "modifier.tconstruct.crystalshot.enderslime": "Слиз Енду",
   "modifier.tconstruct.crystalshot.quartz": "кварц",
   "modifier.tconstruct.crystalshot.random": "Random",
   "modifier.tconstruct.multishot": "Multishot",
@@ -3011,7 +3011,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "book.tconstruct.material.part_builder": "Can be made in the part builder",
   "book.tconstruct.material.cast_from": "Can be casted from %s in casts",
   "book.tconstruct.material.composite_from": "Can be casted from %s on %s parts",
-  "book.tconstruct.material.skull_from": "Can be created from casting ендерслиз on a %s in a котел",
+  "book.tconstruct.material.skull_from": "Can be created from casting Слиз Енду on a %s in a котел",
   "book.tconstruct.modifiers.effect": "Effects:",
   "book.tconstruct.tool.properties": "Properties:",
 
@@ -3201,13 +3201,13 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "_comment": "Gadget Advancements",
   "advancements.tconstruct.world.tinkers_gadgetry.title": "Лудильник's Gadgetry",
   "advancements.tconstruct.world.tinkers_gadgetry.description": "Craft Лудильник's Gadgetry to begin exploring the world",
-  "advancements.tconstruct.world.earth_island.title": "Землеслиз Island",
+  "advancements.tconstruct.world.earth_island.title": "Слиз Island",
   "advancements.tconstruct.world.earth_island.description": "Locate an earthslime island in the ocean",
-  "advancements.tconstruct.world.sky_island.title": "Небослизовий Island",
+  "advancements.tconstruct.world.sky_island.title": "Слиз неба Island",
   "advancements.tconstruct.world.sky_island.description": "Locate a skyslime island in the sky",
   "advancements.tconstruct.world.blood_island.title": "Blood Island",
   "advancements.tconstruct.world.blood_island.description": "Locate a blood island in the nether lava ocean",
-  "advancements.tconstruct.world.ender_island.title": "ендерслиз Island",
+  "advancements.tconstruct.world.ender_island.title": "Слиз Енду Island",
   "advancements.tconstruct.world.ender_island.description": "Locate an enderslime island in the end outer islands",
   "advancements.tconstruct.world.slimesuit.title": "Slimesuit",
   "advancements.tconstruct.world.slimesuit.description": "Create a full slimesuit",
@@ -6326,10 +6326,10 @@ tools.group_small=Small Tools
 tools.group_large=Broad Tools
 tools.group_ancient=Ancient Tools
 tools.group_staff=Staffs
-tools.tconstruct.earth_staff=Землеслиз
-tools.tconstruct.sky_staff=Небослизовий
+tools.tconstruct.earth_staff=Слиз
+tools.tconstruct.sky_staff=Слиз неба
 tools.tconstruct.ichor_staff=Іхор
-tools.tconstruct.ender_staff=ендерслиз
+tools.tconstruct.ender_staff=Слиз Енду
 armor=Armor
 
 materials_harvest=Melee Harvest Materials
@@ -6806,7 +6806,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:earth_staff",
   "text": [
-    { "text": "Землеслиз Staff is a high defense  and accuracy staff variant." }
+    { "text": "Слиз Staff is a high defense  and accuracy staff variant." }
   ],
   "properties": [
     "800 Durability",
@@ -6826,7 +6826,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:ender_staff",
   "text": [
-    { "text": "ендерслиз Staff is a high reach and power staff variant. " }
+    { "text": "Слиз Енду Staff is a high reach and power staff variant. " }
   ],
   "properties": [
     "1520 Durability",
@@ -6863,7 +6863,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff/tconstr
 {
   "tool": "tconstruct:sky_staff",
   "text": [
-    { "text": "Небослизовий Staff is a highly upgradable and fast staff variant." }
+    { "text": "Слиз неба Staff is a highly upgradable and fast staff variant." }
   ],
   "properties": [
     "375 Durability",
@@ -7012,7 +7012,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/slotless/bonus/tcon
       "text": "Grants +1 modifier slot; type is determined by the recipe. Applying +1 ability slot makes the tool lose 1 upgrade slot.."
     },
     {
-      "text": "ендерслиз increases the level of one of the tool traits, typically the head trait.", "paragraph": true
+      "text": "Слиз Енду increases the level of one of the tool traits, typically the head trait.", "paragraph": true
     }
   ],
   "more_text_space": true,
@@ -8946,7 +8946,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/slotless/bonus/tco
     "Adds a modifier slot",
     "Ячейка type is determined by the recipe",
     "Greedy are penalized",
-    "ендерслиз adds a trait",
+    "Слиз Енду adds a trait",
     "Single level"
   ]
 }
@@ -12066,7 +12066,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/nec
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/skyslime.json
 ```
 {
-  "title": "Небослизовий Islands",
+  "title": "Слиз неба Islands",
   "image": {
     "file": "tconstruct:book/images/islands/skyslime.png",
     "width": 180,
@@ -12074,7 +12074,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "Небослизовий islands can be found around the overworld floating above the terrain, and contain grass which is essential for skyslime breeding. Legend tells that skyslimes were invaders from another realm, though they are mostly confined to areas near the islands."
+      "text": "Слиз неба islands can be found around the overworld floating above the terrain, and contain grass which is essential for skyslime breeding. Legend tells that skyslimes were invaders from another realm, though they are mostly confined to areas near the islands."
     }
   ]
 }
@@ -12100,7 +12100,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/enderslime.json
 ```
 {
-  "title": "ендерслиз Islands",
+  "title": "Слиз Енду Islands",
   "image": {
     "file": "tconstruct:book/images/islands/enderslime.png",
     "width": 180,
@@ -12108,7 +12108,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "ендерслиз islands can be found around the outer islands in the end as a breeding ground for enderslimes. I believe skyslimes and enderslimes were once the same before they came to our world, but living in their separate environments changed them."
+      "text": "Слиз Енду islands can be found around the outer islands in the end as a breeding ground for enderslimes. I believe skyslimes and enderslimes were once the same before they came to our world, but living in their separate environments changed them."
     }
   ]
 }
@@ -12134,7 +12134,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/island/earthslime.json
 ```
 {
-  "title": "Землеслиз Islands",
+  "title": "Слиз Islands",
   "image": {
 	"file": "tconstruct:book/images/islands/earthslime.png",
     "width": 180,
@@ -12142,7 +12142,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
   },
   "text": [
     {
-      "text": "Землеслиз islands are sometimes found in the overworld oceans, appearing less alien than their skyslime cousins. They are not the only way to find the common green variant of slime, though the grass causes them to appear much more commonly."
+      "text": "Слиз islands are sometimes found in the overworld oceans, appearing less alien than their skyslime cousins. They are not the only way to find the common green variant of slime, though the grass causes them to appear much more commonly."
     }
   ]
 }
@@ -12151,7 +12151,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/isl
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/skyslime.json
 ```
 {
-  "title": "Небослизовий Geodes",
+  "title": "Слиз неба Geodes",
   "image": {
     "file": "tconstruct:book/images/geodes/skyslime.png",
     "width": 180,
@@ -12159,7 +12159,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Небослизовий geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. These geodes seem to promote growth of certain varieties of moss nearby."
+      "text": "Слиз неба geodes are found in caves near the surface, and rarely even I have seen one on the surface leading me to believe they might have origins in space. These geodes seem to promote growth of certain varieties of moss nearby."
     }
   ]
 }
@@ -12168,7 +12168,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/enderslime.json
 ```
 {
-  "title": "ендерслиз Geodes",
+  "title": "Слиз Енду Geodes",
   "image": {
     "file": "tconstruct:book/images/geodes/enderslime.png",
     "width": 180,
@@ -12176,7 +12176,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "ендерслиз geodes can be found around the outer islands in the end, both underground and floating on their own. Sometimes it's hard to tell a geode apart from the other rocks floating in that sky."
+      "text": "Слиз Енду geodes can be found around the outer islands in the end, both underground and floating on their own. Sometimes it's hard to tell a geode apart from the other rocks floating in that sky."
     }
   ]
 }
@@ -12202,7 +12202,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geode/earthslime.json
 ```
 {
-  "title": "Землеслиз Geodes",
+  "title": "Слиз Geodes",
   "image": {
 	"file": "tconstruct:book/images/geodes/earthslime.png",
     "width": 180,
@@ -12210,7 +12210,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/exploration/geo
   },
   "text": [
     {
-      "text": "Землеслиз geodes are located deep underground, and can be some of the largest geodes I have seen. You can often identify them by the presence of clay."
+      "text": "Слиз geodes are located deep underground, and can be some of the largest geodes I have seen. You can often identify them by the presence of clay."
     }
   ]
 }
@@ -12664,16 +12664,16 @@ modifiers=Odd Зміни
 exploration=Exploration
 exploration.necrotic_bones=Візер кістка
 
-exploration.skyslime_island=Небослизовий
-exploration.earthslime_island=Землеслиз
-exploration.clay_island=Clay
-exploration.blood_island=Blood
-exploration.enderslime_island=ендерслиз
+exploration.skyslime_island=Слиз неба
+exploration.earthslime_island=Слиз
+exploration.clay_island=Глина
+exploration.blood_island=Кров
+exploration.enderslime_island=Слиз Енду
 
-exploration.skyslime_geode=Небослизовий
-exploration.earthslime_geode=Землеслиз
+exploration.skyslime_geode=Слиз неба
+exploration.earthslime_geode=Слиз
 exploration.ichor_geode=Іхор
-exploration.enderslime_geode=ендерслиз
+exploration.enderslime_geode=Слиз Енду
 
 armor=Slimy Armor
 armor.subtext=Mixing slime with various mob parts produces an interesting set of armor. Its not the most defensive, but it can really enhance your abilities.
@@ -12757,7 +12757,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/staffs/tconstru
 {
   "tool": "tconstruct:sky_staff",
   "text": [
-    { "text": "Небослизовий staffs leave a lot of room for modification. Grants higher drawspeed at the cost of projectile power." }
+    { "text": "Слиз неба staffs leave a lot of room for modification. Grants higher drawspeed at the cost of projectile power." }
   ],
   "properties": [
     "Low Durability",
