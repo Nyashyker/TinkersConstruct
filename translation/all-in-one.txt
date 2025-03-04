@@ -95,8 +95,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.soul_glass_pane": "Шибка душ",
   "block.tconstruct.soul_glass_pane.tooltip": "Ніби й тверде, але пройти накрізь можна",
 
-  "block.tconstruct.glow": "Світька",
-  "block.tconstruct.silky_jewel_block": "Шовковистий коштовний камінь",
+  "block.tconstruct.glow": "Світлосніг",
+  "block.tconstruct.silky_jewel_block": "Блок шовковистої коштовності",
 
 
   "__comment": "Ore Metals",
@@ -834,25 +834,25 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Gadgets",
 
-  "block.tconstruct.punji": "Punji Sticks",
-  "block.tconstruct.punji.tooltip": "Pointy! Also sticks to walls.",
+  "block.tconstruct.punji": "Бамбукові колюки",
+  "block.tconstruct.punji.tooltip": "Гостренькі! А ще до стін липнуть.",
 
-  "item.tconstruct.clear_item_frame": "Clear Item Frame",
-  "item.tconstruct.gold_item_frame": "Golden Item Frame",
-  "item.tconstruct.reversed_gold_item_frame": "Inverted Golden Item Frame",
-  "item.tconstruct.diamond_item_frame": "діамант Item Frame",
-  "item.tconstruct.manyullyn_item_frame": "Майнулин Item Frame",
-  "item.tconstruct.netherite_item_frame": "Netherite Item Frame",
+  "item.tconstruct.clear_item_frame": "Чиста рамка для предметів",
+  "item.tconstruct.gold_item_frame": "Золота рамка для предметів",
+  "item.tconstruct.reversed_gold_item_frame": "Зворотня золота рамка для предметів",
+  "item.tconstruct.diamond_item_frame": "Діамантова рамка для предметів",
+  "item.tconstruct.manyullyn_item_frame": "Майнулинова рамка для предметів",
+  "item.tconstruct.netherite_item_frame": "Незеритова рамка для предметів",
 
-  "item.tconstruct.glow_ball": "Glowball",
-  "item.tconstruct.glow_ball.tooltip": "Not suited for consumption.",
-  "item.tconstruct.efln_ball": "EFLN",
-  "item.tconstruct.efln_ball.tooltip": "Explodes! Safe for mining",
+  "item.tconstruct.glow_ball": "Світлосніжка",
+  "item.tconstruct.glow_ball.tooltip": "Не завжди жовтий сніг їстівний.",
+  "item.tconstruct.efln_ball": "ВКРМ",
+  "item.tconstruct.efln_ball.tooltip": "Вибухово! Безпечно для розкопок",
 
-  "item.tconstruct.quartz_shuriken": "кварц Shuriken",
-  "item.tconstruct.quartz_shuriken.tooltip": "A throwable weapon with higher damage",
-  "item.tconstruct.flint_shuriken": "Flint Shuriken",
-  "item.tconstruct.flint_shuriken.tooltip": "A throwable weapon with high knockback",
+  "item.tconstruct.quartz_shuriken": "Кварцовий шюрикен",
+  "item.tconstruct.quartz_shuriken.tooltip": "Метальна зброя з високою шкодою",
+  "item.tconstruct.flint_shuriken": "Кремнієвий шюрикен",
+  "item.tconstruct.flint_shuriken.tooltip": "Метальна зброя із сильним відкидуванням",
 
   "block.tconstruct.earth_cake": "Торт зі слизу",
   "block.tconstruct.sky_cake":   "Торт зі слизу неба",
@@ -861,19 +861,19 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.blood_cake": "Торт із крові",
   "block.tconstruct.magma_cake": "Торт із магми",
 
-  "item.tconstruct.piggy_backpack": "Piggybackpack",
-  "item.tconstruct.piggy_backpack.tooltip": "Use on a mob to pick it up",
-  "effect.tconstruct.carry": "Carrying",
+  "item.tconstruct.piggy_backpack": "Наплічник",
+  "item.tconstruct.piggy_backpack.tooltip": "Використай на мобі, щоб його підібрати",
+  "effect.tconstruct.carry": "Носіння",
   
-  "block.tconstruct.blaze_head":            "Blaze Наконечник",
-  "block.tconstruct.enderman_head":         "Enderman Наконечник",
-  "block.tconstruct.stray_head":            "Stray Skull",
-  "block.tconstruct.husk_head":             "Husk Наконечник",
-  "block.tconstruct.drowned_head":          "Drowned Наконечник",
-  "block.tconstruct.spider_head":           "Spider Наконечник",
-  "block.tconstruct.cave_spider_head":      "Cave Spider Наконечник",
-  "block.tconstruct.piglin_brute_head":     "Piglin Brute Наконечник",
-  "block.tconstruct.zombified_piglin_head": "Zombified Piglin Наконечник",
+  "block.tconstruct.blaze_head":            "Голова пломеня",
+  "block.tconstruct.enderman_head":         "Голова ендермена",
+  "block.tconstruct.stray_head":            "Череп примари",
+  "block.tconstruct.husk_head":             "Голова висушня",
+  "block.tconstruct.drowned_head":          "Голова потопельника",
+  "block.tconstruct.spider_head":           "Голова павука",
+  "block.tconstruct.cave_spider_head":      "Голова печерного павука",
+  "block.tconstruct.piglin_brute_head":     "Голова брутального піґліна",
+  "block.tconstruct.zombified_piglin_head": "Голова зомбованого піґліна",
 
 
   "_comment": "Tinkers Tables",
@@ -2985,7 +2985,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "subtitles.tconstruct.slime_sling.teleport": "Slime Sling teleports",
   "subtitles.tconstruct.enderporting": "Entity enderports",
   "subtitles.tconstruct.throw.throwball": "Throwball flies",
-  "subtitles.tconstruct.throw.shuriken": "Shuriken flies",
+  "subtitles.tconstruct.throw.shuriken": "шюрикен flies",
   "subtitles.tconstruct.longbow.charge": "Longbow pulls back",
   "subtitles.tconstruct.crystalshot": "Arrow hits",
   "subtitles.tconstruct.bonk": "Tool bonks",
@@ -3217,8 +3217,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.world.clay_island.description": "Locate a clay island in the sky",
   "advancements.tconstruct.world.slime_collector.title": "Slime Collector",
   "advancements.tconstruct.world.slime_collector.description": "Obtain all 5 types of slime",
-  "advancements.tconstruct.world.piggybackpack.title": "Pig Piggyback",
-  "advancements.tconstruct.world.piggybackpack.description": "Pick up a pig with a piggybackpack",
+  "advancements.tconstruct.world.piggybackpack.title": "Насвинячитися",
+  "advancements.tconstruct.world.piggybackpack.description": "Візьміть свиню собі на плечі",
   "advancements.tconstruct.world.ancient_tools.title": "Archeologists",
   "advancements.tconstruct.world.ancient_tools.description": "Discover all original types of ancient tool"
 }
@@ -10854,7 +10854,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
   },
   "text": [
     {
-      "text": "\"But Немея, how do I get a blaze into a smeltery?\". If you were that nerd Мелвін, you might suggest \"Drink fire resistance then use a piggybackpack or an ichor sling.\" Perfect if you want to get burnt to a crisp.",
+      "text": "\"But Немея, how do I get a blaze into a smeltery?\". If you were that nerd Мелвін, you might suggest \"Drink fire resistance then use a наплічник or an ichor sling.\" Perfect if you want to get burnt to a crisp.",
       "paragraph": true
     }
   ]
@@ -12505,7 +12505,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extra
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/flint_shuriken.json
 ```
 {
-  "title": "Flint Shuriken",
+  "title": "Flint шюрикен",
   "item": "tconstruct:flint_shuriken",
   "text": [
     {
@@ -12533,11 +12533,11 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/glowbal
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/quartz_shuriken.json
 ```
 {
-  "title": "Кварц Shuriken",
+  "title": "Кварц шюрикен",
   "item": "tconstruct:quartz_shuriken",
   "text": [
     {
-      "text": "Кварц is far lighter than flint, and far sharper. Shurikens carved from quartz I was finding were causing monsters much more damage, though less knockback.",
+      "text": "Кварц is far lighter than flint, and far sharper. Шюрикени carved from quartz I was finding were causing monsters much more damage, though less knockback.",
       "paragraph": true
     }
   ]
@@ -12622,7 +12622,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/efln.js
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/piggybackpack.json
 ```
 {
-  "title": "Piggybackpack",
+  "title": "Наплічник",
   "image": {
 	"file": "tconstruct:book/images/piggybackpack.png",
     "width": 140,
@@ -12630,7 +12630,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/gadgets/piggyba
   },
   "text": [
     {
-      "text": "Using a piggybackpack on a mob lets you pick them up to ride you, perfect for when your pig gets tired on long journeys. They are also good for tossing monsters into your smeltery. I have successfully worn up to 3 piggybackpacks at one time, though it's hard to walk with so many riders."
+      "text": "Використовуючи наплічник на мобі, ти береш його собі на плечі, саме те, коли твої улюбленці втомлюються від довгої дороги. А ще зручно скидати монстрів у плавильню. Мені вдавалося брати до трьох таких за раз, проте важкувати так ходити, коли на тобі стільки пасажирів."
     }
   ]
 }
