@@ -41,7 +41,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "block.tconstruct.gold_bars": "Золоті ґрати",
   "block.tconstruct.gold_bars.tooltip": "Слугує порожньою формою в ливарському столі",
   
-  "block.tconstruct.gold_platform": "Залота платформа",
+  "block.tconstruct.gold_platform": "Золота платформа",
   "block.tconstruct.gold_platform.tooltip": "Слугує порожньою формою в ливарському столі",
   "block.tconstruct.iron_platform": "Залізна платформа",
   "block.tconstruct.cobalt_platform": "Кобальтова платформа",
@@ -273,7 +273,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.creative_slot.tooltip": "Додає ячейку %s до інструменту",
 
   "item.tconstruct.copper_can": "Мідний жбан",
-  "item.tconstruct.copper_can.tooltip": "Посудина для 1 рідкого злитку, яка стакається",
+  "item.tconstruct.copper_can.tooltip": "Посудина для 1 рідкого злитку, яка складається в стіс",
   "item.tconstruct.copper_can.contents": "Містить: 1 %s злиток",
 
 
@@ -878,25 +878,25 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tinkers Tables",
 
-  "block.tconstruct.crafting_station": "Crafting Station",
+  "block.tconstruct.crafting_station": "Верстат",
 
-  "block.tconstruct.tinker_station": "Лудильник Station",
-  "block.tconstruct.tinkers_anvil": "Лудильник's Anvil",
-  "block.tconstruct.scorched_anvil": "Лудильник's Anvil",
+  "block.tconstruct.tinker_station": "Лудильний верстат",
+  "block.tconstruct.tinkers_anvil": "Лудильне ковадло",
+  "block.tconstruct.scorched_anvil": "Обпалене лудильне ковадло",
 
-  "block.tconstruct.part_builder": "Part Builder",
-  "block.tconstruct.modifier_worktable": "Зміни Worktable",
+  "block.tconstruct.part_builder": "Верстат деталей",
+  "block.tconstruct.modifier_worktable": "Майстерня змін",
 
-  "block.tconstruct.part_chest": "Part Chest",
-  "block.tconstruct.part_chest.tooltip": "Holds up to 256 different tool parts",
+  "block.tconstruct.part_chest": "Скриня для деталей",
+  "block.tconstruct.part_chest.tooltip": "Вміщує до 256 різних деталей інструментів",
 
-  "block.tconstruct.tinkers_chest": "Лудильник's Chest",
-  "block.tconstruct.tinkers_chest.tooltip": "Holds up to 64 stacks of 16 items",
+  "block.tconstruct.tinkers_chest": "Скриня для лудиника",
+  "block.tconstruct.tinkers_chest.tooltip": "Вміщує до 64 стосів по 16 предметів",
 
-  "block.tconstruct.cast_chest": "Cast Chest",
-  "block.tconstruct.cast_chest.tooltip": "Holds all relevant casts",
+  "block.tconstruct.cast_chest": "Скриня для литва",
+  "block.tconstruct.cast_chest.tooltip": "Вміщує всі необхідні литва",
 
-  "item.tconstruct.pattern": "Pattern",
+  "item.tconstruct.pattern": "Шаблон",
 
   "_comment": "Tinkers Tools",
 
@@ -2871,22 +2871,22 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "itemGroup.tconstruct.fluids": "Лудильникs' Fluids",
   "itemGroup.tconstruct.world": "Лудильникs' World",
 
-  "gui.tconstruct.crafting_station": "Crafting Station",
+  "gui.tconstruct.crafting_station": "Майстрування",
   "gui.tconstruct.crafting_station.uncraftable": "This item is not currently craftable by the player",
 
-  "gui.tconstruct.part_builder": "Part Builder",
-  "gui.tconstruct.part_builder.info": "Here you can craft tool parts to fulfill your tinkering fantasies.\n\nTo craft a part simply put a blank pattern into the left slot and select the part you want. The remaining slot holds the material you want to craft your part out of.",
+  "gui.tconstruct.part_builder": "Верстат деталей",
+  "gui.tconstruct.part_builder.info": "Here you can craft tool parts to fulfill your tinkering fantasies.\n\nTo craft a part simply put a blank Шаблон into the left slot and select the part you want. The remaining slot holds the material you want to craft your part out of.",
   "gui.tconstruct.part_builder.material_value": "Material value: %s",
-  "gui.tconstruct.part_builder.cost": "Pattern cost: %s",
+  "gui.tconstruct.part_builder.cost": "Шаблон cost: %s",
   "gui.tconstruct.part_builder.trait": "Trait",
   "gui.tconstruct.part_builder.uncraftable": "Cannot shape",
   "gui.tconstruct.part_builder.uncraftable.tooltip": "Material cannot be shaped in the part builder. Other methods such as casting are required.",
 
-  "gui.tconstruct.tinkers_chest": "Лудильник's Chest",
-  "gui.tconstruct.cast_chest": "Cast Chest",
-  "gui.tconstruct.part_chest": "Part Chest",
+  "gui.tconstruct.tinkers_chest": "Скриня для лудиника",
+  "gui.tconstruct.cast_chest": "Скриня для литва",
+  "gui.tconstruct.part_chest": "Скриня для деталей",
 
-  "gui.tconstruct.tinker_station": "Лудильник Station",
+  "gui.tconstruct.tinker_station": "Лудильний верстат",
   "gui.tconstruct.tinker_station.repair_limited": "Repair & Modify",
   "gui.tconstruct.tinker_station.repair_limited.description": "Allows creating all basic tools and applying most modifiers. Select a layout from the buttons on the left to get started.",
   "gui.tconstruct.tinker_station.repair": "Repair & Modify",
@@ -2906,7 +2906,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "recipe.tconstruct.swappable.already_present": "Tool already contains %s with variant %s",
 
-  "gui.tconstruct.modifier_worktable": "Зміни Worktable",
+  "gui.tconstruct.modifier_worktable": "Майстерня змін",
   "gui.tconstruct.modifier_worktable.title": "Зміни Tuning",
   "gui.tconstruct.modifier_worktable.info": "Add a tool and the proper items to tune the tool's modifiers",
   "recipe.tconstruct.modifier_set_worktable.empty": "Tool has no applicable modifiers",
@@ -2954,7 +2954,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "recipe.tconstruct.modifier.max_level.traits": "This recipe cannot increase %s above level %s (including traits)",
 
   "recipe.tconstruct.modifier.armor_trim.invalid_material": "%s is not a valid trim material, this usually indicates an invalid tag",
-  "recipe.tconstruct.modifier.armor_trim.invalid_pattern": "%s is not a valid trim pattern, this usually indicates an invalid tag",
+  "recipe.tconstruct.modifier.armor_trim.invalid_pattern": "%s is not a valid trim Шаблон, this usually indicates an invalid tag",
 
   "recipe.tconstruct.tool_recycling": "Tool Recycling",
   "recipe.tconstruct.tool_recycling.info": "Select which part to salvage from this tool. There is a chance based on the tool's remaining durability to salvage a second part.",
@@ -2967,7 +2967,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "gui.tconstruct.error": "ERROR",
   "gui.tconstruct.warning": "WARNING",
   "gui.tconstruct.general.hover": "Hover over the entries for more information",
-  "gui.tconstruct.error.invalid_pattern": "Pattern does not contain a valid tool part!",
+  "gui.tconstruct.error.invalid_pattern": "Шаблон does not contain a valid tool part!",
   "gui.tconstruct.error.invalid_recipe": "Invalid Recipe!",
   "gui.tconstruct.error.unknown_material": "Unknown Material",
   "gui.tconstruct.error.useless_tool_part": "This part can not be used to craft any tool!\n\nEither the material %s is missing some information or no tool uses a(n) %s in its crafting.",
@@ -3092,7 +3092,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.casting.cast_consumed": "Cast item is consumed on casting",
 
   "jei.tconstruct.molding.title": "Molding",
-  "jei.tconstruct.molding.pattern_consumed": "Pattern is consumed on crafting",
+  "jei.tconstruct.molding.pattern_consumed": "Шаблон is consumed on crafting",
 
   "jei.tconstruct.melting.title": "Melting",
   "jei.tconstruct.melting.multiplier": "Speed multiplier: %sx",
@@ -3122,22 +3122,22 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.severing.title": "Severing",
 
   "jei.tconstruct.tinkering.tool_building": "Tool Building",
-  "jei.tconstruct.tinkering.tool_building.anvil": "Broad tools require the Лудильник's Anvil to be created or swap parts",
+  "jei.tconstruct.tinkering.tool_building.anvil": "Broad tools require the Лудильне ковадло to be created or swap parts",
 
-  "jei.tconstruct.part_builder.title": "Part Builder",
+  "jei.tconstruct.part_builder.title": "Верстат деталей",
   "jei.tconstruct.part_builder.cost": "Cost: %s",
 
-  "jei.tconstruct.modifier_worktable.title": "Зміни Worktable",
+  "jei.tconstruct.modifier_worktable.title": "Майстерня змін",
 
 
   "_comment": "Tool Advancements",
   "advancements.tconstruct.tools.materials_and_you.title": "Лудильник In Training",
   "advancements.tconstruct.tools.materials_and_you.description": "Craft Матеріали й ти, the introduction book into Лудильникs' Construct",
-  "advancements.tconstruct.tools.part_builder.title": "Part Builder",
+  "advancements.tconstruct.tools.part_builder.title": "Верстат деталей",
   "advancements.tconstruct.tools.part_builder.description": "Create a part builder, your first step to making tools",
   "advancements.tconstruct.tools.make_part.title": "Tool Parts",
-  "advancements.tconstruct.tools.make_part.description": "Create your first tool part using a pattern and some material in the part builder",
-  "advancements.tconstruct.tools.tinker_station.title": "Лудильник Station",
+  "advancements.tconstruct.tools.make_part.description": "Create your first tool part using a Шаблон and some material in the part builder",
+  "advancements.tconstruct.tools.tinker_station.title": "Лудильний верстат",
   "advancements.tconstruct.tools.tinker_station.description": "Create a tinker station to combine parts into tools",
   "advancements.tconstruct.tools.tinker_tool.title": "Novice Лудильник",
   "advancements.tconstruct.tools.tinker_tool.description": "Create a your first tinker tool",
@@ -3176,7 +3176,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.smeltery.structure.title": "The Mighty Smeltery",
   "advancements.tconstruct.smeltery.structure.description": "Craft a smeltery controller from casting molten copper, build a smeltery, and open the smeltery UI",
   "advancements.tconstruct.smeltery.tinkers_anvil.title": "Advanced Tool Making",
-  "advancements.tconstruct.smeltery.tinkers_anvil.description": "Craft a Лудильник's Anvil using alloys from the smeltery!",
+  "advancements.tconstruct.smeltery.tinkers_anvil.description": "Craft a Лудильне ковадло using alloys from the smeltery!",
   "advancements.tconstruct.smeltery.tool_forge.title": "Tool Forge",
   "advancements.tconstruct.smeltery.tool_forge.description": "Forge one of every broad tool in the anvil",
   "advancements.tconstruct.smeltery.abilities.title": "Здібність Master",
@@ -4994,7 +4994,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/thruul.jso
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkersanvil_craft.json
 ```
 {
-  "title": "Лудильник's Anvil Crafting",
+  "title": "Лудильне ковадло Crafting",
   "recipe": "tconstruct:tables/tinkers_anvil"
 }
 ```
@@ -5002,11 +5002,11 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkersanv
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkers_anvil.json
 ```
 {
-  "title": "Лудильник's Anvil",
+  "title": "Лудильне ковадло",
   "item": "tconstruct:tinkers_anvil",
   "text": [
     {
-      "text": "Alright Лудильник, it's time to put that puny Лудильник Station away and create the mighty Лудильник's Anvil. The ability to create the biggest and best tools is simply one hammer pound away."
+      "text": "Alright Лудильник, it's time to put that puny Лудильний верстат away and create the mighty Лудильне ковадло. The ability to create the biggest and best tools is simply one hammer pound away."
     },
     {
       "text": "This anvil can only be made with the finest of alloys, but will bring you the broadest of tools. They allow you to make the best modifiers, and let you rename tools during any modification.",
@@ -6388,7 +6388,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad.json
 {
   "title": "Broad Tools",
   "text": [
-    { "text": "All broad tools require the Лудильник's Anvil to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
+    { "text": "All broad tools require the Лудильне ковадло to be created, and to swap parts. Most require 4 tool parts, and start with only 2 upgrade slots and 1 ability slot." },
     { "text": "Large tools have both attack bonuses and modifiers like small tools, and many more have traits. In addition, many tools have a durability or a mining speed modifier that act similarly to the attack modifier, affecting both base stats and stat bonuses from modifiers.", "paragraph": true }
   ]
 }
@@ -6399,7 +6399,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small.json
 {
   "title": "Small Tools",
   "text": [
-    { "text": "All small tools can be created in either the Лудильник Station or the Лудильник's Anvil. They require between 2 to 3 parts, granting 2 to 3 traits. Most small tools start with 1 ability slot and 3 upgrade slots as well." },
+    { "text": "All small tools can be created in either the Лудильний верстат or the Лудильне ковадло. They require between 2 to 3 parts, granting 2 to 3 traits. Most small tools start with 1 ability slot and 3 upgrade slots as well." },
     { "text": "Most tools have an attack damage bonus, which is added to the head stats and multiplied by the handle stats. In addition, some tools have an attack modifier, which multiplies attack damage from all sources on the tool, including modifiers. Some tools also start with tool traits, which are applied to fully built tools similarly to material traits.", "paragraph": true }
   ]
 }
@@ -10674,7 +10674,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/casting/sandcast3.
   },
   "text": [
     {
-      "text": "Sand casts can also be created in the part builder by placing sand or a blank sand cast in the pattern slot. This is required to create armor plating casts."
+      "text": "Sand casts can also be created in the part builder by placing sand or a blank sand cast in the Шаблон slot. This is required to create armor plating casts."
     }
   ]
 }
@@ -11557,7 +11557,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/repairin
   },
   "description": [
     {
-      "text": "Repairing your tool is an important thing to do, unless you want it to break. In Лудильник Station or Лудильник Anvil place the tool and material of the head/plate and it will repair. Alternatively, you can use repair kits, which work in crafting tables!",
+      "text": "Repairing your tool is an important thing to do, unless you want it to break. In Лудильний верстат or Лудильник Anvil place the tool and material of the head/plate and it will repair. Alternatively, you can use repair kits, which work in crafting tables!",
       "paragraph": true
     }
 	]
@@ -11855,7 +11855,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/furtherreading
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation.json
 ```
 {
-  "title": "Лудильник Station",
+  "title": "Лудильний верстат",
   "image": {
     "file": "tconstruct:book/images/tinkerstation.png",
     "width": 135,
@@ -11873,10 +11873,10 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerst
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partchest_craft.json
 ```
 {
-  "title": "Part Chest Crafting",
+  "title": "Створення скрині для деталей",
   "recipe": "tconstruct:tables/part_chest",
   "description": [
-    { "text": "Never know when you might need that unused tool part again later." }
+    { "text": "Ніколи не знаєш, коли зайва деталь потім знадобиться." }
   ]
 }
 ```
@@ -11884,17 +11884,17 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partches
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation2.json
 ```
 {
-  "title": "Лудильник Station",
+  "title": "Лудильний верстат",
   "text": [
     {
       "text": "To finish the first step in your grand tinkering adventure, it is time to craft your first tool. It may not start off the best, but it is your work, and you should be proud of it."
     },
     {
-      "text": "Once you have acquired all the parts you need to make a tool, construction can begin! First get a Лудильник Station, then select which tool you want to make and tinker away! Give it a name before you miss your chance. ",
+      "text": "Once you have acquired all the parts you need to make a tool, construction can begin! First get a Лудильний верстат, then select which tool you want to make and tinker away! Give it a name before you miss your chance. ",
       "paragraph": true
     },
     {
-      "text": "You can also use the Лудильник Station to add modifiers to your tools. The basic table only has enough room to combine three parts maximum, meaning no broad tools can be crafted. Other master tinkers know the secret to making tools out of four or five parts.",
+      "text": "You can also use the Лудильний верстат to add modifiers to your tools. The basic table only has enough room to combine three parts maximum, meaning no broad tools can be crafted. Other master tinkers know the secret to making tools out of four or five parts.",
       "paragraph": true
     }
   ]
@@ -11904,7 +11904,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerst
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuilder.json
 ```
 {
-  "title": "Part Builder",
+  "title": "Верстат деталей",
   "image": {
     "file": "tconstruct:book/images/partbuilder.png",
     "width": 170,
@@ -11922,7 +11922,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuil
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerstation_craft.json
 ```
 {
-  "title": "Лудильник Station Crafting",
+  "title": "Створення лудильного верстата",
   "recipe": "tconstruct:tables/tinker_station",
   "description": [
     { "text": "Hopefully you still have some patterns leftover. If not can always make more." }
@@ -11970,11 +11970,11 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/selena.j
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/pattern_craft.json
 ```
 {
-  "title": "Pattern Crafting",
+  "title": "Створення шаблона",
   "recipe": "tconstruct:tables/pattern",
   "grid_size": "small",
   "description": [
-    { "text": "You will need many patterns as you create tools, both to create tool parts and worktables." }
+    { "text": "Тобі знадобиться багато шаблонів, коли будеш створювати інструменти, як для самих інструментів, так і для верстатів." }
   ]
 }
 ```
@@ -11998,7 +11998,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/welcome.
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuilder_craft.json
 ```
 {
-  "title": "Part Builder Crafting",
+  "title": "Створення верстата деталей",
   "recipe": "tconstruct:tables/part_builder",
   "grid_size": "small",
   "description": [
@@ -12010,10 +12010,10 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/partbuil
 src/main/resources/assets/tconstruct/book/materials_and_you/en_us/intro/tinkerschest_craft.json
 ```
 {
-  "title": "Лудильник's Chest Crafting",
+  "title": "Створення скрині для лудиника",
   "recipe": "tconstruct:tables/tinkers_chest",
   "description": [
-    { "text": "After crafting, you can dye the chest any color you wish." }
+    { "text": "Можна перефарбувати, як заманеться, після створення." }
   ]
 }
 ```
@@ -12316,7 +12316,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/extra
 src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/modifiers/modifier_worktable.json
 ```
 {
-  "title": "Зміни Worktable",
+  "title": "Майстерня змін",
   "recipe": "tconstruct:tables/modifier_worktable",
   "description": [
     { "text": "Arranging seared stone like this makes it easier to target a specific modifier in the recipes." }
