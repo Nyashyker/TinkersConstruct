@@ -132,8 +132,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.rose_gold_nugget": "Рожево-золотий самородок",
 
   "block.tconstruct.pig_iron_block": "Блок свиноліза",
-  "item.tconstruct.pig_iron_ingot": "Синолізовий злиток",
-  "item.tconstruct.pig_iron_nugget": "Синолізовий самородок",
+  "item.tconstruct.pig_iron_ingot": "свинолізовий злиток",
+  "item.tconstruct.pig_iron_nugget": "свинолізовий самородок",
 
 
   "__comment": "Tier 4 Metals",
@@ -656,25 +656,25 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Tier 3 Alloys",
 
-  "block.tconstruct.molten_slimesteel_fluid": "Розплавлений сталеслизевий",
-  "fluid.tconstruct.molten_slimesteel": "Розплавлений сталеслизевий",
-  "fluid.tconstruct.flowing_molten_slimesteel": "Потік Розплавлений сталеслизевий",
-  "item.tconstruct.molten_slimesteel_bucket": "Відро Розплавлений сталеслизевий",
+  "block.tconstruct.molten_slimesteel_fluid": "Розплавлений сталеслиз",
+  "fluid.tconstruct.molten_slimesteel": "Розплавлений сталеслиз",
+  "fluid.tconstruct.flowing_molten_slimesteel": "Потік розплавленого сталеслизу",
+  "item.tconstruct.molten_slimesteel_bucket": "Відро розплавленого сталеслизу",
 
-  "block.tconstruct.molten_amethyst_bronze_fluid": "Розплавлений аметист Bronze",
-  "fluid.tconstruct.molten_amethyst_bronze": "Розплавлений аметист Bronze",
-  "fluid.tconstruct.flowing_molten_amethyst_bronze": "Потік Розплавлений аметист Bronze",
-  "item.tconstruct.molten_amethyst_bronze_bucket": "Відро Розплавлений аметист Bronze",
+  "block.tconstruct.molten_amethyst_bronze_fluid": "Розплавлена аметистова бронза",
+  "fluid.tconstruct.molten_amethyst_bronze": "Розплавлена аметистова бронза",
+  "fluid.tconstruct.flowing_molten_amethyst_bronze": "Потік розплавленої аметистової бронзи",
+  "item.tconstruct.molten_amethyst_bronze_bucket": "Відро розплавленої аметистової бронзи",
 
-  "block.tconstruct.molten_rose_gold_fluid": "Розплавлений Rose Gold",
-  "fluid.tconstruct.molten_rose_gold": "Розплавлений Rose Gold",
-  "fluid.tconstruct.flowing_molten_rose_gold": "Потік Розплавлений Rose Gold",
-  "item.tconstruct.molten_rose_gold_bucket": "Відро Розплавлений Rose Gold",
+  "block.tconstruct.molten_rose_gold_fluid": "Розплавлене рожеве золо",
+  "fluid.tconstruct.molten_rose_gold": "Розплавлене рожеве золо",
+  "fluid.tconstruct.flowing_molten_rose_gold": "Потік розплавленого рожевого золота",
+  "item.tconstruct.molten_rose_gold_bucket": "Відро розплавленого рожевого золота",
 
-  "block.tconstruct.molten_pig_iron_fluid": "Розплавлений Синолізо",
-  "fluid.tconstruct.molten_pig_iron": "Розплавлений Синолізо",
-  "fluid.tconstruct.flowing_molten_pig_iron": "Потік Розплавлений Синолізо",
-  "item.tconstruct.molten_pig_iron_bucket": "Відро Розплавлений Синолізо",
+  "block.tconstruct.molten_pig_iron_fluid": "Розплавлене свинолізо",
+  "fluid.tconstruct.molten_pig_iron": "Розплавлене свинолізо",
+  "fluid.tconstruct.flowing_molten_pig_iron": "Потік розплавленого свиноліза",
+  "item.tconstruct.molten_pig_iron_bucket": "Відро розплавленого свиноліза",
 
   "_comment": "Tier 4 Alloys",
 
@@ -1650,7 +1650,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "material.tconstruct.amethyst_bronze.ranged": "Adds +0.1 velocity per level at the cost of limiting arrow angles to 32, 16, or 8 directions at the first 3 levels respectively",
   "material.tconstruct.amethyst_bronze.armor": "Grants +2.5% attack speed per level at the cost of limiting taken knockback angles to 32, 16, 8, or 4 directions",
 
-  "material.tconstruct.pig_iron": "Синолізо",
+  "material.tconstruct.pig_iron": "Свинолізо",
   "material.tconstruct.pig_iron.flavor": "The absolute best material, no debates.",
   "material.tconstruct.pig_iron.encyclopedia": "Can be eaten to restore 1 hunger per level at 0.6 saturation",
   "material.tconstruct.pig_iron.armor": "Grants a 15% chance per level of eating the armor for 1 hunger per level at 0.6 saturation",
