@@ -236,15 +236,15 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.slimesteel_reinforcement": "Сталеслизеве посилення",
   "item.tconstruct.slimesteel_reinforcement.tooltip": "Збільшує вміст сталеслизу",
   "item.tconstruct.seared_reinforcement": "Обпалене посилення",
-  "item.tconstruct.seared_reinforcement.tooltip": "Збільшує стійкість броні до вогню",
+  "item.tconstruct.seared_reinforcement.tooltip": "Збільшує стійкість обладунків до вогню",
   "item.tconstruct.iron_reinforcement": "Залізне посилення",
-  "item.tconstruct.iron_reinforcement.tooltip": "Збільшує стійкість броні до снарядів",
+  "item.tconstruct.iron_reinforcement.tooltip": "Збільшує стійкість обладунків до снарядів",
   "item.tconstruct.obsidian_reinforcement": "Обсидіанове посилення",
-  "item.tconstruct.obsidian_reinforcement.tooltip": "Збільшує стійкість броні до вибухів",
+  "item.tconstruct.obsidian_reinforcement.tooltip": "Збільшує стійкість обладунків до вибухів",
   "item.tconstruct.gold_reinforcement": "Золоте посилення",
-  "item.tconstruct.gold_reinforcement.tooltip": "Збільшує стійкість броні до магії",
+  "item.tconstruct.gold_reinforcement.tooltip": "Збільшує стійкість обладунків до магії",
   "item.tconstruct.cobalt_reinforcement": "Кобальтове посилення",
-  "item.tconstruct.cobalt_reinforcement.tooltip": "Збільшує стійкість броні загалом до атак",
+  "item.tconstruct.cobalt_reinforcement.tooltip": "Збільшує стійкість обладунків загалом до атак",
   "item.tconstruct.jeweled_apple": "Коштовне яблуко",
   "item.tconstruct.silky_cloth": "Шовк",
   "item.tconstruct.silky_cloth.tooltip": "Не пошкоджує блоки при добуванні",
@@ -316,7 +316,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "pattern.tconstruct.tool_binding": "Кріплення",
   "pattern.tconstruct.tough_binding": "Хомут",
   "pattern.tconstruct.bowstring": "Тятива",
-  "pattern.tconstruct.maille": "Основа броні",
+  "pattern.tconstruct.maille": "Основа обладунків",
   "pattern.tconstruct.shield_core": "Основа щита",
 
   "_comment": "Tool Handle Patterns",
@@ -374,7 +374,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_cast": "Золоте литво обшивки нагрудника",
   "item.tconstruct.leggings_plating_cast": "Золоте литво обшивки наголінників",
   "item.tconstruct.boots_plating_cast": "Золоте литво обшивки чоботів",
-  "item.tconstruct.maille_cast": "Золоте литво основи броні",
+  "item.tconstruct.maille_cast": "Золоте литво основи обладунків",
 
 
   "_comment": "Tinkers Sand Casts",
@@ -424,7 +424,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_sand_cast": "Пісочне литво обшивки нагрудника",
   "item.tconstruct.leggings_plating_sand_cast": "Пісочне литво обшивки наголінників",
   "item.tconstruct.boots_plating_sand_cast": "Пісочне литво обшивки чоботів",
-  "item.tconstruct.maille_sand_cast": "Пісочне литво основи броні",
+  "item.tconstruct.maille_sand_cast": "Пісочне литво основи обладунків",
 
 
   "_comment": "Tinkers Red Sand Casts",
@@ -474,7 +474,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_red_sand_cast": "Червоно-пісочне литво обшивки нагрудника",
   "item.tconstruct.leggings_plating_red_sand_cast": "Червоно-пісочне литво обшивки наголінників",
   "item.tconstruct.boots_plating_red_sand_cast": "Червоно-пісочне литво обшивки чоботів",
-  "item.tconstruct.maille_red_sand_cast": "Червоно-пісочне литво основи броні",
+  "item.tconstruct.maille_red_sand_cast": "Червоно-пісочне литво основи обладунків",
 
 
   "_comment": "Tinkers Fluids",
@@ -905,71 +905,71 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.tool.id_format": "%s (%s)",
   "item.tconstruct.tool.material_separator": "-",
 
-  "item.tconstruct.pickaxe": "Pickaxe",
-  "item.tconstruct.sledge_hammer": "Sledge Hammer",
-  "item.tconstruct.vein_hammer": "Vein Hammer",
+  "item.tconstruct.pickaxe": "кайло",
+  "item.tconstruct.sledge_hammer": "кувалда",
+  "item.tconstruct.vein_hammer": "жильна кувалда",
 
-  "item.tconstruct.mattock": "Mattock",
-  "item.tconstruct.pickadze": "Pickadze",
-  "item.tconstruct.excavator": "Excavator",
+  "item.tconstruct.mattock": "сокирянка",
+  "item.tconstruct.pickadze": "каєсло",
+  "item.tconstruct.excavator": "грабарка",
 
-  "item.tconstruct.hand_axe": "Hand Axe",
-  "item.tconstruct.broad_axe": "Broad Axe",
+  "item.tconstruct.hand_axe": "сокира",
+  "item.tconstruct.broad_axe": "широка сокира",
 
-  "item.tconstruct.kama": "Kama",
-  "item.tconstruct.scythe": "Scythe",
+  "item.tconstruct.kama": "сапа-стригачка",
+  "item.tconstruct.scythe": "коса",
 
-  "item.tconstruct.dagger": "Dagger",
-  "item.tconstruct.sword": "Sword",
-  "item.tconstruct.cleaver": "Cleaver",
+  "item.tconstruct.dagger": "кинджал",
+  "item.tconstruct.sword": "меч",
+  "item.tconstruct.cleaver": "великий тесак",
 
-  "item.tconstruct.crossbow": "Crossbow",
-  "item.tconstruct.longbow": "Longbow",
+  "item.tconstruct.crossbow": "арбалет",
+  "item.tconstruct.longbow": "великий лук",
 
-  "item.tconstruct.flint_and_brick": "Flint and Brick",
-  "item.tconstruct.sky_staff": "Слиз неба Staff",
-  "item.tconstruct.earth_staff": "Слиз Staff",
-  "item.tconstruct.ichor_staff": "Іхор Staff",
-  "item.tconstruct.ender_staff": "Слиз Енду Staff",
-  
-  "item.tconstruct.melting_pan": "Melting Pan",
-  "item.tconstruct.battlesign": "Battlesign",
-  "item.tconstruct.war_pick": "War Pick",
-  "item.tconstruct.swasher": "Swasher",
-  
-  "item.tconstruct.travelers_helmet": "Traveler's Goggles",
-  "item.tconstruct.travelers_chestplate": "Traveler's Vest",
-  "item.tconstruct.travelers_leggings": "Traveler's Pants",
-  "item.tconstruct.travelers_boots": "Traveler's Boots",
-  "item.tconstruct.travelers_shield": "Traveler's Shield",
-  
-  "item.tconstruct.plate_helmet": "Plate Helmet",
-  "item.tconstruct.plate_chestplate": "Plate Chestplate",
-  "item.tconstruct.plate_leggings": "Plate Leggings",
-  "item.tconstruct.plate_boots": "Plate Boots",
-  "item.tconstruct.plate_shield": "Plate Shield",
+  "item.tconstruct.flint_and_brick": "Кресиво",
+  "item.tconstruct.sky_staff": "Посох слизу неба",
+  "item.tconstruct.earth_staff": "Посох слизу",
+  "item.tconstruct.ichor_staff": "Посох іхору",
+  "item.tconstruct.ender_staff": "Посох слизу Енду",
 
-  "item.tconstruct.slime_helmet": "Slimeskull",
-  "item.tconstruct.slime_chestplate": "Slimelytra",
-  "item.tconstruct.slime_leggings": "Slimeshell",
-  "item.tconstruct.slime_boots": "Slimeboots",
-  "item.tconstruct.slime_helmet.material.tconstruct.glass":         "Creeper Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.ender_pearl":   "Enderman Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.bone":          "Skeleton Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.venombone":     "Stray Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "Wither Skeleton Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.string":        "Spider Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.darkthread":    "Cave Spider Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.rotten_flesh":  "Zombie Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.iron":          "Husk Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.copper":        "Drowned Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.blazing_bone":  "Blaze Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.gold":          "Piglin Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.rose_gold":     "Piglin Brute Slimeskull",
-  "item.tconstruct.slime_helmet.material.tconstruct.pig_iron":      "Zombified Piglin Slimeskull",
+  "item.tconstruct.melting_pan": "пательня для плавки",
+  "item.tconstruct.battlesign": "бойова табличка",
+  "item.tconstruct.war_pick": "бойове кайло",
+  "item.tconstruct.swasher": "водобій",
 
-  "item.tconstruct.crystalshot": "Crystalshot",
-  "entity.tconstruct.crystalshot": "Crystalshot",
+  "item.tconstruct.travelers_helmet": "Окуляри мандрівника",
+  "item.tconstruct.travelers_chestplate": "Туніка мандрівника",
+  "item.tconstruct.travelers_leggings": "Штани мандрівника",
+  "item.tconstruct.travelers_boots": "Чоботи мандрівника",
+  "item.tconstruct.travelers_shield": "Щит мандрівника",
+
+  "item.tconstruct.plate_helmet": "обшитий шолом",
+  "item.tconstruct.plate_chestplate": "обшитий нагрудник",
+  "item.tconstruct.plate_leggings": "обшиті наголінники",
+  "item.tconstruct.plate_boots": "обшиті чоботи",
+  "item.tconstruct.plate_shield": "обшитий щит",
+
+  "item.tconstruct.slime_helmet": "Слизереп",
+  "item.tconstruct.slime_chestplate": "Слизитри",
+  "item.tconstruct.slime_leggings": "Слизанцир",
+  "item.tconstruct.slime_boots": "Слизапи",
+  "item.tconstruct.slime_helmet.material.tconstruct.glass":         "Слизереп кріпера",
+  "item.tconstruct.slime_helmet.material.tconstruct.ender_pearl":   "Слизереп ендермена",
+  "item.tconstruct.slime_helmet.material.tconstruct.bone":          "Слизереп скелета",
+  "item.tconstruct.slime_helmet.material.tconstruct.venombone":     "Слизереп примари",
+  "item.tconstruct.slime_helmet.material.tconstruct.necrotic_bone": "Слизереп візера-скелета",
+  "item.tconstruct.slime_helmet.material.tconstruct.string":        "Слизереп павука",
+  "item.tconstruct.slime_helmet.material.tconstruct.darkthread":    "Слизереп печерного павука",
+  "item.tconstruct.slime_helmet.material.tconstruct.rotten_flesh":  "Слизереп зомбі",
+  "item.tconstruct.slime_helmet.material.tconstruct.iron":          "Слизереп висушня",
+  "item.tconstruct.slime_helmet.material.tconstruct.copper":        "Слизереп потопельника",
+  "item.tconstruct.slime_helmet.material.tconstruct.blazing_bone":  "Слизереп пломеня",
+  "item.tconstruct.slime_helmet.material.tconstruct.gold":          "Слизереп піґліна",
+  "item.tconstruct.slime_helmet.material.tconstruct.rose_gold":     "Слизереп брутального піґліна",
+  "item.tconstruct.slime_helmet.material.tconstruct.pig_iron":      "Слизереп зомбованого піґліна",
+
+  "item.tconstruct.crystalshot": "Кристалостріл",
+  "entity.tconstruct.crystalshot": "Кристалостріл",
 
   "_comment": "Tinkers Tool Parts",
 
@@ -1005,35 +1005,35 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.chestplate_plating_dummy": "Stone Обшивка нагрудника",
   "item.tconstruct.leggings_plating_dummy": "Stone Обшивка наголінників",
   "item.tconstruct.boots_plating_dummy": "Stone Обшивка чоботів",
-  "item.tconstruct.maille": "Основа броні",
+  "item.tconstruct.maille": "Основа обладунків",
   "item.tconstruct.shield_core": "Основа щита",
 
 
   "_conment": "Tool Descriptions",
 
   "item.tconstruct.pickaxe.description": "The Pickaxe is a precise mining tool. It is effective on stone and ores.\nIt breaks blocks, OK?",
-  "item.tconstruct.sledge_hammer.description": "The Sledge Hammer is a broad mining tool. It harvests blocks in a wide range.\nAlso effective against undead.",
-  "item.tconstruct.vein_hammer.description": "The Vein Hammer is a broad mining tool. It harvests many connected blocks of the same type, perfect for ores.",
+  "item.tconstruct.sledge_hammer.description": "The Кувалда is a broad mining tool. It harvests blocks in a wide range.\nAlso effective against undead.",
+  "item.tconstruct.vein_hammer.description": "The Жильна кувалда is a broad mining tool. It harvests many connected blocks of the same type, perfect for ores.",
 
-  "item.tconstruct.mattock.description": "The Cutter Mattock is a versatile farming tool. It is effective on logs, dirt, sand, gravel, and plants.\nJust don't dig your own grave!",
-  "item.tconstruct.pickadze.description": "The Pickadze is a versatile mining tool. It is effective on rock, dirt, sand and gravel, but is not sharp enough to mine tougher stone blocks like many ores.",
-  "item.tconstruct.excavator.description": "The Excavator is a broad digging tool. It digs up large areas of soil and snow in a wide range.\nTerraforming!",
+  "item.tconstruct.mattock.description": "The Cutter Сокирянка is a versatile farming tool. It is effective on logs, dirt, sand, gravel, and plants.\nJust don't dig your own grave!",
+  "item.tconstruct.pickadze.description": "The Каєсло is a versatile mining tool. It is effective on rock, dirt, sand and gravel, but is not sharp enough to mine tougher stone blocks like many ores.",
+  "item.tconstruct.excavator.description": "The Грабарка is a broad digging tool. It digs up large areas of soil and snow in a wide range.\nTerraforming!",
 
-  "item.tconstruct.hand_axe.description": "The Hand Axe chops up wood and makes short work of leaves. It also makes for an effective weapon.\nChop chop!",
-  "item.tconstruct.broad_axe.description": "The Broad Axe fells small trees in a single swing, and makes quick work of large trees. It makes for a powerful heavy weapon.\nTimber!",
+  "item.tconstruct.hand_axe.description": "The Сокира chops up wood and makes short work of leaves. It also makes for an effective weapon.\nChop chop!",
+  "item.tconstruct.broad_axe.description": "The Широка сокира fells small trees in a single swing, and makes quick work of large trees. It makes for a powerful heavy weapon.\nTimber!",
 
-  "item.tconstruct.kama.description": "The Kama is a precision reaping tool, mowing down plants and shearing animals.\nRight Click: Harvest and replant crops",
-  "item.tconstruct.scythe.description": "The Scythe is a broad reaping tool, mowing down plants in a wide area.\nRight Click: Harvest and replant crops",
+  "item.tconstruct.kama.description": "The Сапа-стригачка is a precision reaping tool, mowing down plants and shearing animals.\nRight Click: Harvest and replant crops",
+  "item.tconstruct.scythe.description": "The Коса is a broad reaping tool, mowing down plants in a wide area.\nRight Click: Harvest and replant crops",
 
-  "item.tconstruct.dagger.description": "The Dagger is a light weapon, capable of quick strikes from either hand.",
-  "item.tconstruct.sword.description": "The Sword is a universal weapon. Sweep attacks keep enemy hordes at bay.\nAlso good against cobwebs!",
-  "item.tconstruct.cleaver.description": "The Cleaver is a weapon for a smeltery master. High range attacks keep cut through the toughest of foes.",
+  "item.tconstruct.dagger.description": "The Кинджал is a light weapon, capable of quick strikes from either hand.",
+  "item.tconstruct.sword.description": "The Меч is a universal weapon. Sweep attacks keep enemy hordes at bay.\nAlso good against cobwebs!",
+  "item.tconstruct.cleaver.description": "The Великий тесак is a weapon for a smeltery master. High range attacks keep cut through the toughest of foes.",
 
-  "item.tconstruct.crossbow.description": "The Crossbow is a light ranged weapon, capable of quickly firing arrows and fireworks.",
-  "item.tconstruct.longbow.description": "The Longbow is a broad ranged weapon, capable of firing arrows with precision over long distances.",
+  "item.tconstruct.crossbow.description": "The Арбалет is a light ranged weapon, capable of quickly firing arrows and fireworks.",
+  "item.tconstruct.longbow.description": "The Великий лук is a broad ranged weapon, capable of firing arrows with precision over long distances.",
 
-  "gui.tconstruct.plate_armor": "Plate Armor",
-  "gui.tconstruct.plate_armor.description": "Plate armor is a highly defensive armor set with limited ability slots.",
+  "gui.tconstruct.plate_armor": "Обшиті обладунки",
+  "gui.tconstruct.plate_armor.description": "Обшиті обладунки is a highly defensive armor set with limited ability slots.",
 
   "_comment": "Smeltery shared",
 
@@ -2021,7 +2021,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.trick_quiver.disabled": "Trick Quiver: Disabled",
   "modifier.tconstruct.trick_quiver.empty": "Trick Quiver: No arrows in slot %s, using standard arrows",
   "modifier.tconstruct.trick_quiver.selected": "Trick Quiver: Selected %s from slot %s",
-  "modifier.tconstruct.crystalshot": "Crystalshot",
+  "modifier.tconstruct.crystalshot": "Кристалостріл",
   "modifier.tconstruct.crystalshot.flavor": "Holding arrows is overrated",
   "modifier.tconstruct.crystalshot.description": "In place of arrows, fires shards of crystal grown from the bow itself. Growing crystals consumes extra durability",
   "modifier.tconstruct.crystalshot.amethyst": "Аметист",
@@ -2058,12 +2058,12 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.embellishment": "Embellishment",
   "modifier.tconstruct.embellishment.formatted": "%s Embellishment",
   "modifier.tconstruct.embellishment.flavor": "Redecorate!",
-  "modifier.tconstruct.embellishment.description": "Armor appearance changed to match a different material",
+  "modifier.tconstruct.embellishment.description": "Обладунки appearance changed to match a different material",
   "modifier.tconstruct.dyed": "Dyed",
   "modifier.tconstruct.dyed.formatted": "Dyed #%s",
   "modifier.tconstruct.dyed.flavor": "Redecorate!",
-  "modifier.tconstruct.dyed.description": "Armor appearance changed to match a different material",
-  "modifier.tconstruct.trim": "Armor Trim",
+  "modifier.tconstruct.dyed.description": "Обладунки appearance changed to match a different material",
+  "modifier.tconstruct.trim": "Обладунки Trim",
   "modifier.tconstruct.trim.formatted": "%s (%s)",
   "modifier.tconstruct.trim.flavor": "Complex detailing!",
   "modifier.tconstruct.trim.description": "Additional armor detailing using expensive patterns",
@@ -2324,7 +2324,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.warping.description": "Charge up, aim at a wall, and warp to the other side!",
 
   "_comment": "Fluids",
-  "modifier.tconstruct.melting": "Melting",
+  "modifier.tconstruct.melting": "Плавка",
   "modifier.tconstruct.melting.flavor": "The power of a Melter on a stick!",
   "modifier.tconstruct.melting.description": "Melts attacked entities and items dropped!",
   "modifier.tconstruct.tank": "Tank",
@@ -2455,7 +2455,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.dwarven.velocity": "Depth Velocity",
   "modifier.tconstruct.depth_protection": "Depth Protection",
   "modifier.tconstruct.depth_protection.flavor": "Dwarven armor!",
-  "modifier.tconstruct.depth_protection.description": "Armor has more protection the deeper you mine, but loses effectiveness if you go too high",
+  "modifier.tconstruct.depth_protection.description": "Обладунки has more protection the deeper you mine, but loses effectiveness if you go too high",
   "modifier.tconstruct.depth_protection.resistance": "Depth Resistance",
   "modifier.tconstruct.overgrowth": "Overgrowth",
   "modifier.tconstruct.overgrowth.flavor": "Fungal!",
@@ -2567,7 +2567,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "modifier.tconstruct.stoneshield.description": "Mined stone has a chance to protect the tool from future damage",
   "modifier.tconstruct.featherweight": "Featherweight",
   "modifier.tconstruct.featherweight.flavor": "Light as a feather",
-  "modifier.tconstruct.featherweight.description": "Tool is so easy to use, it has higher drawspeed and accuracy. Armor makes it easier to use bows and shields but is not highly defensive",
+  "modifier.tconstruct.featherweight.description": "Tool is so easy to use, it has higher drawspeed and accuracy. Обладунки makes it easier to use bows and shields but is not highly defensive",
   "modifier.tconstruct.featherweight.resistance": "Resistance",
   "modifier.tconstruct.holy": "Holy",
   "modifier.tconstruct.holy.flavor": "Die, Fowl Creature!",
@@ -2765,16 +2765,16 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconstruct.attack_damage.description": "Base value for melee attack damage calculations.\nThe end result depends on the tool itself and the other components used.",
 
   "stat.tconstruct.plating": "Обшивка",
-  "stat.tconstruct.plating_armor": "Обшивка броні",
+  "stat.tconstruct.plating_armor": "Обшивка обладунків",
   "stat.tconstruct.plating_helmet": "Обшивка шолома",
   "stat.tconstruct.plating_chestplate": "Обшивка нагрудника",
   "stat.tconstruct.plating_boots": "Обшивка чоботів",
   "stat.tconstruct.plating_shield": "Shield Обшивка",
   "stat.tconstruct.shield_core": "Основа щита",
-  "stat.tconstruct.maille": "Основа броні",
-  "tool_stat.tconstruct.armor": "Armor: ",
+  "stat.tconstruct.maille": "Основа обладунків",
+  "tool_stat.tconstruct.armor": "Обладунки: ",
   "tool_stat.tconstruct.armor.description": "How much this protects you when worn.",
-  "tool_stat.tconstruct.armor_toughness": "Armor Toughness: ",
+  "tool_stat.tconstruct.armor_toughness": "Обладунки Toughness: ",
   "tool_stat.tconstruct.armor_toughness.description": "How much this armor resists high damage blows.",
   "tool_stat.tconstruct.knockback_resistance": "Knockback Resist: ",
   "tool_stat.tconstruct.knockback_resistance.description": "How much this armor reduces knockback.",
@@ -2812,7 +2812,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "tool_stat.tconstruct.tank_capacity.fluid": "Fluid: ",
 
   "stat.tconstruct.repair_kit": "Ремонтний набір",
-  "stat.tconstruct.skull": "Slimeskull",
+  "stat.tconstruct.skull": "Слизереп",
 
   "stat.tconstruct.harvest_tier.minecraft.wood": "Wood",
   "stat.tconstruct.harvest_tier.minecraft.gold": "Gold",
@@ -2986,7 +2986,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "subtitles.tconstruct.enderporting": "Entity enderports",
   "subtitles.tconstruct.throw.throwball": "Throwball flies",
   "subtitles.tconstruct.throw.shuriken": "шюрикен flies",
-  "subtitles.tconstruct.longbow.charge": "Longbow pulls back",
+  "subtitles.tconstruct.longbow.charge": "Великий лук pulls back",
   "subtitles.tconstruct.crystalshot": "Arrow hits",
   "subtitles.tconstruct.bonk": "Tool bonks",
 
@@ -2998,7 +2998,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "subtitles.tconstruct.equip.slime": "Slimy armor jiggles",
   "subtitles.tconstruct.equip.travelers": "Travelers armor rustles",
-  "subtitles.tconstruct.equip.plate": "Plate armor clanks",
+  "subtitles.tconstruct.equip.plate": "Обшиті обладунки бряжчать",
 
   "subtitles.tconstruct.block.earth_crystal.chime": "Earth кристал Chimes",
   "subtitles.tconstruct.block.sky_crystal.chime":   "Sky кристал Chimes",
@@ -3094,15 +3094,15 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "jei.tconstruct.molding.title": "Molding",
   "jei.tconstruct.molding.pattern_consumed": "Шаблон is consumed on crafting",
 
-  "jei.tconstruct.melting.title": "Melting",
+  "jei.tconstruct.melting.title": "Плавка",
   "jei.tconstruct.melting.multiplier": "Speed multiplier: %sx",
   "jei.tconstruct.melting.ore": "Recipe output is boosted based on the controller type",
-  "jei.tconstruct.melting.time": "Melting time: %s s",
+  "jei.tconstruct.melting.time": "Плавка time: %s s",
   "jei.tconstruct.melting.smeltery": "In smeltery:",
   "jei.tconstruct.melting.melter": "In melter:",
   "jei.tconstruct.foundry.title": "Foundry",
 
-  "jei.tconstruct.entity_melting.title": "Entity Melting",
+  "jei.tconstruct.entity_melting.title": "Entity Плавка",
   "jei.tconstruct.entity_melting.per_hearts": "Per %s Hearts Damage",
   "jei.tconstruct.entity_melting.per_heart": "Per 1.0 Heart Damage",
 
@@ -3191,7 +3191,7 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "advancements.tconstruct.foundry.structure.description": "Craft a founry controller from alloyed obsidian, build a foundry, and open the foundry UI",
   "advancements.tconstruct.foundry.blaze.title": "Пломенева кров",
   "advancements.tconstruct.foundry.blaze.description": "Fill a tank with blazing blood",
-  "advancements.tconstruct.foundry.plate_armor.title": "Plate Armor",
+  "advancements.tconstruct.foundry.plate_armor.title": "Обшиті обладунки",
   "advancements.tconstruct.foundry.plate_armor.description": "Create a full set of plate armor",
   "advancements.tconstruct.foundry.manyullyn_lanterns.title": "Rich Lighting",
   "advancements.tconstruct.foundry.manyullyn_lanterns.description": "Create a full stack of seared or scorched lanterns filled with molten manyullyn",
@@ -3269,7 +3269,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/defense/special/
   ],
   "effects": [
     "Piglins will not attack you",
-    "Armor can be repaired with gold",
+    "Обладунки can be repaired with gold",
     "Single level",
     "Requires 1 defense slot",
     "Does not work on plate armor"
@@ -3779,9 +3779,9 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/abilities/ranged
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/abilities/armor.json
 ```
 {
-  "title": "Armor Abilities",
+  "title": "Обладунки Abilities",
   "text": [
-    { "text": "Armor abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
+    { "text": "Обладунки abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
     { "text": "• Helmets can be controlled using a keybinding for special effects.", "paragraph": true },
     { "text": "\n• Chestplates can receive interaction abilities that are used when hands are empty. Most are covered in the interaction section." },
     { "text": "\n• Leggings have inventory based abilities and passive boosts to the player." },
@@ -4771,18 +4771,18 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/abilities/intera
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/language.lang
 ```
 intro=Introduction
-entity_melting=Entity Melting
+entity_melting=Entity Плавка
 melee_harvest_materials=Tier 3 Melee Harvest Materials
 melee_harvest_materials.subtext=These materials can be created with alloying then casted into tool parts for melee weapons or harvest tools.
 ranged_materials=Tier 3 Ranged Materials
 ranged_materials.subtext=These materials can be created with alloying then casted into tool parts for ranged weapons like bows.
-armor_materials=Tier 3 Armor Materials
+armor_materials=Tier 3 Обладунки Materials
 armor_materials.subtext=These materials can be casted into armor and shields.
 
 tools=Broad Tools
 tools.subtext=Broad tools all require the use of a tinker's anvil to create
 
-armor=Mighty Armor
+armor=Mighty Обладунки
 armor.subtext=Alloys unlock a wider range of materials for armor creation. These may grant additional abilities beyond basic sets like travelers gear.
 
 smeltery=Smeltery
@@ -4794,7 +4794,7 @@ abilities.group_harvest=Harvest
 abilities.group_melee=Melee
 abilities.group_ranged=Ranged
 abilities.group_interact=Interaction
-abilities.group_armor=Armor
+abilities.group_armor=Обладунки
 abilities.group_armor.helmet=Helmet
 abilities.group_armor.chestplate=Chestplate
 abilities.group_armor.leggings=Leggings
@@ -4814,7 +4814,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:broad_axe",
   "text": [
     {
-      "text": "The Broad Axe is a high efficiency tree chopping tool. Able to destroy trees in one fell swoop. "
+      "text": "The Широка сокира is a high efficiency tree chopping tool. Able to destroy trees in one fell swoop. "
     },
     {
       "text": "\n"
@@ -4837,7 +4837,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:excavator",
   "text": [
     {
-      "text": "The Excavator is a broad digging tool. It harvests soil and snow in a wide range."
+      "text": "The Грабарка is a broad digging tool. It harvests soil and snow in a wide range."
     },
     {
       "text": "\n"
@@ -4885,7 +4885,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:scythe",
   "text": [
     {
-      "text": "The Scythe is an adventurers broadest friend. Prefer venturing through the thick jungles, delving into the deep spider infested caves, or just harvesting your crops? The scythe will always have your back for hacking through foliage. "
+      "text": "The Коса is an adventurers broadest friend. Prefer venturing through the thick jungles, delving into the deep spider infested caves, or just harvesting your crops? The scythe will always have your back for hacking through foliage. "
     }
   ],
   "properties": [
@@ -4903,7 +4903,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:cleaver",
   "text": [
     {
-      "text": "The Cleaver is a high damage, slow swinging weapon."
+      "text": "The Великий тесак is a high damage, slow swinging weapon."
     },
     {
       "text": "\n"
@@ -4927,7 +4927,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:sledge_hammer",
   "text": [
     {
-      "text": "The Sledge Hammer is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
+      "text": "The Кувалда is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
     },
     {
       "text": "\n"
@@ -5019,7 +5019,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/intro/tinkers_an
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/entitymelting/entitymelting.json
 ```
 {
-  "title":"Entity Melting",
+  "title":"Entity Плавка",
   "text": [
     {
       "text": "Entity melting is as simple as getting the entity inside your smeltery. The only requirement is that the smeltery has fuel."
@@ -5052,7 +5052,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/entitymelting/no
 src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/entitymelting/intro.json
 ```
 {
-  "title": "Entity Melting",
+  "title": "Entity Плавка",
   "image": {
     "file": "tconstruct:book/images/entitymelting.png"
   },
@@ -5312,9 +5312,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/abilities/ranged.js
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/abilities/armor.json
 ```
 {
-  "title": "Armor Abilities",
+  "title": "Обладунки Abilities",
   "text": [
-    { "text": "Armor abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
+    { "text": "Обладунки abilities are typically effective on a single type of armor. Each type of armor has a different special attribute:" },
     { "text": "• Helmets can be controlled using a keybinding for special effects.", "paragraph": true },
     { "text": "\n• Chestplates can receive interaction abilities that are used when hands are empty. Most are covered in the interaction section." },
     { "text": "\n• Leggings have inventory based abilities and passive boosts to the player." },
@@ -6325,20 +6325,20 @@ tools=Tools
 tools.group_small=Small Tools
 tools.group_large=Broad Tools
 tools.group_ancient=Ancient Tools
-tools.group_staff=Staffs
+tools.group_staff=Посохи
 tools.tconstruct.earth_staff=Слиз
 tools.tconstruct.sky_staff=Слиз неба
 tools.tconstruct.ichor_staff=Іхор
 tools.tconstruct.ender_staff=Слиз Енду
-armor=Armor
+armor=Обладунки
 
 materials_harvest=Melee Harvest Materials
 materials_harvest.subtext=Materials used for creating melee weapons or harvest tools.
 materials_ranged=Ranged Materials
 materials_ranged.subtext=Materials used for creating ranged weapons.
-materials_armor=Armor Materials
+materials_armor=Матеріали обладунків
 materials_armor.subtext=Materials used for creating armor and shields.
-materials_skull=Slimeskulls
+materials_skull=Слизерепи
 materials_skull.subtext=This section describes the effects of all types of skulls in creating a slimeskull
 
 upgrades=Покращення
@@ -6348,7 +6348,7 @@ upgrades.group_harvest=Harvest
 upgrades.group_weapon=Melee
 upgrades.group_ranged=Ranged
 upgrades.group_damage=Damage Boost
-upgrades.group_armor=Armor
+upgrades.group_armor=Обладунки
 upgrades.group_armor.helmet=Helmet
 upgrades.group_armor.chestplate=Chestplate
 upgrades.group_armor.leggings=Leggings
@@ -6375,7 +6375,7 @@ abilities.group_harvest=Harvest
 abilities.group_melee=Melee
 abilities.group_ranged=Ranged
 abilities.group_interact=Interaction
-abilities.group_armor=Armor
+abilities.group_armor=Обладунки
 abilities.group_armor.helmet=Helmet
 abilities.group_armor.chestplate=Chestplate
 abilities.group_armor.leggings=Leggings
@@ -6430,7 +6430,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
 {
   "tool": "tconstruct:swasher",
   "text": [
-    { "text": "The swasher is a combination of a melee weapon and a handheld fluid pistol. It is often found in buried treasure and shipwrecks, the hands of drowned, and sometimes caught when fishing." }
+    { "text": "The водобій is a combination of a melee weapon and a handheld fluid pistol. It is often found in buried treasure and shipwrecks, the hands of drowned, and sometimes caught when fishing." }
   ],
   "properties": [
     "+0 Attack Damage",
@@ -6474,7 +6474,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/ancient/tcons
     "6 Mining Speed",
     "Stone Harvest Tier",
     "10% Knockback Resistance",
-    "Melting+",
+    "Плавка+",
     "1 ячейка захисту",
     "1 ячейка покращення",
     "2 ячейки здібності"
@@ -6487,7 +6487,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:broad_axe",
   "text": [
-    { "text": "The Broad Axe can mine a single column of a tree, or 6 blocks in a vertical column." },
+    { "text": "The Широка сокира can mine a single column of a tree, or 6 blocks in a vertical column." },
     { "text": "Expanders alternate between increasing width and depth.", "paragraph": true }
   ],
   "properties": [
@@ -6506,7 +6506,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:excavator",
   "text": [
-    { "text": "The Excavator is a broad digging tool, effective on dirt, gravel, and sand in a 3x3 range." },
+    { "text": "The Грабарка is a broad digging tool, effective on dirt, gravel, and sand in a 3x3 range." },
     { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
   ],
   "properties": [
@@ -6526,7 +6526,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:longbow",
   "text": [
-    { "text": "The Longbow is a broad ranged weapon that fires arrows. Arrows are launched immediately after releasing the longbow." },
+    { "text": "The Великий лук is a broad ranged weapon that fires arrows. Arrows are launched immediately after releasing the longbow." },
     { "text": "When using interaction modifiers, the longbow acts on left click.", "paragraph": true }
   ],
   "properties": [
@@ -6545,7 +6545,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:scythe",
   "text": [
-    { "text": "The Scythe is a broad reaping tool, effective on plants or monsters in a 3x3x3 range." },
+    { "text": "The Коса is a broad reaping tool, effective on plants or monsters in a 3x3x3 range." },
     { "text": "Expanders alternate between increasing width/height and depth, while silky grants AOE shearing.", "paragraph": true }
   ],
   "properties": [
@@ -6565,7 +6565,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:cleaver",
   "text": [
-    { "text": "The Cleaver is a high damage, slow speed weapon." },
+    { "text": "The Великий тесак is a high damage, slow speed weapon." },
     { "text": "Expanders increase the area of the sweep attack, and silky grants AOE shearing.", "paragraph": true }
   ],
   "properties": [
@@ -6583,7 +6583,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:sledge_hammer",
   "text": [
-    { "text": "The Sledge Hammer is a broad mining tool, effective on stone in a 3x3 range." },
+    { "text": "The Кувалда is a broad mining tool, effective on stone in a 3x3 range." },
     { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
   ],
   "properties": [
@@ -6602,7 +6602,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:vein_hammer",
   "text": [
-    { "text": "The Vein Hammer mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
+    { "text": "The Жильна кувалда mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
     { "text": "Each expander increases the max distance of a block by 1.", "paragraph": true }
   ],
   "properties": [
@@ -6619,10 +6619,10 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/staff.json
 ```
 {
-  "title": "Staffs",
+  "title": "Посохи",
   "text": [
-    { "text": "Staffs are highly modifiable tools. While they lack any melee potential the make up for it the wide range of abilities they can use on both interaction and attacking. They notably grant 40% movement speed when using and allow blocking up to 15 damage with blocking." },
-    { "text": "Staffs abilities can be configured using the modifier worktable.", "paragraph": true }
+    { "text": "Посохи це дуже змінні інструменти. Хоча для ближнього бою вони не дуже годяться, зате мають широкий спектр здібностей для взаємодії та атаки. Зокрема прискорення на 40% при використанні та блокування до 15 одиниць шкоди при блоці." },
+    { "text": "Здібності посохів можна налаштовувати на майстерні змін.", "paragraph": true }
   ]
 }
 ```
@@ -6632,7 +6632,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:pickadze",
   "text": [
-    { "text": "The Pickadze is a multipurpose stone and dirt mining tool, effective on a variety of blocks but unable to use harvest levels." },
+    { "text": "The Каєсло is a multipurpose stone and dirt mining tool, effective on a variety of blocks but unable to use harvest levels." },
     { "text": "Expanders increase the height mined, allowing for effective staircases.", "paragraph": true }
   ],
   "properties": [
@@ -6652,7 +6652,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:flint_and_brick",
   "text": [
-    { "text": "Flint and Brick is a handheld tool starting with firestarter." },
+    { "text": "Кресиво is a handheld tool starting with firestarter." },
     { "text": "Expanded increases the radius of fire, which is further increased by fireprimer.", "paragraph": true }
   ],
   "properties": [
@@ -6670,7 +6670,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:dagger",
   "text": [
-    { "text": "The Dagger is a quick precise weapon, usable in both hands. Identical daggers can be stacked to 2 when modifying they are undamaged, providing a discount on modifiers." },
+    { "text": "The Кинджал is a quick precise weapon, usable in both hands. Identical daggers can be stacked to 2 when modifying they are undamaged, providing a discount on modifiers." },
     { "text": "Шовковистий grants shearing.", "paragraph": true }
   ],
   "properties": [
@@ -6689,7 +6689,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:crossbow",
   "text": [
-    { "text": "The Crossbow is a quick ranged weapon, capable of firing both arrows and fireworks. Arrows can be loaded into the bow then fired at a later time." },
+    { "text": "The Арбалет is a quick ranged weapon, capable of firing both arrows and fireworks. Arrows can be loaded into the bow then fired at a later time." },
     { "text": "When using interaction modifiers, the crossbow acts on left click.", "paragraph": true }
   ],
   "properties": [
@@ -6707,7 +6707,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:mattock",
   "text": [
-    { "text": "The Mattock is a farming tool, effective on logs, dirt, gravel, and sand. It is also faster on wood." },
+    { "text": "The Сокирянка is a farming tool, effective on logs, dirt, gravel, and sand. It is also faster on wood." },
     { "text": "Expanders cause adjacent blocks of the same type to also be mined, with range based on the number of expanders.", "paragraph": true }
   ],
   "properties": [
@@ -6726,7 +6726,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:kama",
   "text": [
-    { "text": "The Kama is a precision reaping tool, effective on plants, webs, and wool." },
+    { "text": "The Сапа-стригачка is a precision reaping tool, effective on plants, webs, and wool." },
     { "text": "Expanders increase the circular radius of the tool.", "paragraph": true }
   ],
   "properties": [
@@ -6762,7 +6762,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:sword",
   "text": [
-    { "text": "The Sword is an all around weapon, granting medium speed and attack." },
+    { "text": "The Меч is an all around weapon, granting medium speed and attack." },
     { "text": "Expanders on a sword increase the area of the sweep attack, while Шовковистий grants shearing.", "paragraph": true }
   ],
   "properties": [
@@ -6779,7 +6779,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/small/tconstr
 {
   "tool": "tconstruct:hand_axe",
   "text": [
-    { "text": "The Hand Axe is a precision chopping tool, effective on wood, plants, and leaves." },
+    { "text": "The Сокира is a precision chopping tool, effective on wood, plants, and leaves." },
     { "text": "Expanders increase the circular radius of the axe.", "paragraph": true }
   ],
   "properties": [
@@ -7239,7 +7239,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
 {
   "tool": "tconstruct:plate_chestplate",
   "text": [
-    { "text": "Plate Chestplate is a defensive chestplate, with high protection, and low ability slots and high defense slots." }
+    { "text": "Обшитий нагрудник is a defensive chestplate, with high protection, and low ability slots and high defense slots." }
   ],
   "properties": [
     "Material controlled stats",
@@ -7256,7 +7256,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
 {
   "tool": "tconstruct:slime_chestplate",
   "text": [
-    { "text": "The slimelytra is the latest in flight technology." },
+    { "text": "The Слизитри is the latest in flight technology." },
     { "text": "Created by pouring enderslime on an elytra, these wings can also be repaired with phantom membranes.", "paragraph": true }
   ],
   "properties": [
@@ -7275,7 +7275,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
 {
   "tool": "tconstruct:slime_leggings",
   "text": [
-    { "text": "The slimeshell harnesses the power of the shulker, increasing inventory and defense." },
+    { "text": "The Слизанцир harnesses the power of the shulker, increasing inventory and defense." },
     { "text": "They are created by pouring enderslime on a shulker shell, and repaired with popped chorus.", "paragraph": true }
   ],
   "properties": [
@@ -7312,7 +7312,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
 {
   "tool": "tconstruct:plate_boots",
   "text": [
-    { "text": "Plate Boots are defensive boots, with high protection, and low ability slots and high defense slots." }
+    { "text": "Обшиті чоботи are defensive boots, with high protection, and low ability slots and high defense slots." }
   ],
   "properties": [
     "Material controlled stats",
@@ -7347,7 +7347,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
 {
   "tool": "tconstruct:plate_helmet",
   "text": [
-    { "text": "Plate Helmet is a defensive helmet, with high protection, and low ability slots and high defense slots." }
+    { "text": "Обшитий шолом is a defensive helmet, with high protection, and low ability slots and high defense slots." }
   ],
   "properties": [
     "Material controlled stats",
@@ -7363,7 +7363,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
 {
   "tool": "tconstruct:travelers_helmet",
   "text": [
-    { "text": "Traveler's Goggles are a balanced helmet, with low protection, and average upgrade and defense slots." }
+    { "text": "Окуляри мандрівника are a balanced helmet, with low protection, and average upgrade and defense slots." }
   ],
   "properties": [
     "110 Durability",
@@ -7382,7 +7382,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
 {
   "tool": "tconstruct:travelers_chestplate",
   "text": [
-    { "text": "Traveler's Vest is a balanced chestplate, with medium protection, and average upgrade and defense slots." }
+    { "text": "Туніка мандрівника is a balanced chestplate, with medium protection, and average upgrade and defense slots." }
   ],
   "properties": [
     "160 Durability",
@@ -7402,7 +7402,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
 {
   "tool": "tconstruct:travelers_shield",
   "text": [
-    { "text": "Traveler's Shield is a lightweight shield with limited blocking potential but quick movement while blocking." }
+    { "text": "Щит мандрівника is a lightweight shield with limited blocking potential but quick movement while blocking." }
   ],
   "properties": [
     "200 Durability",
@@ -7422,7 +7422,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
 {
   "tool": "tconstruct:travelers_boots",
   "text": [
-    { "text": "Traveler's Boots are balanced boots, with low protection, and average upgrade and defense slots." }
+    { "text": "Чоботи мандрівника are balanced boots, with low protection, and average upgrade and defense slots." }
   ],
   "properties": [
     "130 Durability",
@@ -7457,10 +7457,10 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_sl
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/info.json
 ```
 {
-  "title": "Armor Information",
+  "title": "Обладунки Information",
   "text": [
-    { "text": "Armor can be created in a variety of forms. Some armor is created in te crafting station, some in the tinker station, and some is made by casting." },
-    { "text": "Armor have varying number of upgrade, defense, and ability slots based on the type; some types even have material traits.", "paragraph": true },
+    { "text": "Обладунки can be created in a variety of forms. Some armor is created in te crafting station, some in the tinker station, and some is made by casting." },
+    { "text": "Обладунки have varying number of upgrade, defense, and ability slots based on the type; some types even have material traits.", "paragraph": true },
     { "text": "Unlike tools, holding the armor typically provides no effect; most modifiers require wearing the armor to be applicable.", "paragraph": true }
   ]
 }
@@ -7471,7 +7471,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_pl
 {
   "tool": "tconstruct:plate_leggings",
   "text": [
-    { "text": "Plate Leggings are defensive leggings, with high protection, and low ability slots and high defense slots." }
+    { "text": "Обшиті наголінники are defensive leggings, with high protection, and low ability slots and high defense slots." }
   ],
   "properties": [
     "Material controlled stats",
@@ -7487,7 +7487,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/armor/tconstruct_tr
 {
   "tool": "tconstruct:travelers_leggings",
   "text": [
-    { "text": "Traveler's Pants are a balanced set of leggings, with medium protection, and average upgrade and defense slots." }
+    { "text": "Штани мандрівника are a balanced set of leggings, with medium protection, and average upgrade and defense slots." }
   ],
   "properties": [
     "150 Durability",
@@ -7667,9 +7667,9 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/ranged.jso
 src/main/resources/assets/tconstruct/book/encyclopedia/en_us/upgrades/armor.json
 ```
 {
-  "title": "Armor Покращення",
+  "title": "Обладунки Покращення",
   "text": [
-    { "text": "Armor upgrades are typically effective on a single type of armor or are designed to run on counter attack. If applicable on multiple pieces, the effects typically interact in some way." },
+    { "text": "Обладунки upgrades are typically effective on a single type of armor or are designed to run on counter attack. If applicable on multiple pieces, the effects typically interact in some way." },
     { "text": "Shield counterattack modifiers only work while blocking, but are otherwise twice as effective. Other shield modifiers work passively.", "paragraph": true }
   ]
 }
@@ -8840,12 +8840,12 @@ melee_harvest_materials=Tier 2 Melee Harvest Materials
 melee_harvest_materials.subtext=These materials can be casted into tool parts for melee weapons or harvest tools.
 ranged_materials=Tier 2 Ranged Materials
 ranged_materials.subtext=These materials can be casted into tool parts for ranged weapons like bows.
-armor_materials=Tier 2 Armor Materials
+armor_materials=Tier 2 Обладунки Materials
 armor_materials.subtext=These materials can be casted into armor and shields.
 
 further_reading=Further Reading
 
-armor=Puny Armor
+armor=Puny Обладунки
 armor.subtext=Choose your path with your armor; travelers gives you highly modifiable armor with more room for abilities, while plate gives you more opportunities for defense. If you have no fashion sense you can mix both.
 
 upgrades=Покращення
@@ -8854,7 +8854,7 @@ upgrades.group_general=General
 upgrades.group_harvest=Harvest
 upgrades.group_melee=Melee
 upgrades.group_damage=Bonus Damage
-upgrades.group_armor=Armor
+upgrades.group_armor=Обладунки
 upgrades.group_armor.helmet=Helmet
 upgrades.group_armor.chestplate=Chestplate
 upgrades.group_armor.leggings=Leggings
@@ -9556,9 +9556,9 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/ranged.js
 src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/armor.json
 ```
 {
-  "title": "Armor Покращення",
+  "title": "Обладунки Покращення",
   "text": [
-    { "text": "Armor upgrades provide ways to modify your jump, speed, and other such factors on armor and shields." }
+    { "text": "Обладунки upgrades provide ways to modify your jump, speed, and other such factors on armor and shields." }
   ]
 }
 ```
@@ -9876,7 +9876,7 @@ src/main/resources/assets/tconstruct/book/puny_smelting/en_us/upgrades/ranged/tc
     }
   ],
   "effects": [
-    "Crossbows in main hand will fire with attack button, and will not reload when sneaking",
+    "Арбалетs in main hand will fire with attack button, and will not reload when sneaking",
 	"Allows dual wielding crossbows, or using with a shield",
 	"Single level",
 	"Requires 1 upgrade slot"
@@ -10927,7 +10927,7 @@ src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/
 src/main/resources/assets/tconstruct/book/fantastic_foundry/en_us/blazing_blood/head.json
 ```
 {
-  "title": "Наконечник Melting",
+  "title": "Наконечник Плавка",
   "item": "tconstruct:blaze_head",
   "text": [
     {
@@ -10948,14 +10948,14 @@ foundry=Foundry
 
 blazing_blood=Пломенева кров
 
-armor=Fantastic Armor
+armor=Fantastic Обладунки
 armor.subtext=Using Nether resources grants access to create higher tiers of armor. For instance, the mighty plate armor boasts a high defense, but less modifiability. Who needs extra features when you can be protected?
 
 melee_harvest_materials=Tier 4 Melee Harvest Materials
 melee_harvest_materials.subtext=These materials require blazing blood to create, and can be used to create tool parts for melee weapons or harvest tools.
 ranged_materials=Tier 4 Ranged Materials
 ranged_materials.subtext=These materials require blazing blood to create, and can be used to create tool parts for ranged weapons like bows.
-armor_materials=Tier 4 Armor Materials
+armor_materials=Tier 4 Обладунки Materials
 armor_materials.subtext=These materials can be casted into armor and shields.
 ```
 
@@ -11499,7 +11499,7 @@ ranged_materials.subtext=These materials can be placed in the part builder to cr
 
 tools=Tools
 
-armor=Basic Armor
+armor=Basic Обладунки
 armor.subtext=Basic armor allows basic protection without needing to hunt for resources or build any machinery. This will grant limited defense, but there are still many opportunities to upgrade your suit of armor! Oh what fun things will you create?
 
 modifiers=Зміни
@@ -11612,7 +11612,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/tconstru
   "tool": "tconstruct:flint_and_brick",
   "text": [
     {
-      "text": "Flint and Brick is an affordable tool effective for starting fires."
+      "text": "Кресиво is an affordable tool effective for starting fires."
     },
     {
       "text": "\n"
@@ -11682,7 +11682,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/tconstru
   "tool": "tconstruct:mattock",
   "text": [
     {
-      "text": "The Mattock is a versatile tool. It is effective on logs and dirt."
+      "text": "The Сокирянка is a versatile tool. It is effective on logs and dirt."
     },
     {
       "text": "\n"
@@ -11704,7 +11704,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/tconstru
   "tool": "tconstruct:kama",
   "text": [
     {
-      "text": "The Kama is a precision reaping tool, fantastic at mowing down plants and shearing animals."
+      "text": "The Сапа-стригачка is a precision reaping tool, fantastic at mowing down plants and shearing animals."
     }
   ],
   "properties": [
@@ -11771,7 +11771,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/recyclin
   },
   "text": [
     {
-      "text": "If you change your mind about a tool, you can always disassemble it in the part builder to salvage one of the tool parts. You can potentially salvage a second part, with a higher chance on repaired tools. Daggers require stacking to 2 in order to recycle.",
+      "text": "If you change your mind about a tool, you can always disassemble it in the part builder to salvage one of the tool parts. You can potentially salvage a second part, with a higher chance on repaired tools. Кинджалs require stacking to 2 in order to recycle.",
       "paragraph": true
     }
 	]
@@ -11784,7 +11784,7 @@ src/main/resources/assets/tconstruct/book/materials_and_you/en_us/tools/tconstru
   "tool": "tconstruct:hand_axe",
   "text": [
     {
-      "text": "The Hand Axe is a basic chopping tool. It is effective on wood and leaves. It works as a weapon or a tool, or both. The choice is yours."
+      "text": "The Сокира is a basic chopping tool. It is effective on wood and leaves. It works as a weapon or a tool, or both. The choice is yours."
     },
 	 {
       "text": "\n"
@@ -12251,7 +12251,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
 {
   "tool": "tconstruct:swasher",
   "text": [
-    { "text": "The swasher is a combination of a melee weapon and a handheld fluid pistol found in various ocean locations." }
+    { "text": "The водобій is a combination of a melee weapon and a handheld fluid pistol found in various ocean locations." }
   ],
   "properties": [
     "Medium Damage",
@@ -12288,7 +12288,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/ancient/tconstr
   ],
   "properties": [
     "Mines meltable blocks",
-    "Melting+",
+    "Плавка+",
     "1 ячейка захисту",
     "1 ячейка покращення",
     "2 ячейки здібності"
@@ -12675,7 +12675,7 @@ exploration.earthslime_geode=Слиз
 exploration.ichor_geode=Іхор
 exploration.enderslime_geode=Слиз Енду
 
-armor=Slimy Armor
+armor=Slimy Обладунки
 armor.subtext=Mixing slime with various mob parts produces an interesting set of armor. Its not the most defensive, but it can really enhance your abilities.
 
 staffs=Staffs
@@ -12773,7 +12773,7 @@ src/main/resources/assets/tconstruct/book/tinkers_gadgetry/en_us/armor/tconstruc
   "tool": "tconstruct:slime_chestplate",
   "text": [
     { "text": "Tired of walking? Try flying with these futuristic wings!" },
-    { "text": "To create these futuristic wings, you simply need to pour enderslime on an elytra. The slimelytra can later be repaired using phantom membranes.", "paragraph": true }
+    { "text": "To create these futuristic wings, you simply need to pour enderslime on an elytra. The Слизитри can later be repaired using phantom membranes.", "paragraph": true }
   ],
   "properties": [
     "High Durability",
