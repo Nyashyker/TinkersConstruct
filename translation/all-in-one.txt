@@ -804,32 +804,32 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_comment": "Thermal Alloys",
 
-  "block.tconstruct.molten_enderium_fluid": "Розплавлений Enderium",
-  "fluid.tconstruct.molten_enderium": "Розплавлений Enderium",
-  "fluid.tconstruct.flowing_molten_enderium": "Потік розплевленого",
-  "item.tconstruct.molten_enderium_bucket": "Відро розплевленого",
+  "block.tconstruct.molten_enderium_fluid": "Розплавлений ендеріум",
+  "fluid.tconstruct.molten_enderium": "Розплавлений ендеріум",
+  "fluid.tconstruct.flowing_molten_enderium": "Потік розплевленого ендеріуму",
+  "item.tconstruct.molten_enderium_bucket": "Відро розплевленого ендеріуму",
 
-  "block.tconstruct.molten_lumium_fluid": "Розплавлений Lumium",
-  "fluid.tconstruct.molten_lumium": "Розплавлений Lumium",
-  "fluid.tconstruct.flowing_molten_lumium": "Потік розплевленого",
-  "item.tconstruct.molten_lumium_bucket": "Відро розплевленого",
+  "block.tconstruct.molten_lumium_fluid": "Розплавлений люміум",
+  "fluid.tconstruct.molten_lumium": "Розплавлений люміум",
+  "fluid.tconstruct.flowing_molten_lumium": "Потік розплевленого люміуму",
+  "item.tconstruct.molten_lumium_bucket": "Відро розплевленого люміуму",
 
-  "block.tconstruct.molten_signalum_fluid": "Розплавлений Signalum",
-  "fluid.tconstruct.molten_signalum": "Розплавлений Signalum",
-  "fluid.tconstruct.flowing_molten_signalum": "Потік розплевленого",
-  "item.tconstruct.molten_signalum_bucket": "Відро розплевленого",
+  "block.tconstruct.molten_signalum_fluid": "Розплавлений сіґналум",
+  "fluid.tconstruct.molten_signalum": "Розплавлений сіґналум",
+  "fluid.tconstruct.flowing_molten_signalum": "Потік розплевленого сіґналуму",
+  "item.tconstruct.molten_signalum_bucket": "Відро розплевленого сіґналуму",
 
   "_comment": "Mekanism Alloys",
 
-  "block.tconstruct.molten_refined_glowstone_fluid": "Розплавлений Refined Glowstone",
-  "fluid.tconstruct.molten_refined_glowstone": "Розплавлений Refined Glowstone",
-  "fluid.tconstruct.flowing_molten_refined_glowstone": "Потік розплевленого",
-  "item.tconstruct.molten_refined_glowstone_bucket": "Відро розплевленого",
+  "block.tconstruct.molten_refined_glowstone_fluid": "Розплавлений вишуканий світлокамінь",
+  "fluid.tconstruct.molten_refined_glowstone": "Розплавлений вишуканий світлокамінь",
+  "fluid.tconstruct.flowing_molten_refined_glowstone": "Потік розплевленого вишуканого світлокаміну",
+  "item.tconstruct.molten_refined_glowstone_bucket": "Відро розплевленого вишуканого світлокаміну",
 
-  "block.tconstruct.molten_refined_obsidian_fluid": "Розплавлений Refined обсидіан",
-  "fluid.tconstruct.molten_refined_obsidian": "Розплавлений Refined обсидіан",
-  "fluid.tconstruct.flowing_molten_refined_obsidian": "Потік розплевленого",
-  "item.tconstruct.molten_refined_obsidian_bucket": "Відро розплевленого",
+  "block.tconstruct.molten_refined_obsidian_fluid": "Розплавлений вишуканий обсидіан",
+  "fluid.tconstruct.molten_refined_obsidian": "Розплавлений вишуканий обсидіан",
+  "fluid.tconstruct.flowing_molten_refined_obsidian": "Потік розплевленого вишуканого обсидіану",
+  "item.tconstruct.molten_refined_obsidian_bucket": "Відро розплевленого вишуканого обсидіану",
 
 
   "_comment": "Tinkers Gadgets",
