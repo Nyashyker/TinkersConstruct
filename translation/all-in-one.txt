@@ -906,8 +906,8 @@ src/main/resources/assets/tconstruct/lang/en_us.json
   "item.tconstruct.tool.material_separator": "-",
 
   "item.tconstruct.pickaxe": "кайло",
-  "item.tconstruct.sledge_hammer": "кувалда",
-  "item.tconstruct.vein_hammer": "жильна кувалда",
+  "item.tconstruct.sledge_hammer": "молот",
+  "item.tconstruct.vein_hammer": "жильний молот",
 
   "item.tconstruct.mattock": "сокирянка",
   "item.tconstruct.pickadze": "каєсло",
@@ -975,45 +975,45 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "item.tconstruct.dummy_tool_part.tooltip": "Used to create casts, cannot be used to create tools.",
 
-  "item.tconstruct.repair_kit": "Ремонтний набір",
+  "item.tconstruct.repair_kit": "ремонтний набір",
 
-  "item.tconstruct.pick_head": "Наконечник кайла",
-  "item.tconstruct.hammer_head": "Наконечник молота",
+  "item.tconstruct.pick_head": "наконечник кайла",
+  "item.tconstruct.hammer_head": "наконечник молота",
 
-  "item.tconstruct.small_axe_head": "Наконечник сокири",
-  "item.tconstruct.broad_axe_head": "Наконечник широкої сокири",
+  "item.tconstruct.small_axe_head": "наконечник сокири",
+  "item.tconstruct.broad_axe_head": "наконечник широкої сокири",
 
-  "item.tconstruct.small_blade": "Лезо",
-  "item.tconstruct.broad_blade": "Широке лезо",
+  "item.tconstruct.small_blade": "лезо",
+  "item.tconstruct.broad_blade": "широке лезо",
 
-  "item.tconstruct.tool_handle": "Держак",
-  "item.tconstruct.tough_handle": "Товстий держак",
-  "item.tconstruct.tool_binding": "Кріплення",
-  "item.tconstruct.tough_binding": "Хомут",
-  "item.tconstruct.adze_head": "Наконечник тесла",
-  "item.tconstruct.large_plate": "Велика пластина",
+  "item.tconstruct.tool_handle": "держак",
+  "item.tconstruct.tough_handle": "товстий держак",
+  "item.tconstruct.tool_binding": "кріплення",
+  "item.tconstruct.tough_binding": "хомут",
+  "item.tconstruct.adze_head": "наконечник тесла",
+  "item.tconstruct.large_plate": "велика пластина",
   
-  "item.tconstruct.bow_limb": "Плече лука",
-  "item.tconstruct.bow_grip": "Руків'я арбалета",
-  "item.tconstruct.bowstring": "Тятива",
+  "item.tconstruct.bow_limb": "плече лука",
+  "item.tconstruct.bow_grip": "руків'я арбалета",
+  "item.tconstruct.bowstring": "тятива",
 
-  "item.tconstruct.helmet_plating": "Обшивка шолома",
-  "item.tconstruct.chestplate_plating": "Обшивка нагрудника",
-  "item.tconstruct.leggings_plating": "Обшивка наголінників",
-  "item.tconstruct.boots_plating": "Обшивка чоботів",
-  "item.tconstruct.helmet_plating_dummy": "Stone Обшивка шолома",
-  "item.tconstruct.chestplate_plating_dummy": "Stone Обшивка нагрудника",
-  "item.tconstruct.leggings_plating_dummy": "Stone Обшивка наголінників",
-  "item.tconstruct.boots_plating_dummy": "Stone Обшивка чоботів",
-  "item.tconstruct.maille": "Основа обладунків",
-  "item.tconstruct.shield_core": "Основа щита",
+  "item.tconstruct.helmet_plating": "обшивка шолома",
+  "item.tconstruct.chestplate_plating": "обшивка нагрудника",
+  "item.tconstruct.leggings_plating": "обшивка наголінників",
+  "item.tconstruct.boots_plating": "обшивка чоботів",
+  "item.tconstruct.helmet_plating_dummy": "Кам'яна обшивка шолома",
+  "item.tconstruct.chestplate_plating_dummy": "Кам'яна обшивка нагрудника",
+  "item.tconstruct.leggings_plating_dummy": "Кам'яна обшивка наголінників",
+  "item.tconstruct.boots_plating_dummy": "Кам'яна обшивка чоботів",
+  "item.tconstruct.maille": "основа обладунків",
+  "item.tconstruct.shield_core": "основа щита",
 
 
   "_conment": "Tool Descriptions",
 
   "item.tconstruct.pickaxe.description": "The Pickaxe is a precise mining tool. It is effective on stone and ores.\nIt breaks blocks, OK?",
-  "item.tconstruct.sledge_hammer.description": "The Кувалда is a broad mining tool. It harvests blocks in a wide range.\nAlso effective against undead.",
-  "item.tconstruct.vein_hammer.description": "The Жильна кувалда is a broad mining tool. It harvests many connected blocks of the same type, perfect for ores.",
+  "item.tconstruct.sledge_hammer.description": "The молот is a broad mining tool. It harvests blocks in a wide range.\nAlso effective against undead.",
+  "item.tconstruct.vein_hammer.description": "The жильний молот is a broad mining tool. It harvests many connected blocks of the same type, perfect for ores.",
 
   "item.tconstruct.mattock.description": "The Cutter Сокирянка is a versatile farming tool. It is effective on logs, dirt, sand, gravel, and plants.\nJust don't dig your own grave!",
   "item.tconstruct.pickadze.description": "The Каєсло is a versatile mining tool. It is effective on rock, dirt, sand and gravel, but is not sharp enough to mine tougher stone blocks like many ores.",
@@ -4927,7 +4927,7 @@ src/main/resources/assets/tconstruct/book/mighty_smelting/en_us/tools/tconstruct
   "tool": "tconstruct:sledge_hammer",
   "text": [
     {
-      "text": "The Кувалда is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
+      "text": "The молот is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
     },
     {
       "text": "\n"
@@ -6583,7 +6583,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:sledge_hammer",
   "text": [
-    { "text": "The Кувалда is a broad mining tool, effective on stone in a 3x3 range." },
+    { "text": "The молот is a broad mining tool, effective on stone in a 3x3 range." },
     { "text": "Expanders alternate between increasing width and height.", "paragraph": true }
   ],
   "properties": [
@@ -6602,7 +6602,7 @@ src/main/resources/assets/tconstruct/book/encyclopedia/en_us/tools/broad/tconstr
 {
   "tool": "tconstruct:vein_hammer",
   "text": [
-    { "text": "The Жильна кувалда mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
+    { "text": "The жильний молот mines stone blocks and adjacent blocks of the same type, up to 2 blocks away." },
     { "text": "Each expander increases the max distance of a block by 1.", "paragraph": true }
   ],
   "properties": [
