@@ -1011,29 +1011,29 @@ src/main/resources/assets/tconstruct/lang/en_us.json
 
   "_conment": "Tool Descriptions",
 
-  "item.tconstruct.pickaxe.description": "The Pickaxe is a precise mining tool. It is effective on stone and ores.\nIt breaks blocks, OK?",
-  "item.tconstruct.sledge_hammer.description": "The молот is a broad mining tool. It harvests blocks in a wide range.\nAlso effective against undead.",
-  "item.tconstruct.vein_hammer.description": "The жильний молот is a broad mining tool. It harvests many connected blocks of the same type, perfect for ores.",
+  "item.tconstruct.pickaxe.description": "Кайло це простий інструмент для шахтарства. Воно добре копає камінь та руди.\nЛамає блоки, якно?",
+  "item.tconstruct.sledge_hammer.description": "Молот це габаритний інструмент для шахтарства. Він розкопує широкі тунелі.\nТакож добре огріває немертвих.",
+  "item.tconstruct.vein_hammer.description": "Жильний молот це габаритний інструмент для шахтарства. Він видобуває багато з'єднаних однакових блоків, саме те для руд.",
 
-  "item.tconstruct.mattock.description": "The Cutter Сокирянка is a versatile farming tool. It is effective on logs, dirt, sand, gravel, and plants.\nJust don't dig your own grave!",
-  "item.tconstruct.pickadze.description": "The Каєсло is a versatile mining tool. It is effective on rock, dirt, sand and gravel, but is not sharp enough to mine tougher stone blocks like many ores.",
-  "item.tconstruct.excavator.description": "The Грабарка is a broad digging tool. It digs up large areas of soil and snow in a wide range.\nTerraforming!",
+  "item.tconstruct.mattock.description": "Сокирянка це корисний інструмент для садівництва. Вона добре рубає дрова, дошки та копає ґрунт, пісок, гравій.\nТільки могилу собі не викопай!",
+  "item.tconstruct.pickadze.description": "Каєсло це корисний інструмент для шахтарства. Воно добре копає камінь, ґрунт, пісок і гравій, але не достатньо гостре для твердіших копалин, як от більшість руд.",
+  "item.tconstruct.excavator.description": "Грабарка це габаритний інструмент для розкопок. Вона розкопує широкі ділянки землі та снігу.\nПерелопать світ!",
 
-  "item.tconstruct.hand_axe.description": "The Сокира chops up wood and makes short work of leaves. It also makes for an effective weapon.\nChop chop!",
-  "item.tconstruct.broad_axe.description": "The Широка сокира fells small trees in a single swing, and makes quick work of large trees. It makes for a powerful heavy weapon.\nTimber!",
+  "item.tconstruct.hand_axe.description": "Сокира це простий інструмент для лісорубства. Вона рубає дерева та листя. Також годиться як зброя.\nРуб-руб!",
+  "item.tconstruct.broad_axe.description": "Широка сокира це габаритний інструмент для лісорубства. Вона зрубує дерева одним махом. А також годиться як сильна зброя.\nДеревина!",
 
-  "item.tconstruct.kama.description": "The Сапа-стригачка is a precision reaping tool, mowing down plants and shearing animals.\nRight Click: Harvest and replant crops",
-  "item.tconstruct.scythe.description": "The Коса is a broad reaping tool, mowing down plants in a wide area.\nRight Click: Harvest and replant crops",
+  "item.tconstruct.kama.description": "Сапа-стригачка це корисний інструменд для порання. Вона прополює грядки та стриже худобу.\nПКМ: зібрати й пересадити врожай",
+  "item.tconstruct.scythe.description": "Коса це габаритний інструмент для прополювання. Вона прополює грядки широкими шматками.\nПКМ: зібрати й пересадити врожай",
 
-  "item.tconstruct.dagger.description": "The Кинджал is a light weapon, capable of quick strikes from either hand.",
-  "item.tconstruct.sword.description": "The Меч is a universal weapon. Sweep attacks keep enemy hordes at bay.\nAlso good against cobwebs!",
-  "item.tconstruct.cleaver.description": "The Великий тесак is a weapon for a smeltery master. High range attacks keep cut through the toughest of foes.",
+  "item.tconstruct.dagger.description": "Кинджали це легка зброя ближнього бою. Вони швидко б'ють із обох рук.\nРобляться одразу парою.",
+  "item.tconstruct.sword.description": "Меч це звичайна зброя ближнього бою. Він тримає орди ворогів нищівними атаками на відстані.\nТакож добре збиває павутину!",
+  "item.tconstruct.cleaver.description": "Великий тесак це важка зброя ближнього бою. Він пробиває найстійкіших ворогів своїми помахами.\nДля справждніх майстрів!",
 
-  "item.tconstruct.crossbow.description": "The Арбалет is a light ranged weapon, capable of quickly firing arrows and fireworks.",
-  "item.tconstruct.longbow.description": "The Великий лук is a broad ranged weapon, capable of firing arrows with precision over long distances.",
+  "item.tconstruct.crossbow.description": "Арбалет це важка зброя дальнього бою. Він може швидко випустити стрілу чи ракету у ворога.",
+  "item.tconstruct.longbow.description": "Великий лук це габаритка зброя дальнього бою. Він може точно стріляти на велики відстані стрілами.",
 
   "gui.tconstruct.plate_armor": "Обшиті обладунки",
-  "gui.tconstruct.plate_armor.description": "Обшиті обладунки is a highly defensive armor set with limited ability slots.",
+  "gui.tconstruct.plate_armor.description": "Обшиті обладунки це набір броні. Вони мають обмежені ячейки здібностей.",
 
   "_comment": "Smeltery shared",
 
